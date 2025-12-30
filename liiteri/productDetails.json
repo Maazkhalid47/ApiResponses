@@ -1,0 +1,241 @@
+{
+    "code": "200",
+    "data": {
+        "object": {
+            "id": 3,
+            "name": "Pihapeli",
+            "details": "<p><span style=\"color: #000000; font-family: Arial; font-size: 13px; white-space: pre-wrap; background-color: #ffffff;\">Pihapeli, loistava ajanviete aurinkoiseen p&auml;iv&auml;&auml;n (tai miksei sateiseenkin).<\/span><\/p>",
+            "status": "available",
+            "expiry_date": "2028-12-30",
+            "category_id": 45,
+            "listing_id": 1,
+            "added_by": 3,
+            "product_url": null,
+            "external_url": null,
+            "gift_card": null,
+            "freebie": true,
+            "free_rental": 0,
+            "used": 8,
+            "deleted_at": null,
+            "created_at": "2019-11-20 14:08:01+0000",
+            "updated_at": "2024-08-28 14:08:54+0000",
+            "user_manual": null,
+            "separate": false,
+            "availability_date": null,
+            "quality": "high",
+            "product_type": "general",
+            "name_fi": "Pihapeli",
+            "images-2": [
+                {
+                    "id": 273,
+                    "name": "258m9moscNfVnuRyZRt2sBYjNew3PONV84qHBUSs.jpeg",
+                    "image_url": "https:\/\/s3-eu-west-1.amazonaws.com\/liiteri-web\/production\/store-5\/products\/306",
+                    "show": 1,
+                    "product_id": 306,
+                    "product_group_id": 3,
+                    "product": {
+                        "id": 306,
+                        "name": "Pihapeli",
+                        "details": "<p><span style=\"color: #000000; font-family: Arial; font-size: 13px; white-space: pre-wrap; background-color: #ffffff;\">Pihapeli, loistava ajanviete aurinkoiseen p&auml;iv&auml;&auml;n (tai miksei sateiseenkin).<\/span><\/p>",
+                        "location": null,
+                        "quantity": 1,
+                        "status": "inactive",
+                        "expiry_date": "2020-07-03",
+                        "store_id": 5,
+                        "category_id": 5,
+                        "listing_id": 1,
+                        "added_by": 695,
+                        "created_at": "2018-04-17 15:24:04+0000",
+                        "updated_at": "2024-05-09 10:20:48+0000",
+                        "discount": "0",
+                        "deleted_at": null,
+                        "external_url": null,
+                        "product_url": "pihapeli",
+                        "free_rental": 0,
+                        "shelf_number": "7",
+                        "place": "shelf",
+                        "freebie": false,
+                        "gift_card": null,
+                        "used": 8,
+                        "product_group_id": 3,
+                        "available_quantity": -2,
+                        "sub_locker_name": null,
+                        "product_in_use": null
+                    }
+                }
+            ],
+            "listingName": "Loan",
+            "CategoryName": "muu",
+            "rating": 0,
+            "price_array": {
+                "price_hourly": "1",
+                "price_daily": "1",
+                "price_purchase": null,
+                "currency": "eur",
+                "discount_price_hourly": 0.8,
+                "discount_price_daily": 0.8,
+                "discount_price_purchase": null
+            },
+            "product_serial_numbers": "Pihapeli-0",
+            "tag_names": "sports & leisure",
+            "product_point": null,
+            "sub_locker_name": null,
+            "available_products": false,
+            "api_url": "pihapeli-3",
+            "in_stock": true,
+            "store_names": "Oulunkyl\u00e4,Matinkyl\u00e4",
+            "prices": [
+                {
+                    "id": 1050,
+                    "price": "1",
+                    "currency": "eur",
+                    "listing_price_id": 1,
+                    "product_id": 306,
+                    "product_group_id": 3,
+                    "listing_price_option": {
+                        "id": 1,
+                        "listing_id": 1,
+                        "price_option_id": 1,
+                        "created_at": "2018-01-16 14:41:51+0000",
+                        "updated_at": "2018-01-16 14:41:51+0000",
+                        "price_option": {
+                            "id": 1,
+                            "name": "day",
+                            "added_by": 1,
+                            "created_at": "2018-01-16 14:41:21+0000",
+                            "updated_at": "2018-01-16 14:41:21+0000"
+                        }
+                    }
+                },
+                {
+                    "id": 1051,
+                    "price": "1",
+                    "currency": "eur",
+                    "listing_price_id": 20,
+                    "product_id": 306,
+                    "product_group_id": 3,
+                    "listing_price_option": {
+                        "id": 20,
+                        "listing_id": 1,
+                        "price_option_id": 3,
+                        "created_at": null,
+                        "updated_at": null,
+                        "price_option": {
+                            "id": 3,
+                            "name": "hour",
+                            "added_by": 1,
+                            "created_at": null,
+                            "updated_at": null
+                        }
+                    }
+                }
+            ],
+            "points": [],
+            "images": [
+                {
+                    "id": 273,
+                    "name": "258m9moscNfVnuRyZRt2sBYjNew3PONV84qHBUSs.jpeg",
+                    "image_url": "https:\/\/s3-eu-west-1.amazonaws.com\/liiteri-web\/production\/store-5\/products\/306",
+                    "show": 1,
+                    "product_id": 306,
+                    "product_group_id": 3,
+                    "product": {
+                        "id": 306,
+                        "name": "Pihapeli",
+                        "details": "<p><span style=\"color: #000000; font-family: Arial; font-size: 13px; white-space: pre-wrap; background-color: #ffffff;\">Pihapeli, loistava ajanviete aurinkoiseen p&auml;iv&auml;&auml;n (tai miksei sateiseenkin).<\/span><\/p>",
+                        "location": null,
+                        "quantity": 1,
+                        "status": "inactive",
+                        "expiry_date": "2020-07-03",
+                        "store_id": 5,
+                        "category_id": 5,
+                        "listing_id": 1,
+                        "added_by": 695,
+                        "created_at": "2018-04-17 15:24:04+0000",
+                        "updated_at": "2024-05-09 10:20:48+0000",
+                        "discount": "0",
+                        "deleted_at": null,
+                        "external_url": null,
+                        "product_url": "pihapeli",
+                        "free_rental": 0,
+                        "shelf_number": "7",
+                        "place": "shelf",
+                        "freebie": false,
+                        "gift_card": null,
+                        "used": 8,
+                        "product_group_id": 3,
+                        "available_quantity": -2,
+                        "sub_locker_name": null,
+                        "product_in_use": null
+                    }
+                }
+            ],
+            "feedback": [],
+            "serial_numbers": [
+                {
+                    "id": 65544,
+                    "serial_number": "Pihapeli-0",
+                    "product_id": 306,
+                    "product_group_id": 3
+                }
+            ],
+            "product_tags": [
+                {
+                    "id": 394,
+                    "tag_id": 12,
+                    "product_id": null,
+                    "created_at": 1583144530000,
+                    "updated_at": 1583144530000,
+                    "product_group_id": 3,
+                    "tag": {
+                        "id": 12,
+                        "name": "sports & leisure",
+                        "created_at": 1578918845000,
+                        "updated_at": 1578918845000
+                    }
+                }
+            ],
+            "products": [
+                {
+                    "id": 1190,
+                    "name": null,
+                    "details": null,
+                    "location": "Hylly lattiataso - floor level",
+                    "quantity": 1,
+                    "status": "active",
+                    "expiry_date": null,
+                    "store_id": 10,
+                    "category_id": null,
+                    "listing_id": null,
+                    "added_by": 106,
+                    "created_at": "2024-05-09 10:20:48+0000",
+                    "updated_at": "2024-05-09 10:20:48+0000",
+                    "discount": "0",
+                    "deleted_at": null,
+                    "external_url": null,
+                    "product_url": null,
+                    "free_rental": 0,
+                    "shelf_number": null,
+                    "place": "open",
+                    "freebie": false,
+                    "gift_card": null,
+                    "used": 0,
+                    "product_group_id": 3,
+                    "available_quantity": 1,
+                    "sub_locker_name": null,
+                    "product_in_use": null,
+                    "store": {
+                        "id": 10,
+                        "name": "Matinkyl\u00e4",
+                        "latitude": "60.158846",
+                        "longitude": "24.738751",
+                        "location": "Kala-Matti, 02230"
+                    }
+                }
+            ],
+            "point": null
+        }
+    },
+    "status": "success",
+    "error": false
+}

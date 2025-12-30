@@ -1,0 +1,14 @@
+{
+    "preferredContactMethod": 1,
+    "contactVisibility": 0,
+    "description": "test3",
+    "charityName": "Tester",
+    "bankAccount": "123456789",
+    "mobilePay": "2345",
+    "website": "https://www.pelastakaalapset.fi/lahjoittaminen/",
+    "donationId": 2,
+    "model": "asdada",
+    "registrationNumber": "2423432",
+    "carDescription": "",
+    "electricCar": false
+}

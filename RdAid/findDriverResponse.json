@@ -1,0 +1,216 @@
+{
+    "success": {
+        "code": 200,
+        "data": [
+            {
+                "driverDetails": {
+                    "id": "769cfc4e",
+                    "name": "Ameed",
+                    "firstName": "Ameed",
+                    "lastName": "Ghouri",
+                    "userProfileImg": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1740379094887.jpeg",
+                    "online_status": true,
+                    "ratingCount": 0,
+                    "ratingAvg": 0,
+                    "distance": 0.59,
+                    "lat": 24.923587,
+                    "lng": 67.0918316,
+                    "arrivalTime": "4 mins"
+                },
+                "servicePricing": {
+                    "serviceName": "Jump Start",
+                    "serviceCharges": 26.6,
+                    "chargesPerUnit": 10.0,
+                    "distance": 20.0,
+                    "chargesPerUnitAfterSlab": 20.0
+                }
+            },
+            {
+                "driverDetails": {
+                    "id": "769cfc02",
+                    "name": "waleed",
+                    "firstName": "waleed",
+                    "lastName": "khan",
+                    "userProfileImg": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1741343821984.png",
+                    "online_status": true,
+                    "ratingCount": 32,
+                    "ratingAvg": 3.9,
+                    "distance": 0,
+                    "lat": 0.0,
+                    "lng": 0.0,
+                    "arrivalTime": null
+                },
+                "servicePricing": {
+                    "serviceName": "Jump Start",
+                    "serviceCharges": 26.6,
+                    "chargesPerUnit": 10.0,
+                    "distance": 20.0,
+                    "chargesPerUnitAfterSlab": 20.0
+                }
+            },
+            {
+                "driverDetails": {
+                    "id": "769cfbf7",
+                    "name": "Maazaaaa",
+                    "firstName": "Maazaaaa",
+                    "lastName": "driver3",
+                    "userProfileImg": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1744717850230.jpg",
+                    "online_status": true,
+                    "ratingCount": 0,
+                    "ratingAvg": 0,
+                    "distance": 5.12,
+                    "lat": 24.9472007,
+                    "lng": 67.0513321,
+                    "arrivalTime": "15 mins"
+                },
+                "servicePricing": {
+                    "serviceName": "Jump Start",
+                    "serviceCharges": 26.6,
+                    "chargesPerUnit": 10.0,
+                    "distance": 20.0,
+                    "chargesPerUnitAfterSlab": 20.0
+                }
+            },
+            {
+                "driverDetails": {
+                    "id": "769cfc03",
+                    "name": "waleed",
+                    "firstName": "waleed",
+                    "lastName": "younus",
+                    "userProfileImg": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1741343481252.png",
+                    "online_status": true,
+                    "ratingCount": 0,
+                    "ratingAvg": 0,
+                    "distance": 0,
+                    "lat": 0.0,
+                    "lng": 0.0,
+                    "arrivalTime": null
+                },
+                "servicePricing": {
+                    "serviceName": "Jump Start",
+                    "serviceCharges": 26.6,
+                    "chargesPerUnit": 10.0,
+                    "distance": 20.0,
+                    "chargesPerUnitAfterSlab": 20.0
+                }
+            },
+            {
+                "driverDetails": {
+                    "id": "769cfcb5",
+                    "name": "ziboney",
+                    "firstName": "ziboney",
+                    "lastName": "Ramos",
+                    "userProfileImg": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1737329739386.jpg",
+                    "online_status": true,
+                    "ratingCount": 2,
+                    "ratingAvg": 3.0,
+                    "distance": 0,
+                    "lat": 28.0195202,
+                    "lng": -82.5125123,
+                    "arrivalTime": null
+                },
+                "servicePricing": {
+                    "serviceName": "Jump Start",
+                    "serviceCharges": 26.6,
+                    "chargesPerUnit": 10.0,
+                    "distance": 20.0,
+                    "chargesPerUnitAfterSlab": 20.0
+                }
+            },
+            {
+                "driverDetails": {
+                    "id": "769cfc91",
+                    "name": "waleed",
+                    "firstName": "waleed",
+                    "lastName": "yoyo",
+                    "userProfileImg": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1738837571393.png",
+                    "online_status": true,
+                    "ratingCount": 0,
+                    "ratingAvg": 0,
+                    "distance": 0.59,
+                    "lat": 24.9236003,
+                    "lng": 67.0918213,
+                    "arrivalTime": "4 mins"
+                },
+                "servicePricing": {
+                    "serviceName": "Jump Start",
+                    "serviceCharges": 26.6,
+                    "chargesPerUnit": 10.0,
+                    "distance": 20.0,
+                    "chargesPerUnitAfterSlab": 20.0
+                }
+            },
+            {
+                "driverDetails": {
+                    "id": "769cfc00",
+                    "name": "puma",
+                    "firstName": "puma",
+                    "lastName": "r",
+                    "userProfileImg": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1742580361016.jpg",
+                    "online_status": true,
+                    "ratingCount": 3,
+                    "ratingAvg": 3.7,
+                    "distance": 0,
+                    "lat": 28.01974358038491,
+                    "lng": -82.51237632714445,
+                    "arrivalTime": null
+                },
+                "servicePricing": {
+                    "serviceName": "Jump Start",
+                    "serviceCharges": 26.6,
+                    "chargesPerUnit": 10.0,
+                    "distance": 20.0,
+                    "chargesPerUnitAfterSlab": 20.0
+                }
+            },
+            {
+                "driverDetails": {
+                    "id": "769cfc09",
+                    "name": "gshssh",
+                    "firstName": "gshssh",
+                    "lastName": "hHash",
+                    "userProfileImg": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1741166864365.jpg",
+                    "online_status": true,
+                    "ratingCount": 1,
+                    "ratingAvg": 5.0,
+                    "distance": 0.6,
+                    "lat": 24.92359193256538,
+                    "lng": 67.09187100348697,
+                    "arrivalTime": "4 mins"
+                },
+                "servicePricing": {
+                    "serviceName": "Jump Start",
+                    "serviceCharges": 26.6,
+                    "chargesPerUnit": 10.0,
+                    "distance": 20.0,
+                    "chargesPerUnitAfterSlab": 20.0
+                }
+            },
+            {
+                "driverDetails": {
+                    "id": "769cfc08",
+                    "name": "waleed",
+                    "firstName": "waleed",
+                    "lastName": "younus",
+                    "userProfileImg": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1741167891756.png",
+                    "online_status": true,
+                    "ratingCount": 0,
+                    "ratingAvg": 0,
+                    "distance": 0,
+                    "lat": 0.0,
+                    "lng": 0.0,
+                    "arrivalTime": null
+                },
+                "servicePricing": {
+                    "serviceName": "Jump Start",
+                    "serviceCharges": 26.6,
+                    "chargesPerUnit": 10.0,
+                    "distance": 20.0,
+                    "chargesPerUnitAfterSlab": 20.0
+                }
+            }
+        ],
+        "message": "Drivers displayed"
+    },
+    "error": null
+}

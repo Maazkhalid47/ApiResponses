@@ -1,0 +1,163 @@
+{
+    "success": {
+        "code": 200,
+        "data": [
+            {
+                "question": {
+                    "object": "service-question",
+                    "id": "769cfd5d",
+                    "serviceId": "769cfd70",
+                    "question": "Do you have a car jack?",
+                    "description": "ask for a car jack availibility",
+                    "parentAnswer": null,
+                    "createdAt": "2025-11-10T08:43:49.168160Z",
+                    "updatedAt": "2025-12-18T13:40:31.720342Z"
+                },
+                "answers": [
+                    {
+                        "object": "answer",
+                        "id": "769cfcdc",
+                        "questionId": "769cfd5d",
+                        "answer": "yes",
+                        "professionalDriverOnly": false,
+                        "popupMessage": null,
+                        "nestedQuestion": {
+                            "object": "service-question",
+                            "id": "769cfd58",
+                            "serviceId": "769cfd70",
+                            "question": "Is the car jack electronic",
+                            "description": "car jack automatic or not",
+                            "parentAnswer": "769cfcdc",
+                            "createdAt": "2025-12-18T13:40:31.738349Z",
+                            "updatedAt": "2025-12-18T13:40:31.738366Z"
+                        },
+                        "nestedAnswers": [
+                            {
+                                "id": "769cfcdb",
+                                "questionId": "769cfd58",
+                                "answer": "Yes",
+                                "popupMessage": "popUp level 2",
+                                "createdAt": "2025-12-18T13:40:31.741106Z",
+                                "updatedAt": "2025-12-18T13:40:31.741125Z"
+                            },
+                            {
+                                "id": "769cfcda",
+                                "questionId": "769cfd58",
+                                "answer": "No",
+                                "popupMessage": null,
+                                "createdAt": "2025-12-18T13:40:31.743681Z",
+                                "updatedAt": "2025-12-18T13:40:31.743697Z"
+                            }
+                        ],
+                        "createdAt": "2025-12-18T13:40:31.733186Z",
+                        "updatedAt": "2025-12-18T13:40:31.733204Z"
+                    },
+                    {
+                        "object": "answer",
+                        "id": "769cfcd9",
+                        "questionId": "769cfd5d",
+                        "answer": "No",
+                        "professionalDriverOnly": false,
+                        "popupMessage": null,
+                        "nestedQuestion": null,
+                        "nestedAnswers": [],
+                        "createdAt": "2025-12-18T13:40:31.746112Z",
+                        "updatedAt": "2025-12-18T13:40:31.746127Z"
+                    }
+                ]
+            },
+            {
+                "question": {
+                    "object": "service-question",
+                    "id": "769cfd5c",
+                    "serviceId": "769cfd70",
+                    "question": "equipment avaliable",
+                    "description": "adasdaadad",
+                    "parentAnswer": null,
+                    "createdAt": "2025-11-10T08:44:07.028603Z",
+                    "updatedAt": "2025-11-10T08:44:07.028624Z"
+                },
+                "answers": [
+                    {
+                        "object": "answer",
+                        "id": "769cfce3",
+                        "questionId": "769cfd5c",
+                        "answer": "yes",
+                        "professionalDriverOnly": false,
+                        "popupMessage": null,
+                        "nestedQuestion": {
+                            "object": "service-question",
+                            "id": "769cfd5b",
+                            "serviceId": "769cfd70",
+                            "question": "asdadasd",
+                            "description": "qweqweqwe",
+                            "parentAnswer": "769cfce3",
+                            "createdAt": "2025-11-10T08:44:07.069429Z",
+                            "updatedAt": "2025-11-10T08:44:07.069452Z"
+                        },
+                        "nestedAnswers": [
+                            {
+                                "id": "769cfce2",
+                                "questionId": "769cfd5b",
+                                "answer": "errr",
+                                "popupMessage": "Based on your answers, your situation may require a towing service. We recommend requesting a tow to ensure you get the help you need.",
+                                "createdAt": "2025-11-10T08:44:07.083932Z",
+                                "updatedAt": "2025-11-10T08:44:07.083956Z"
+                            },
+                            {
+                                "id": "769cfce1",
+                                "questionId": "769cfd5b",
+                                "answer": "qweqwe",
+                                "popupMessage": "Based on your answers, your situation may require a towing service. We recommend requesting a tow to ensure you get the help you need.",
+                                "createdAt": "2025-11-10T08:44:07.092212Z",
+                                "updatedAt": "2025-11-10T08:44:07.092235Z"
+                            }
+                        ],
+                        "createdAt": "2025-11-10T08:44:07.059254Z",
+                        "updatedAt": "2025-11-10T08:44:07.059273Z"
+                    },
+                    {
+                        "object": "answer",
+                        "id": "769cfce0",
+                        "questionId": "769cfd5c",
+                        "answer": "no",
+                        "professionalDriverOnly": false,
+                        "popupMessage": null,
+                        "nestedQuestion": null,
+                        "nestedAnswers": [],
+                        "createdAt": "2025-11-10T08:44:07.100840Z",
+                        "updatedAt": "2025-11-10T08:44:07.100867Z"
+                    }
+                ]
+            },
+            {
+                "question": {
+                    "object": "service-question",
+                    "id": "769cfd5a",
+                    "serviceId": "769cfd70",
+                    "question": "Are you with the vehicle?",
+                    "description": "Test",
+                    "parentAnswer": null,
+                    "createdAt": "2025-11-13T07:01:20.033020Z",
+                    "updatedAt": "2025-11-13T07:01:20.033039Z"
+                },
+                "answers": [
+                    {
+                        "object": "answer",
+                        "id": "769cfcdf",
+                        "questionId": "769cfd5a",
+                        "answer": "Yes",
+                        "professionalDriverOnly": false,
+                        "popupMessage": null,
+                        "nestedQuestion": null,
+                        "nestedAnswers": [],
+                        "createdAt": "2025-11-13T07:01:20.074677Z",
+                        "updatedAt": "2025-11-13T07:01:20.074703Z"
+                    }
+                ]
+            }
+        ],
+        "message": "Questions displayed."
+    },
+    "error": null
+}

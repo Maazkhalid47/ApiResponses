@@ -1,0 +1,729 @@
+{
+    "code": 200,
+    "data": {
+        "object": {
+            "id": 9945,
+            "session_id": "ff924de5a1d1b6109fee1acef3fd0cb1",
+            "reference_number": null,
+            "user_id": 3391,
+            "status": "pending",
+            "total_price": "2",
+            "created_at": "2025-03-19 07:06:56+0000",
+            "updated_at": "2025-03-19 07:11:20+0000",
+            "store_id": null,
+            "total_loan_price": 2,
+            "total_purchase_price": 0,
+            "store_location": "Tripla",
+            "product_name": "H\u00d6YRYPUHDISTIN K\u00c4RCHER SC 2,TALOUSTIKAS FXA 5-ASKELMAINEN ALUMI INIA",
+            "cart_products": [
+                {
+                    "id": 11819,
+                    "cart_id": 9945,
+                    "product_id": 909,
+                    "unit_price": "1",
+                    "unit_discount": "0",
+                    "quantity": 1,
+                    "price": "1",
+                    "delivery_method": "pickup",
+                    "start_dt": "2025-03-19 08:30:00+00",
+                    "end_dt": "2025-03-19 09:30:00+00",
+                    "pickup_dt": null,
+                    "dropoff_dt": null,
+                    "status": "booked",
+                    "deleted_at": null,
+                    "product_price_id": 1287,
+                    "start_date": 1742373000000,
+                    "end_date": 1742376600000,
+                    "product_daily_price": 0,
+                    "product_hourly_price": 1,
+                    "product": {
+                        "id": 909,
+                        "name": null,
+                        "details": null,
+                        "location": "Tripla",
+                        "quantity": 1,
+                        "status": "active",
+                        "expiry_date": null,
+                        "store_id": 11,
+                        "category_id": null,
+                        "listing_id": null,
+                        "added_by": 1301,
+                        "created_at": "2020-09-02 13:29:37+0000",
+                        "updated_at": "2024-07-27 12:09:51+0000",
+                        "discount": "0",
+                        "deleted_at": null,
+                        "external_url": null,
+                        "product_url": null,
+                        "free_rental": 0,
+                        "shelf_number": null,
+                        "place": "open",
+                        "freebie": false,
+                        "gift_card": null,
+                        "used": 209,
+                        "product_group_id": 192,
+                        "available_quantity": -128,
+                        "sub_locker_name": null,
+                        "product_in_use": null,
+                        "product_groups": {
+                            "id": 192,
+                            "name": "H\u00d6YRYPUHDISTIN K\u00c4RCHER SC 2",
+                            "details": "<p><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\"><span style=\"color: #2b2b2b; background-color: #ffffff;\">SC 2 on helppok&auml;ytt&ouml;inen ja luotettava perustason h&ouml;yrypuhdistin yleisk&auml;ytt&ouml;&ouml;n. Laitteessa on kaksiportainen h&ouml;yrysuihkun voimakkuuden s&auml;&auml;t&ouml;, k&auml;yt&auml;nn&ouml;lliset s&auml;ilytyspaikat varusteille ja nivelletty Comfort-lattiasuutin, joka kohentaa k&auml;ytt&ouml;mukavuutta ja puhdistustulosta lattioita puhdistettaessa. SC 2 h&ouml;yrypuhdistin puhdistaa hygieenisesti ilman kemikaaleja: H&ouml;yry poistaa kovilta pinnoilta jopa 99,99% kotioloissa tavanomaisista bakteereista ja saavuttaa my&ouml;s hankalat raot ja kulmat, joihin r&auml;till&auml; on hankala yletty&auml;. Pinttynyt, rasvainen lika irtoaa h&ouml;yryll&auml; ripe&auml;sti. Monipuolisten varusteiden avulla on mahdollista puhdistaa tehokkaasti esim. laattapinnat, kaakelisaumat, vesihanat, pesualtaat, liesitasot, rosteripinnat jne.<\/span><br \/><\/span><\/p>\n<p><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\"><a href=\"https:\/\/www.kaercher.com\/fi\/home-garden\/hoeyrypuhdistimet\/sc-2-easyfix-15120500.html\" target=\"_blank\" rel=\"noopener\">Linkki valmistajan sivulle<\/a><br \/><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5546018-000-05.pdf\" target=\"_blank\" rel=\"noopener\">K&auml;ytt&ouml;ohje<\/a><br \/><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5631427-000-06.pdf\" target=\"_blank\" rel=\"noopener\">Turvaohjeet<\/a><br \/><br \/>The SC 2 is an easy-to-use and reliable basic steam cleaner for general use.&nbsp;<\/span><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\">The device has a two-stage steam jet intensity control, practical storage spaces for equipment and an articulated Comfort floor nozzle, which improves the comfort of use and the cleaning result when cleaning floors.&nbsp;<\/span><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\">The SC 2 steam cleaner cleans hygienically without chemicals: The steam removes up to 99.99% of normal bacteria from hard surfaces at home and also reaches awkward cracks and corners that the rag is difficult to reach.&nbsp;<\/span><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\">Stubborn, greasy dirt is released by steam quickly.&nbsp;<\/span><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\">With the help of versatile equipment, it is possible to efficiently clean, for example, tile surfaces, tile joints, water taps, washbasins, hobs, roster surfaces, etc.<\/span><\/p>\n<p><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\"><a href=\"https:\/\/www.kaercher.com\/fi\/home-garden\/hoeyrypuhdistimet\/sc-2-easyfix-15120500.html\" target=\"_blank\" rel=\"noopener\">Link to manufacturer page<\/a><br style=\"color: #2b2b2b;\" \/><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5546018-000-05.pdf\" target=\"_blank\" rel=\"noopener\">User manual<\/a><br style=\"color: #2b2b2b;\" \/><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5631427-000-06.pdf\" target=\"_blank\" rel=\"noopener\">Safety instructions<\/a><\/span><\/p>",
+                            "status": "available",
+                            "expiry_date": "2025-09-01",
+                            "category_id": 58,
+                            "listing_id": 1,
+                            "added_by": 1,
+                            "product_url": null,
+                            "external_url": null,
+                            "gift_card": null,
+                            "freebie": false,
+                            "free_rental": 0,
+                            "used": 210,
+                            "deleted_at": null,
+                            "created_at": "2020-09-02 13:29:37+0000",
+                            "updated_at": "2024-07-27 12:09:51+0000",
+                            "user_manual": "https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5546018-000-05.pdf",
+                            "separate": true,
+                            "availability_date": null,
+                            "quality": "high",
+                            "product_type": 0,
+                            "name_fi": null,
+                            "listingName": "Loan",
+                            "CategoryName": "Siivousv\u00e4lineet",
+                            "rating": 0,
+                            "price_array": {
+                                "price_hourly": "1",
+                                "price_daily": "1",
+                                "price_purchase": null,
+                                "currency": "eur",
+                                "discount_price_hourly": 1,
+                                "discount_price_daily": 1,
+                                "discount_price_purchase": null
+                            },
+                            "product_serial_numbers": "H\u00d6YRYPUHDISTIN K\u00c4RCHER SC 2-0",
+                            "tag_names": "",
+                            "product_point": null,
+                            "sub_locker_name": null,
+                            "available_products": false,
+                            "api_url": "h--yrypuhdistin-k--rcher-sc-2-192",
+                            "in_stock": true,
+                            "store_names": "Tripla",
+                            "images": [
+                                {
+                                    "id": 778,
+                                    "name": "r3JVxhaqwkn3qMOBSptN4Jilbxw8x3sAuxxLDiWe.jpeg",
+                                    "image_url": "https:\/\/s3-eu-west-1.amazonaws.com\/liiteri-web\/production\/products\/192",
+                                    "show": 1,
+                                    "product_id": null,
+                                    "product_group_id": 192
+                                }
+                            ],
+                            "prices": [
+                                {
+                                    "id": 1286,
+                                    "price": "1",
+                                    "currency": "eur",
+                                    "listing_price_id": 1,
+                                    "product_id": null,
+                                    "product_group_id": 192,
+                                    "listing_price_option": {
+                                        "id": 1,
+                                        "listing_id": 1,
+                                        "price_option_id": 1,
+                                        "created_at": "2018-01-16 14:41:51+0000",
+                                        "updated_at": "2018-01-16 14:41:51+0000",
+                                        "price_option": {
+                                            "id": 1,
+                                            "name": "day",
+                                            "added_by": 1,
+                                            "created_at": "2018-01-16 14:41:21+0000",
+                                            "updated_at": "2018-01-16 14:41:21+0000"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": 1287,
+                                    "price": "1",
+                                    "currency": "eur",
+                                    "listing_price_id": 20,
+                                    "product_id": null,
+                                    "product_group_id": 192,
+                                    "listing_price_option": {
+                                        "id": 20,
+                                        "listing_id": 1,
+                                        "price_option_id": 3,
+                                        "created_at": null,
+                                        "updated_at": null,
+                                        "price_option": {
+                                            "id": 3,
+                                            "name": "hour",
+                                            "added_by": 1,
+                                            "created_at": null,
+                                            "updated_at": null
+                                        }
+                                    }
+                                }
+                            ],
+                            "feedback": [],
+                            "serial_numbers": [
+                                {
+                                    "id": 65648,
+                                    "serial_number": "H\u00d6YRYPUHDISTIN K\u00c4RCHER SC 2-0",
+                                    "product_id": null,
+                                    "product_group_id": 192
+                                }
+                            ],
+                            "product_tags": [
+                                {
+                                    "id": 423,
+                                    "tag_id": 1,
+                                    "product_id": null,
+                                    "created_at": 1599053378000,
+                                    "updated_at": 1599053378000,
+                                    "product_group_id": 192,
+                                    "tag": {
+                                        "id": 1,
+                                        "name": "",
+                                        "created_at": 1535777528000,
+                                        "updated_at": 1535777528000
+                                    }
+                                }
+                            ],
+                            "point": null
+                        },
+                        "store": {
+                            "id": 11,
+                            "name": "Tripla",
+                            "latitude": null,
+                            "longitude": null,
+                            "location": null
+                        }
+                    }
+                },
+                {
+                    "id": 11818,
+                    "cart_id": 9945,
+                    "product_id": 929,
+                    "unit_price": "1",
+                    "unit_discount": "0",
+                    "quantity": 1,
+                    "price": "1",
+                    "delivery_method": "pickup",
+                    "start_dt": "2025-03-19 08:00:00+00",
+                    "end_dt": "2025-03-19 09:00:00+00",
+                    "pickup_dt": null,
+                    "dropoff_dt": null,
+                    "status": "booked",
+                    "deleted_at": null,
+                    "product_price_id": 1327,
+                    "start_date": 1742371200000,
+                    "end_date": 1742374800000,
+                    "product_daily_price": 0,
+                    "product_hourly_price": 1,
+                    "product": {
+                        "id": 929,
+                        "name": null,
+                        "details": null,
+                        "location": "Tripla",
+                        "quantity": 1,
+                        "status": "active",
+                        "expiry_date": null,
+                        "store_id": 11,
+                        "category_id": null,
+                        "listing_id": null,
+                        "added_by": 1301,
+                        "created_at": "2020-09-02 15:16:49+0000",
+                        "updated_at": "2025-03-13 12:39:09+0000",
+                        "discount": "0",
+                        "deleted_at": null,
+                        "external_url": null,
+                        "product_url": null,
+                        "free_rental": 0,
+                        "shelf_number": null,
+                        "place": "open",
+                        "freebie": false,
+                        "gift_card": null,
+                        "used": 253,
+                        "product_group_id": 212,
+                        "available_quantity": -239,
+                        "sub_locker_name": null,
+                        "product_in_use": null,
+                        "product_groups": {
+                            "id": 212,
+                            "name": "TALOUSTIKAS FXA 5-ASKELMAINEN ALUMI INIA",
+                            "details": "<div class=\"product-description\" style=\"font-family: SkattaSans, sans-serif; color: #292929; font-size: 16px; background-color: #ffffff; transition: none 0s ease 0s !important;\">\n<p style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 1.6rem; line-height: 1.6; color: #292929; margin-top: 0px; margin-bottom: 0px; padding-bottom: 1em; white-space: pre-line; transition: none 0s ease 0s !important;\">Taloustikas kotik&auml;ytt&ouml;&ouml;n. Tasokorkeus 1,00 m, ty&ouml;skentelykorkeus n. 2,8 m. Paino 3,6 kg.<\/p>\n<div class=\"product-description\" style=\"color: #292929; background-color: #ffffff;\">\n<p style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 1.6rem; line-height: 1.6; color: #292929; margin-top: 0px; margin-bottom: 0px; padding-bottom: 1em; white-space: pre-line;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Household ladder for home use. <\/span><span style=\"vertical-align: inherit;\">Platform height 1.00 m, working height approx. 2.8 m. Weight 3.6 kg.<\/span><\/span><\/p>\n<\/div>\n<p style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 1.6rem; line-height: 1.6; color: #292929; margin-top: 0px; margin-bottom: 0px; padding-bottom: 1em; white-space: pre-line; transition: none 0s ease 0s !important;\">&nbsp;<\/p>\n<\/div>\n<p>&nbsp;<\/p>",
+                            "status": "available",
+                            "expiry_date": "2025-09-01",
+                            "category_id": 55,
+                            "listing_id": 1,
+                            "added_by": 1,
+                            "product_url": null,
+                            "external_url": null,
+                            "gift_card": null,
+                            "freebie": false,
+                            "free_rental": 0,
+                            "used": 253,
+                            "deleted_at": null,
+                            "created_at": "2020-09-02 15:16:49+0000",
+                            "updated_at": "2025-03-13 11:52:50+0000",
+                            "user_manual": null,
+                            "separate": true,
+                            "availability_date": null,
+                            "quality": "high",
+                            "product_type": 0,
+                            "name_fi": null,
+                            "listingName": "Loan",
+                            "CategoryName": "Muu",
+                            "rating": 0,
+                            "price_array": {
+                                "price_hourly": "1",
+                                "price_daily": "1",
+                                "price_purchase": null,
+                                "currency": "eur",
+                                "discount_price_hourly": 1,
+                                "discount_price_daily": 1,
+                                "discount_price_purchase": null
+                            },
+                            "product_serial_numbers": "TALOUSTIKAS FXA 5-ASKELMAINEN ALUMI INIA-0",
+                            "tag_names": "",
+                            "product_point": null,
+                            "sub_locker_name": null,
+                            "available_products": false,
+                            "api_url": "taloustikas-fxa-5-askelmainen-alumi-inia-212",
+                            "in_stock": true,
+                            "store_names": "Tripla",
+                            "images": [
+                                {
+                                    "id": 771,
+                                    "name": "751buA8M4USGdP4ugp4VVZ9ocxuZKmLUj4Vyne7I.jpeg",
+                                    "image_url": "https:\/\/s3-eu-west-1.amazonaws.com\/liiteri-web\/production\/products\/212",
+                                    "show": 1,
+                                    "product_id": null,
+                                    "product_group_id": 212
+                                }
+                            ],
+                            "prices": [
+                                {
+                                    "id": 1326,
+                                    "price": "1",
+                                    "currency": "eur",
+                                    "listing_price_id": 1,
+                                    "product_id": null,
+                                    "product_group_id": 212,
+                                    "listing_price_option": {
+                                        "id": 1,
+                                        "listing_id": 1,
+                                        "price_option_id": 1,
+                                        "created_at": "2018-01-16 14:41:51+0000",
+                                        "updated_at": "2018-01-16 14:41:51+0000",
+                                        "price_option": {
+                                            "id": 1,
+                                            "name": "day",
+                                            "added_by": 1,
+                                            "created_at": "2018-01-16 14:41:21+0000",
+                                            "updated_at": "2018-01-16 14:41:21+0000"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": 1327,
+                                    "price": "1",
+                                    "currency": "eur",
+                                    "listing_price_id": 20,
+                                    "product_id": null,
+                                    "product_group_id": 212,
+                                    "listing_price_option": {
+                                        "id": 20,
+                                        "listing_id": 1,
+                                        "price_option_id": 3,
+                                        "created_at": null,
+                                        "updated_at": null,
+                                        "price_option": {
+                                            "id": 3,
+                                            "name": "hour",
+                                            "added_by": 1,
+                                            "created_at": null,
+                                            "updated_at": null
+                                        }
+                                    }
+                                }
+                            ],
+                            "feedback": [],
+                            "serial_numbers": [
+                                {
+                                    "id": 65669,
+                                    "serial_number": "TALOUSTIKAS FXA 5-ASKELMAINEN ALUMI INIA-0",
+                                    "product_id": null,
+                                    "product_group_id": 212
+                                }
+                            ],
+                            "product_tags": [
+                                {
+                                    "id": 443,
+                                    "tag_id": 1,
+                                    "product_id": null,
+                                    "created_at": 1599059809000,
+                                    "updated_at": 1599059809000,
+                                    "product_group_id": 212,
+                                    "tag": {
+                                        "id": 1,
+                                        "name": "",
+                                        "created_at": 1535777528000,
+                                        "updated_at": 1535777528000
+                                    }
+                                }
+                            ],
+                            "point": null
+                        },
+                        "store": {
+                            "id": 11,
+                            "name": "Tripla",
+                            "latitude": null,
+                            "longitude": null,
+                            "location": null
+                        }
+                    }
+                }
+            ],
+            "loan_products": [
+                {
+                    "id": 11819,
+                    "cart_id": 9945,
+                    "product_id": 909,
+                    "unit_price": "1",
+                    "unit_discount": "0",
+                    "quantity": 1,
+                    "price": "1",
+                    "delivery_method": "pickup",
+                    "start_dt": "2025-03-19 08:30:00+00",
+                    "end_dt": "2025-03-19 09:30:00+00",
+                    "pickup_dt": null,
+                    "dropoff_dt": null,
+                    "status": "booked",
+                    "deleted_at": null,
+                    "product_price_id": 1287,
+                    "start_date": 1742373000000,
+                    "end_date": 1742376600000,
+                    "product_daily_price": 0,
+                    "product_hourly_price": 1,
+                    "product": {
+                        "id": 909,
+                        "name": null,
+                        "details": null,
+                        "location": "Tripla",
+                        "quantity": 1,
+                        "status": "active",
+                        "expiry_date": null,
+                        "store_id": 11,
+                        "category_id": null,
+                        "listing_id": null,
+                        "added_by": 1301,
+                        "created_at": "2020-09-02 13:29:37+0000",
+                        "updated_at": "2024-07-27 12:09:51+0000",
+                        "discount": "0",
+                        "deleted_at": null,
+                        "external_url": null,
+                        "product_url": null,
+                        "free_rental": 0,
+                        "shelf_number": null,
+                        "place": "open",
+                        "freebie": false,
+                        "gift_card": null,
+                        "used": 209,
+                        "product_group_id": 192,
+                        "available_quantity": -128,
+                        "sub_locker_name": null,
+                        "product_in_use": null,
+                        "product_groups": {
+                            "id": 192,
+                            "name": "H\u00d6YRYPUHDISTIN K\u00c4RCHER SC 2",
+                            "details": "<p><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\"><span style=\"color: #2b2b2b; background-color: #ffffff;\">SC 2 on helppok&auml;ytt&ouml;inen ja luotettava perustason h&ouml;yrypuhdistin yleisk&auml;ytt&ouml;&ouml;n. Laitteessa on kaksiportainen h&ouml;yrysuihkun voimakkuuden s&auml;&auml;t&ouml;, k&auml;yt&auml;nn&ouml;lliset s&auml;ilytyspaikat varusteille ja nivelletty Comfort-lattiasuutin, joka kohentaa k&auml;ytt&ouml;mukavuutta ja puhdistustulosta lattioita puhdistettaessa. SC 2 h&ouml;yrypuhdistin puhdistaa hygieenisesti ilman kemikaaleja: H&ouml;yry poistaa kovilta pinnoilta jopa 99,99% kotioloissa tavanomaisista bakteereista ja saavuttaa my&ouml;s hankalat raot ja kulmat, joihin r&auml;till&auml; on hankala yletty&auml;. Pinttynyt, rasvainen lika irtoaa h&ouml;yryll&auml; ripe&auml;sti. Monipuolisten varusteiden avulla on mahdollista puhdistaa tehokkaasti esim. laattapinnat, kaakelisaumat, vesihanat, pesualtaat, liesitasot, rosteripinnat jne.<\/span><br \/><\/span><\/p>\n<p><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\"><a href=\"https:\/\/www.kaercher.com\/fi\/home-garden\/hoeyrypuhdistimet\/sc-2-easyfix-15120500.html\" target=\"_blank\" rel=\"noopener\">Linkki valmistajan sivulle<\/a><br \/><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5546018-000-05.pdf\" target=\"_blank\" rel=\"noopener\">K&auml;ytt&ouml;ohje<\/a><br \/><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5631427-000-06.pdf\" target=\"_blank\" rel=\"noopener\">Turvaohjeet<\/a><br \/><br \/>The SC 2 is an easy-to-use and reliable basic steam cleaner for general use.&nbsp;<\/span><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\">The device has a two-stage steam jet intensity control, practical storage spaces for equipment and an articulated Comfort floor nozzle, which improves the comfort of use and the cleaning result when cleaning floors.&nbsp;<\/span><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\">The SC 2 steam cleaner cleans hygienically without chemicals: The steam removes up to 99.99% of normal bacteria from hard surfaces at home and also reaches awkward cracks and corners that the rag is difficult to reach.&nbsp;<\/span><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\">Stubborn, greasy dirt is released by steam quickly.&nbsp;<\/span><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\">With the help of versatile equipment, it is possible to efficiently clean, for example, tile surfaces, tile joints, water taps, washbasins, hobs, roster surfaces, etc.<\/span><\/p>\n<p><span style=\"color: #2b2b2b; font-family: ClanPro, Arial, sans-serif; font-size: 13px; background-color: #ffffff; vertical-align: inherit;\"><a href=\"https:\/\/www.kaercher.com\/fi\/home-garden\/hoeyrypuhdistimet\/sc-2-easyfix-15120500.html\" target=\"_blank\" rel=\"noopener\">Link to manufacturer page<\/a><br style=\"color: #2b2b2b;\" \/><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5546018-000-05.pdf\" target=\"_blank\" rel=\"noopener\">User manual<\/a><br style=\"color: #2b2b2b;\" \/><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5631427-000-06.pdf\" target=\"_blank\" rel=\"noopener\">Safety instructions<\/a><\/span><\/p>",
+                            "status": "available",
+                            "expiry_date": "2025-09-01",
+                            "category_id": 58,
+                            "listing_id": 1,
+                            "added_by": 1,
+                            "product_url": null,
+                            "external_url": null,
+                            "gift_card": null,
+                            "freebie": false,
+                            "free_rental": 0,
+                            "used": 210,
+                            "deleted_at": null,
+                            "created_at": "2020-09-02 13:29:37+0000",
+                            "updated_at": "2024-07-27 12:09:51+0000",
+                            "user_manual": "https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5546018-000-05.pdf",
+                            "separate": true,
+                            "availability_date": null,
+                            "quality": "high",
+                            "product_type": 0,
+                            "name_fi": null,
+                            "listingName": "Loan",
+                            "CategoryName": "Siivousv\u00e4lineet",
+                            "rating": 0,
+                            "price_array": {
+                                "price_hourly": "1",
+                                "price_daily": "1",
+                                "price_purchase": null,
+                                "currency": "eur",
+                                "discount_price_hourly": 1,
+                                "discount_price_daily": 1,
+                                "discount_price_purchase": null
+                            },
+                            "product_serial_numbers": "H\u00d6YRYPUHDISTIN K\u00c4RCHER SC 2-0",
+                            "tag_names": "",
+                            "product_point": null,
+                            "sub_locker_name": null,
+                            "available_products": false,
+                            "api_url": "h--yrypuhdistin-k--rcher-sc-2-192",
+                            "in_stock": true,
+                            "store_names": "Tripla",
+                            "prices": [
+                                {
+                                    "id": 1286,
+                                    "price": "1",
+                                    "currency": "eur",
+                                    "listing_price_id": 1,
+                                    "product_id": null,
+                                    "product_group_id": 192,
+                                    "listing_price_option": {
+                                        "id": 1,
+                                        "listing_id": 1,
+                                        "price_option_id": 1,
+                                        "created_at": "2018-01-16 14:41:51+0000",
+                                        "updated_at": "2018-01-16 14:41:51+0000",
+                                        "price_option": {
+                                            "id": 1,
+                                            "name": "day",
+                                            "added_by": 1,
+                                            "created_at": "2018-01-16 14:41:21+0000",
+                                            "updated_at": "2018-01-16 14:41:21+0000"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": 1287,
+                                    "price": "1",
+                                    "currency": "eur",
+                                    "listing_price_id": 20,
+                                    "product_id": null,
+                                    "product_group_id": 192,
+                                    "listing_price_option": {
+                                        "id": 20,
+                                        "listing_id": 1,
+                                        "price_option_id": 3,
+                                        "created_at": null,
+                                        "updated_at": null,
+                                        "price_option": {
+                                            "id": 3,
+                                            "name": "hour",
+                                            "added_by": 1,
+                                            "created_at": null,
+                                            "updated_at": null
+                                        }
+                                    }
+                                }
+                            ],
+                            "feedback": [],
+                            "serial_numbers": [
+                                {
+                                    "id": 65648,
+                                    "serial_number": "H\u00d6YRYPUHDISTIN K\u00c4RCHER SC 2-0",
+                                    "product_id": null,
+                                    "product_group_id": 192
+                                }
+                            ],
+                            "product_tags": [
+                                {
+                                    "id": 423,
+                                    "tag_id": 1,
+                                    "product_id": null,
+                                    "created_at": 1599053378000,
+                                    "updated_at": 1599053378000,
+                                    "product_group_id": 192,
+                                    "tag": {
+                                        "id": 1,
+                                        "name": "",
+                                        "created_at": 1535777528000,
+                                        "updated_at": 1535777528000
+                                    }
+                                }
+                            ],
+                            "point": null
+                        }
+                    }
+                },
+                {
+                    "id": 11818,
+                    "cart_id": 9945,
+                    "product_id": 929,
+                    "unit_price": "1",
+                    "unit_discount": "0",
+                    "quantity": 1,
+                    "price": "1",
+                    "delivery_method": "pickup",
+                    "start_dt": "2025-03-19 08:00:00+00",
+                    "end_dt": "2025-03-19 09:00:00+00",
+                    "pickup_dt": null,
+                    "dropoff_dt": null,
+                    "status": "booked",
+                    "deleted_at": null,
+                    "product_price_id": 1327,
+                    "start_date": 1742371200000,
+                    "end_date": 1742374800000,
+                    "product_daily_price": 0,
+                    "product_hourly_price": 1,
+                    "product": {
+                        "id": 929,
+                        "name": null,
+                        "details": null,
+                        "location": "Tripla",
+                        "quantity": 1,
+                        "status": "active",
+                        "expiry_date": null,
+                        "store_id": 11,
+                        "category_id": null,
+                        "listing_id": null,
+                        "added_by": 1301,
+                        "created_at": "2020-09-02 15:16:49+0000",
+                        "updated_at": "2025-03-13 12:39:09+0000",
+                        "discount": "0",
+                        "deleted_at": null,
+                        "external_url": null,
+                        "product_url": null,
+                        "free_rental": 0,
+                        "shelf_number": null,
+                        "place": "open",
+                        "freebie": false,
+                        "gift_card": null,
+                        "used": 253,
+                        "product_group_id": 212,
+                        "available_quantity": -239,
+                        "sub_locker_name": null,
+                        "product_in_use": null,
+                        "product_groups": {
+                            "id": 212,
+                            "name": "TALOUSTIKAS FXA 5-ASKELMAINEN ALUMI INIA",
+                            "details": "<div class=\"product-description\" style=\"font-family: SkattaSans, sans-serif; color: #292929; font-size: 16px; background-color: #ffffff; transition: none 0s ease 0s !important;\">\n<p style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 1.6rem; line-height: 1.6; color: #292929; margin-top: 0px; margin-bottom: 0px; padding-bottom: 1em; white-space: pre-line; transition: none 0s ease 0s !important;\">Taloustikas kotik&auml;ytt&ouml;&ouml;n. Tasokorkeus 1,00 m, ty&ouml;skentelykorkeus n. 2,8 m. Paino 3,6 kg.<\/p>\n<div class=\"product-description\" style=\"color: #292929; background-color: #ffffff;\">\n<p style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 1.6rem; line-height: 1.6; color: #292929; margin-top: 0px; margin-bottom: 0px; padding-bottom: 1em; white-space: pre-line;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Household ladder for home use. <\/span><span style=\"vertical-align: inherit;\">Platform height 1.00 m, working height approx. 2.8 m. Weight 3.6 kg.<\/span><\/span><\/p>\n<\/div>\n<p style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 1.6rem; line-height: 1.6; color: #292929; margin-top: 0px; margin-bottom: 0px; padding-bottom: 1em; white-space: pre-line; transition: none 0s ease 0s !important;\">&nbsp;<\/p>\n<\/div>\n<p>&nbsp;<\/p>",
+                            "status": "available",
+                            "expiry_date": "2025-09-01",
+                            "category_id": 55,
+                            "listing_id": 1,
+                            "added_by": 1,
+                            "product_url": null,
+                            "external_url": null,
+                            "gift_card": null,
+                            "freebie": false,
+                            "free_rental": 0,
+                            "used": 253,
+                            "deleted_at": null,
+                            "created_at": "2020-09-02 15:16:49+0000",
+                            "updated_at": "2025-03-13 11:52:50+0000",
+                            "user_manual": null,
+                            "separate": true,
+                            "availability_date": null,
+                            "quality": "high",
+                            "product_type": 0,
+                            "name_fi": null,
+                            "listingName": "Loan",
+                            "CategoryName": "Muu",
+                            "rating": 0,
+                            "price_array": {
+                                "price_hourly": "1",
+                                "price_daily": "1",
+                                "price_purchase": null,
+                                "currency": "eur",
+                                "discount_price_hourly": 1,
+                                "discount_price_daily": 1,
+                                "discount_price_purchase": null
+                            },
+                            "product_serial_numbers": "TALOUSTIKAS FXA 5-ASKELMAINEN ALUMI INIA-0",
+                            "tag_names": "",
+                            "product_point": null,
+                            "sub_locker_name": null,
+                            "available_products": false,
+                            "api_url": "taloustikas-fxa-5-askelmainen-alumi-inia-212",
+                            "in_stock": true,
+                            "store_names": "Tripla",
+                            "prices": [
+                                {
+                                    "id": 1326,
+                                    "price": "1",
+                                    "currency": "eur",
+                                    "listing_price_id": 1,
+                                    "product_id": null,
+                                    "product_group_id": 212,
+                                    "listing_price_option": {
+                                        "id": 1,
+                                        "listing_id": 1,
+                                        "price_option_id": 1,
+                                        "created_at": "2018-01-16 14:41:51+0000",
+                                        "updated_at": "2018-01-16 14:41:51+0000",
+                                        "price_option": {
+                                            "id": 1,
+                                            "name": "day",
+                                            "added_by": 1,
+                                            "created_at": "2018-01-16 14:41:21+0000",
+                                            "updated_at": "2018-01-16 14:41:21+0000"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": 1327,
+                                    "price": "1",
+                                    "currency": "eur",
+                                    "listing_price_id": 20,
+                                    "product_id": null,
+                                    "product_group_id": 212,
+                                    "listing_price_option": {
+                                        "id": 20,
+                                        "listing_id": 1,
+                                        "price_option_id": 3,
+                                        "created_at": null,
+                                        "updated_at": null,
+                                        "price_option": {
+                                            "id": 3,
+                                            "name": "hour",
+                                            "added_by": 1,
+                                            "created_at": null,
+                                            "updated_at": null
+                                        }
+                                    }
+                                }
+                            ],
+                            "feedback": [],
+                            "serial_numbers": [
+                                {
+                                    "id": 65669,
+                                    "serial_number": "TALOUSTIKAS FXA 5-ASKELMAINEN ALUMI INIA-0",
+                                    "product_id": null,
+                                    "product_group_id": 212
+                                }
+                            ],
+                            "product_tags": [
+                                {
+                                    "id": 443,
+                                    "tag_id": 1,
+                                    "product_id": null,
+                                    "created_at": 1599059809000,
+                                    "updated_at": 1599059809000,
+                                    "product_group_id": 212,
+                                    "tag": {
+                                        "id": 1,
+                                        "name": "",
+                                        "created_at": 1535777528000,
+                                        "updated_at": 1535777528000
+                                    }
+                                }
+                            ],
+                            "point": null
+                        }
+                    }
+                }
+            ],
+            "purchase_products": []
+        }
+    },
+    "status": "success",
+    "error": false
+}

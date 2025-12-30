@@ -1,0 +1,108 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "vehicledetails": {
+                "object": "vehicle",
+                "id": "769cfb98",
+                "userId": "769cfc3f",
+                "make": "null",
+                "model": "null",
+                "year": "9213",
+                "color": null,
+                "fuelType": null,
+                "tireSize": null,
+                "identificationNumber": "hahahahahsh",
+                "registrationNumber": "ggjjjjj",
+                "stateOfRegistration": "null",
+                "licensePlateNo": null,
+                "expirationDate": "2025-02-26",
+                "towTruck": true,
+                "default": true,
+                "status": "pending",
+                "createdAt": "2025-02-26 06:27",
+                "updatedAt": "2025-02-26 10:30"
+            },
+            "vehicleinsurance": {
+                "object": "insurance-info",
+                "id": "769cfc9d",
+                "userId": "769cfc3f",
+                "vehicleId": "769cfb98",
+                "insuranceProvider": "bbhh",
+                "policyNo": "hshahah",
+                "nameOnPolicy": "gqgagag",
+                "expirationDateOfPolicy": "2025-02-26",
+                "createdAt": "2025-02-26T06:27:17.450580Z",
+                "updatedAt": "2025-02-26T10:30:38.984100Z"
+            },
+            "attachments": [
+                {
+                    "object": "attachment",
+                    "id": "769cf3b3",
+                    "user_id": "769cfc3f",
+                    "modelId": "769cfb98",
+                    "modelType": "Vehicle",
+                    "fileType": 1,
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1740553171893.jpg",
+                    "fileName": "1740553156058270.jpg",
+                    "fileSize": "24717",
+                    "visibility": "public-read",
+                    "status": "pending",
+                    "attachmentType": "vehicle-front",
+                    "createdAt": "2025-02-26T06:59:33.087516Z",
+                    "updatedAt": "2025-02-26T06:59:33.087562Z"
+                },
+                {
+                    "object": "attachment",
+                    "id": "769cf3b2",
+                    "user_id": "769cfc3f",
+                    "modelId": "769cfb98",
+                    "modelType": "Vehicle",
+                    "fileType": 1,
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1740553173106.jpg",
+                    "fileName": "1740553159693758.jpg",
+                    "fileSize": "7077",
+                    "visibility": "public-read",
+                    "status": "pending",
+                    "attachmentType": "vehicle-back-side",
+                    "createdAt": "2025-02-26T06:59:34.184961Z",
+                    "updatedAt": "2025-02-26T06:59:34.184984Z"
+                },
+                {
+                    "object": "attachment",
+                    "id": "769cf3b1",
+                    "user_id": "769cfc3f",
+                    "modelId": "769cfb98",
+                    "modelType": "Vehicle",
+                    "fileType": 1,
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1740553174203.jpg",
+                    "fileName": "1740553165328350.jpg",
+                    "fileSize": "7439",
+                    "visibility": "public-read",
+                    "status": "pending",
+                    "attachmentType": "vehicle-left-side",
+                    "createdAt": "2025-02-26T06:59:35.284658Z",
+                    "updatedAt": "2025-02-26T06:59:35.284691Z"
+                },
+                {
+                    "object": "attachment",
+                    "id": "769cf3b0",
+                    "user_id": "769cfc3f",
+                    "modelId": "769cfb98",
+                    "modelType": "Vehicle",
+                    "fileType": 1,
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1740553175306.jpg",
+                    "fileName": "1740553167836813.jpg",
+                    "fileSize": "56329",
+                    "visibility": "public-read",
+                    "status": "pending",
+                    "attachmentType": "vehicle-right-side",
+                    "createdAt": "2025-02-26T06:59:36.697194Z",
+                    "updatedAt": "2025-02-26T06:59:36.697226Z"
+                }
+            ]
+        },
+        "message": "Vehicle details displayed"
+    },
+    "error": null
+}

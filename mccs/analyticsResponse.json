@@ -1,0 +1,32 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "Dec": {
+                "totalQuotations": 0,
+                "totalServiceRequests": 0
+            },
+            "Jan": {
+                "totalQuotations": 0,
+                "totalServiceRequests": 0
+            },
+            "Feb": {
+                "totalQuotations": 0,
+                "totalServiceRequests": 0
+            },
+            "Mar": {
+                "totalQuotations": 0,
+                "totalServiceRequests": 0
+            },
+            "Apr": {
+                "totalQuotations": 1,
+                "totalServiceRequests": 0
+            },
+            "May": {
+                "totalQuotations": 1,
+                "totalServiceRequests": 0
+            }
+        },
+        "message": "Analytics fetched"
+    }
+}

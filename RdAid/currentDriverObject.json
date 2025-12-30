@@ -1,0 +1,23 @@
+{
+    "driverDetails": {
+        "id": "769cfd4c",
+        "name": "testDriver3",
+        "firstName": "testDriver3",
+        "lastName": "kjhgfd",
+        "userProfileImg": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1730305084565.png",
+        "online_status": true,
+        "ratingCount": 11,
+        "ratingAvg": 4.5,
+        "distance": 0.84,
+        "lat": 24.9235782,
+        "lng": 67.0918123,
+        "arrivalTime": "4 mins"
+    },
+    "servicePricing": {
+        "serviceName": "Fuel Delivery",
+        "serviceCharges": 15,
+        "chargesPerUnit": null,
+        "distance": null,
+        "chargesPerUnitAfterSlab": null
+    }
+}

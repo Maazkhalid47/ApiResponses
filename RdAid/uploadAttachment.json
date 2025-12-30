@@ -1,0 +1,23 @@
+{
+    "success": {
+        "code": 201,
+        "data": {
+            "object": "attachment",
+            "id": "769cfb7c",
+            "user_id": "769cfd50",
+            "modelId": "769cfd50",
+            "modelType": "User",
+            "fileType": 3,
+            "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1732622424767.png",
+            "fileName": "1732622423641761.png",
+            "fileSize": "324141",
+            "visibility": "public-read",
+            "status": "active",
+            "attachmentType": "proof-of-residency",
+            "createdAt": "2024-11-26T12:00:26.444059Z",
+            "updatedAt": "2024-11-26T12:00:26.444095Z"
+        },
+        "message": "Image uploaded successfully"
+    },
+    "error": null
+}

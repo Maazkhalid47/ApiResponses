@@ -1,0 +1,63 @@
+{
+    "statusCode": 200,
+    "message": "Success",
+    "data": {
+        "id": 97,
+        "firstName": "maaz",
+        "lastName": "khalid",
+        "email": "maaz.khalid+tourist6@progstream.com",
+        "status": "ACTIVE",
+        "role": "TOURIST",
+        "formStep": "COMPLETED",
+        "createdAt": 1752753887619,
+        "updatedAt": 1752753887619,
+        "accessToken": {
+            "token": "eyJhbGciOiJIUzUxMiJ9.eyJ1dWlkIjoiN2QzMzE5MTQtNDk2NC00NTYzLThkNGMtN2FiY2Q4YjQ0Yzk1IiwiaXNzIjoiYW50cm9waWthIiwiYXVkIjpbImFudHJvcGlrYS1jdXN0b21lcnMiXSwic3ViIjoibWFhei5raGFsaWQrdG91cmlzdDZAcHJvZ3N0cmVhbS5jb20iLCJpYXQiOjE3NTI4MjE4MjEsImV4cCI6MTc1MjgyNTQyMX0.trhYlOr-16af1_u1GWJi8Egvi98sB-AR0NVFLShe5bRl4nngL3g5nCH_AXGI0XquZB1SHUAcXg45W8gb6zFSwA",
+            "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJ1dWlkIjoiN2QzMzE5MTQtNDk2NC00NTYzLThkNGMtN2FiY2Q4YjQ0Yzk1IiwiaXNzIjoiYW50cm9waWthIiwiYXVkIjpbImFudHJvcGlrYS1jdXN0b21lcnMiXSwic3ViIjoibWFhei5raGFsaWQrdG91cmlzdDZAcHJvZ3N0cmVhbS5jb20iLCJpYXQiOjE3NTI4MjE4MjEsImV4cCI6MTc1MzY4OTQyMX0.2tPAHd6GbLdHvg_2yH-vtAm2k9aZWpVI0zAGzghZxc_Vojl2luPwMom-iat0NxlAn6yLz58pKJ0IMs9aSUPoBw",
+            "tokenExpiry": 1752825421706,
+            "refreshTokenExpiry": 1753689421706
+        },
+        "profile": {
+            "id": 91,
+            "phone": "0330297528",
+            "language": "English",
+            "country": "Italy",
+            "city": "Rome",
+            "countryCode": "++92",
+            "isoCode": "PK",
+            "userId": 97,
+            "createdAt": 1752753995052,
+            "updatedAt": 1752753995052
+        },
+        "guideInfo": null,
+        "ratingAverage": null,
+        "ratingCount": null,
+        "profileImage": {
+            "id": 326,
+            "modelType": "USERS",
+            "modelId": 97,
+            "attachmentType": "PROFILE",
+            "url": "https://antropika.s3.eu-central-1.amazonaws.com/dev/users/97/file-1752753995823.jpg",
+            "name": "file-1752753995823.jpg",
+            "fileType": "jpg",
+            "fileSize": 3600729,
+            "visibility": "VISIBLE",
+            "status": "ACTIVE",
+            "userId": 97,
+            "createdAt": 1752753995823,
+            "updatedAt": 1752753997970
+        },
+        "licenseImage": null,
+        "successfulTours": 0,
+        "isFavorite": false,
+        "stripeId": "cus_ShF2ThudR7ltiD",
+        "reviewedBy": null,
+        "guideToursCount": null,
+        "guideLocationsCount": null,
+        "guideTotalEarning": null,
+        "guideLastMonthEarning": null,
+        "touristBookingCount": null,
+        "guideTripsCount": null
+    },
+    "errors": []
+}

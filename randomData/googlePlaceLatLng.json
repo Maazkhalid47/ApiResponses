@@ -1,0 +1,162 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "Mikkeli",
+        "short_name": "Mikkeli",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mikkeli",
+        "short_name": "Mikkeli",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mikkeli",
+        "short_name": "Mikkeli",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "South Savo",
+        "short_name": "South Savo",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Finland",
+        "short_name": "FI",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"locality\">Mikkeli</span>, <span class=\"country-name\">Finland</span>",
+    "formatted_address": "Mikkeli, Finland",
+    "geometry": {
+      "location": {
+        "lat": 61.68854769999999,
+        "lng": 27.2722598
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 62.19903567849253,
+          "lng": 27.90027496972766
+        },
+        "southwest": {
+          "lat": 61.20955795659846,
+          "lng": 26.82762811898009
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mikkeli",
+    "photos": [
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101763436964173038643\">Sirpa Helena Hyytiä-Hallenberg</a>"
+        ],
+        "photo_reference": "AWn5SU6HJEGBqRm0SwphKxn6VxS8ezLo0Q4wAPDR4whC8h4BHXoJFN2t1akx5-1T51krBHk_6xhpn4v8YQKyNzCi1jJfsJ7rJpFS_Wk6LCIuu2u1e0hw-Te8ZD2-ZwZJMCAA6Cyzs5pUI2HNzSz1gLtX_ihlsb9loMcRn-q6TVsURhy9kV4SJ6RFy-do6fRxdOKQ5YdpZSysTeEwGC44WN5BWr1ex1j4hujdDlqg06tXenPUQ7MbQ9D_2W9gshnmYDygoMVF4eKg2MZ0d2mOS0bRzd_GhN00cSE-XIiPQ2ddL58DRS_h2GwFB0fPsvNEg2_mjL0NxOAumH604862gdeYudp00WOy2dx9IYyUIYoWSDKwAi9ptVcwNSzEtdEOrk3aMsIhl27Dk0CrORdKf2LK-sTiIfwQVTVFhhA36RJ_eRGJCw",
+        "width": 4128
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107736010532244940630\">Bernhard Koelmel</a>"
+        ],
+        "photo_reference": "AWn5SU4gjQ-xvnvBgICVoygS2RXB3gIvZkayVelD5WI_Jv2jxxxb3eg-1BiW705UCIKU-lQVYy_XlCbMGiASPAAMmcw7iL9LZfRmHJoFh01uZP2qRutvpCxwjCuHOD8foMmYb72JO8FqgpedvdEBUziAdlqvNFyoewEXB0NtewBJuJ6wKS3QzIarWz0au_bLzUqLszc6uI4GQrXkMa_D3WlDGvulc4_sw4Ch6CaEhcGfg32X-LCMsWEjueGclxOAMOw-KeR8UgeFFDc6jjzpOSpffSPfAXnOrh9YXF5vgSgl_79oG5kiSPJmcA-l39a1M2hzyk1UjJazw5Myfsr6bq487zsZE8HR_A535zcau4a7mce6n2l_vczaUpr3e10HKGK3C6eXOPWt2NgxiFP6SKiPjbPYD0JePqfQSmeF3Xj5Nw5FHQ",
+        "width": 3264
+      },
+      {
+        "height": 3179,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107736010532244940630\">Bernhard Koelmel</a>"
+        ],
+        "photo_reference": "AWn5SU5MXv8C0NqpnY5mv9bbBr9MQAmE8gLphQzMpBISu9AR7I4O3KDUIIPWAg7khnppoZkevOTquiUyjEnu0Rna2j5Veey2aQa84EW1zzBqCOIZR_H_7gMgiUlvYLlIv-lYH5jzOgTZ7njM7MNPHRbVXxNPo50liiKcwKn0-S9kR18qD-YGhuTsB5PhbLgYx72C8JrwZzjZf7t-OR3R1sQ02oHwyaUHWZmhLkxUv7ZuPHVCtLMU5wWwpnp5jY_YOT0vPPJJPJaFrxob_kOUcrc2pW-M3HpZJxZi1UyzpTc9sBf-KJVsOiUdDrmsDEca90531JLVCw1_V4g_y_e-LPZZreGPJQPQs0Udwn8_xhpYdbS3Wiq-TefZGGqTuJxArNSdS0aJIvML5urIpwrJF5rJbLiKMOxurTgUw7dGgeU24k556Q",
+        "width": 4800
+      },
+      {
+        "height": 3472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115406762647643112303\">Ilkka elias Pentikäinen</a>"
+        ],
+        "photo_reference": "AWn5SU6igHBDHMgGJX4TvIWckvex_-7ibzLJlZFiyEpBL7uEXiTOcvXVpM_lb44x6rRDYJ3A9ws6lFKkeP07IT9IlxaqQHfQpIkrlQ7TVNVT5RZTVLa46xuihdhxFD8aZ8o7dZK9HVQPy3YZ5g7qqV63O438URmMoIqwos71y4S9TaBzJUU28o-snewaVk9iL7mW9qSOw16s-Gr-lK0We5tpRBjqdQdOYFPn2GTBHHr4GFkh9t_xa2Dr5bMV9DuqAvEVdR3VJtXMj9K9jO2lsyFjH0pvVaejAjG7hAe7ugsY7JMEr_XArjazCgIUfXypN_jVHTJJyRQMl7iirCoPtaII4astON06XA5VDDoAB1F1dpjx_EcV-j9W_vKJ9IDXQ0x8_9sWIfDQWh6KcSXVf6UJwPls4w6ZJWTYJOgCXKoSitfUZA",
+        "width": 3472
+      },
+      {
+        "height": 3179,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107736010532244940630\">Bernhard Koelmel</a>"
+        ],
+        "photo_reference": "AWn5SU5AWX5ES-pfjqYAUNOgOeeMd9PXPW29pPyU86J61TFFXd0kcgzlSANTq_ylWQklrQL6XOlrvNSqjgFWgJmLeIDZKiByIt6qkMrhACCRthaWHp_AObnByC821QC2RATKJ1e4IOWbLXlTrQDg-bskz1Sb1aV1uRSOkFKHYP-Fkl4Zi68XKUCNHQdxr3q4W7591avWQ9Jhl2q8pYJqa3pKSkgfNZ8TKtjEkcbTqDpxc1RQ_iTuh9nnIxOFN8bfO8Opjb_9NwgMZUldP-Q3ouNGllh6tMKw9RXJaWZ8iP8K170dTCUEUzzKsNqUb8oEKUdGEvlX3XXk-WrB_oIT-5PykIZ8LKWUFFttRyiXd4-_amKPEaGHPTdMwE7EHNtZ7jNwftUEFUEOTV32hkzWKNNu6uQh2bBQHWM1wqKev-IP1Fk",
+        "width": 4800
+      },
+      {
+        "height": 747,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100876372183045226973\">Gezen Tabipb</a>"
+        ],
+        "photo_reference": "AWn5SU4iyCFCurDMaWGEvykExi0F_FGFM1NMvM8V1r8bNAGtQb-P6W6a4kKbOKjO8lqX2qvS5FA0VGlZ4M1NBFeDN4K1R3re8hOis3CB419n-x_AQoPHW04nToY9HFXpqGLQ4oln2VL_m_bAGHiW5PgOpJbaDj_iZnjmtf0cDJ146ebpQ2DW6vnRi4Q4OP2y-O_-93BVxCFVFPzMYEbeF2XFESTYoZBqor3gO81-HcYHpF2SLNPLJGNg6CIONyhtehHpb7C2xbzAO8ej-lFy5lOyu0Z4L_WvpABsAovcsh8IuJsoaOUj4p-FeEDSNq1VdIdpUS8tt3JnYGIo1RbYxEIuhTYSP_t2bkJVD4OjCJZMhrKI1o4SaxFDZj4lmyoroxX3VFsh9c68eAfpKGtZVIMXjebzU_FzNG0IP8ITBsk9PzUgow",
+        "width": 1328
+      },
+      {
+        "height": 905,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107736010532244940630\">Bernhard Koelmel</a>"
+        ],
+        "photo_reference": "AWn5SU5vyvxfS-IK6EpsWNTSBE-XQTeOzldwYB1aVO2sX6uingVTVkLFz1OS34nLPUFAQD91QtMtL9Lb8y_yf-iqVxm3jU7-EPWsmzpfCehewblt-QIxnuEYlCAWurK803lipbmLhwDXGTEzLZ6iONtldkxYwntELpK88qtCv1PBcOgEd5dlSsaYdXxZEsJD863_r_Rkys0jaKinWXvZdUESbiCQMXZIKOmR27obyUngiGYeoHch6XK12IvrjMftUti7a_pSdATZVGX6-EVNI39nNM_4ox1GpPy7PJNlqHV7j4TRO5onPY4bF2johdCZP0mNrXozBrE4zDjvkr052IPiZkA3DepbuxaGhrEnS5FQNnDhtIjWLDrNlRjyzrscKvLcqoob7dx2E0ATdpCwt5ucCEE2uDfJS4TTI6DX4GhPmg0",
+        "width": 1600
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102015187450562442712\">Яна Вегис</a>"
+        ],
+        "photo_reference": "AWn5SU75AtFfB43IXgGKIpfzceI-bzxC6pdvDHzOLks8t7avBuxyqdSWBiARAPZtjanesamjXc9vVKvoPnYHopK-igoZEteCYk_skdt32t_0zt_-oETJP049_M-mvqdc57VHHCt0A-Ng7MzKH2-jNQV-hc-C9ScPjhehivgABmEvr2GePwsmBvCz15pFDS_J7MqmouC8_o3oJtszhyK5qx2NXV9cEfaZpPF1gM8KcdwhfLVBJicMzlSMqvNWWaJY14_OeVWfghZS0aUQ57sGQy7GWF0vaBOWT8iwjzlktGbuRelPigwZrM1c3Nal27uPud6atri-haVlw__udnM8DUKMr4b6VbZZ2ZZlslQgFz5QjxEaQ_Sa3pdg2mgXtASqPUYnGl1MiQ3UjTxuLWvUwNbDPc6Tnnc848MhkPUT-E242MdZRpI1",
+        "width": 4800
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107736010532244940630\">Bernhard Koelmel</a>"
+        ],
+        "photo_reference": "AWn5SU7HV44nZS49R1SzQoK1Nkt1Hdy33z_6FDpRFszUUz0IA_XwYigx4q2gJaby9pk5IYv7ffISVSB1v4zxxQU0TC9u-9Z8mbkHiMVf5h4ur4FHpl_zF4DHEJkkEnB9UsHH32VVN9atiHIL0umsdfvTR1NAJKymJe6Pl8cNrUAT9qIJiIM7ohoQZQQJyFYJuxxAjtmSegBOSRZkuxTv-PBBFiYAIaRSeDfqXhUw87UQePjnhIJzx4rQwAS36Pon1fwrY5CsUsnO3aO4j4z8mDGArijP10thLBVHsqcL8BgG6dg6fnqSinLs9ai0u6H6Bkw8hfVXSoolZC8J-4KSBOoiKQfL6cQTrCFaWeE1gwcsTUONsnMLc9X99BwuoxXsAWpCaE9IDSoN63lt0KwcDe1sW6nuYJHWE7Ilm8Gra2g3clskSA",
+        "width": 905
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107251503069996979729\">Terhi Dostal</a>"
+        ],
+        "photo_reference": "AWn5SU6zrNMFAdMUdO0IgVIWwBAUgGiwXzZ-AhelJ_2QxX_BKVOb2HTf0Uhakj951F8KdGZdxIoCFhjN-9i1uEUq9RZbWbuDe980X_-GcMrj9m3HFyc9P914nP1xEdqlPkvNg9J0QVslWa-jZPWER6fclRpv07HZRtJ3oWqGtx5ouQWmWslhslj6GzpT1NvoZCRvMhy8GR0T8_jbuoNp76XcU1rm7MwR6Vp4HVJChFP9dM4RbOUpAdujAotXbZUSgTD6R0fTYBbm93dYaBJj9Zeb-BQE9VmrfIE6dxAP52BI_EcLlD_eOLf4DvGL_G9-T6qkcenih-feMiRpFBOzAraXUtu9je2CFcgxIuDUpUDf5wpFPgpIL-G8LJdqZKvrCLvbWKtMgpwqZHasH4C9aWVp3CG549Ajq_8fsg5DpcWJTHU5TQ",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJYQeJGnehmkYRhxFMgKNgjm4",
+    "reference": "ChIJYQeJGnehmkYRhxFMgKNgjm4",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "url": "https://maps.google.com/?cid=7966411046213390727",
+    "utc_offset": 120,
+    "vicinity": "Mikkeli",
+    "website": "http://www.mikkeli.fi/"
+  },
+  "status": "OK"
+}

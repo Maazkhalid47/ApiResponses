@@ -1,0 +1,36 @@
+{
+    "code": "200",
+    "data": {
+        "objects": [
+            {
+                "id": 9,
+                "name": "Kivist\u00f6",
+                "longitude": "24.849998",
+                "latitude": "60.316042",
+                "location": "Topaasiaukiolla, Vantaa , Finland Topaasikujan (asemanpuoleisessa) p\u00e4\u00e4ss\u00e4.",
+                "store_url": "kivisto.liiteri.net",
+                "status": "active"
+            },
+            {
+                "id": 10,
+                "name": "Matinkyl\u00e4",
+                "longitude": "24.738751",
+                "latitude": "60.158846",
+                "location": "Kala-Matti, 02230",
+                "store_url": "Suurpelto",
+                "status": "active"
+            },
+            {
+                "id": 2,
+                "name": "Teurastamo Tukkutori",
+                "longitude": "24.970005",
+                "latitude": "60.19034",
+                "location": "Vanha talvitie 10 G, 00580 Helsinki, Finland",
+                "store_url": "teurastamo.liiteri.net",
+                "status": "active"
+            }
+        ]
+    },
+    "status": "success",
+    "error": false
+}

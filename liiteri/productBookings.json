@@ -1,0 +1,38 @@
+{
+    "9": {
+        "11-02-2025": null,
+        "12-02-2025": {
+            "items": [
+                {
+                    "start_dt": "00:00:00",
+                    "start_date": 1739300400000,
+                    "end_dt": "23:59:59",
+                    "end_date": 1739386799000,
+                    "days": 3,
+                    "duration": 36
+                }
+            ],
+            "day_start": "00:00:00",
+            "day_end": "23:59:59",
+            "type": "block",
+            "duration": "23.98"
+        },
+        "13-02-2025": {
+            "items": [
+                {
+                    "start_dt": "00:00:00",
+                    "start_date": 1739386800000,
+                    "end_dt": "03:45:00",
+                    "end_date": 1739400300000,
+                    "days": 3,
+                    "duration": 36
+                }
+            ],
+            "day_start": "00:00:00",
+            "day_end": "03:45:00",
+            "type": "partial",
+            "duration": "3.75"
+        }
+    },
+    "10": null
+}

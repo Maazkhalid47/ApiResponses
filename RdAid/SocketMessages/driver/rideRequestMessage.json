@@ -1,0 +1,100 @@
+{
+    "message": {
+        "object": "ride-details",
+        "id": "769cfc0d",
+        "rideStatus": 9,
+        "createdAt": "2024-11-01 12:53",
+        "rideCost": 0,
+        "serviceName": "Fuel Delivery",
+        "paymentStatus": false,
+        "rideRating": 0,
+        "customerDetails": {
+            "id": "769cfd4d",
+            "name": "Customer1 Maaz",
+            "email": "maaz.khalid+customer1@progstream.com",
+            "phone": "03030303030",
+            "profileImage": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1730296151890.jpg",
+            "ratingCount": 0,
+            "ratingAvg": 0
+        },
+        "serviceDetails": {
+            "object": "service",
+            "id": "769cfd7d",
+            "title": "Fuel Delivery",
+            "description": "Fuel delivery services",
+            "durationInMin": 5,
+            "expirationDate": "2024-10-31",
+            "serviceFor": 1,
+            "driverCount": 7,
+            "status": "active",
+            "servicePrice": {
+                "object": "servicePrice",
+                "id": "769cfd7d",
+                "serviceId": "769cfd7d",
+                "paymentType": 1,
+                "serviceCharges": 15,
+                "distance": null,
+                "chargesPerUnit": null,
+                "chargesPerUnitAfterSlab": null,
+                "adjustablePrice": true,
+                "allowNightShift": true,
+                "unit": "miles",
+                "createdAt": "2024-10-03 06:56",
+                "updatedAt": "2024-10-30 14:23"
+            },
+            "serviceIconUrl": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1730298237293.png",
+            "driverOnline": 0,
+            "createdAt": "2024-10-03 06:56",
+            "updatedAt": "2024-10-03 06:56"
+        },
+        "vehicleDetails": {
+            "object": "vehicle",
+            "id": "769cfd56",
+            "userId": "769cfd4d",
+            "make": "Chrysler",
+            "model": "Aspen",
+            "year": "2021",
+            "color": "red",
+            "fuelType": "Gas",
+            "tireSize": "R14",
+            "identificationNumber": null,
+            "registrationNumber": null,
+            "stateOfRegistration": null,
+            "licensePlateNo": "llm231",
+            "expirationDate": null,
+            "towTruck": null,
+            "status": "active",
+            "createdAt": "2024-10-30 13:50",
+            "updatedAt": "2024-10-30 13:50",
+            "attachmentUrl": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1730296206794.png"
+        },
+        "pickUpLocation": {
+            "object": "location",
+            "id": "769cfaba",
+            "user_id": "769cfd4d",
+            "latitude": 24.9230625,
+            "longitude": 67.0933125,
+            "country": null,
+            "state": "Sindh",
+            "city": "Karachi",
+            "streetAddress": "W3FV+686 Eastern Apartment, Block 6 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+            "homeAddress": null,
+            "postalCode": null,
+            "apartment": null,
+            "modelId": "769cfc0d",
+            "modelType": "Ride",
+            "status": "active",
+            "createdAt": "2024-11-01 12:53",
+            "updatedAt" : "2024-11-01 12:53"
+        },
+        "userAnswers": [
+            {
+                "question": "Do you need anything else?",
+                "answer": "No we don't  need anything"
+            }
+        ],
+        "driverDetails": null,
+        "estimatedRideCost": 15,
+        "customerArrivalTime": "4 mins"
+    }
+}

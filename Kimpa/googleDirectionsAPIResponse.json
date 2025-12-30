@@ -1,0 +1,460 @@
+{
+   "geocoded_waypoints" : 
+   [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJL8qybj73jUYRhLMe5nJUi_Y",
+         "types" : 
+         [
+            "premise",
+            "street_address"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-cwofMkLkkYRBipdZNu328c",
+         "types" : 
+         [
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant"
+         ]
+      }
+   ],
+   "routes" : 
+   [
+      {
+         "bounds" : 
+         {
+            "northeast" : 
+            {
+               "lat" : 60.28054880000001,
+               "lng" : 24.9097537
+            },
+            "southwest" : 
+            {
+               "lat" : 60.16226520000001,
+               "lng" : 24.8033726
+            }
+         },
+         "copyrights" : "Powered by Google, ©2025 Google",
+         "legs" : 
+         [
+            {
+               "distance" : 
+               {
+                  "text" : "21.7 km",
+                  "value" : 21705
+               },
+               "duration" : 
+               {
+                  "text" : "25 mins",
+                  "value" : 1528
+               },
+               "end_address" : "Itämerenkatu 25, 00180 Helsinki, Finland",
+               "end_location" : 
+               {
+                  "lat" : 60.163039,
+                  "lng" : 24.9058342
+               },
+               "start_address" : "Tiilenlyöjänkuja 5, 01720 Vantaa, Finland",
+               "start_location" : 
+               {
+                  "lat" : 60.28054880000001,
+                  "lng" : 24.8147334
+               },
+               "steps" : 
+               [
+                  {
+                     "distance" : 
+                     {
+                        "text" : "78 m",
+                        "value" : 78
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 60.2799825,
+                        "lng" : 24.8155588
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eTegelslagargränden\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eTiilenlyöjänkuja\u003c/b\u003e toward \u003cb\u003eBölenraitti\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eBölestråket\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "mp|nJasmvCNYt@sAJOFODEDGJI"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 60.28054880000001,
+                        "lng" : 24.8147334
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.3 km",
+                        "value" : 336
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 60.2778535,
+                        "lng" : 24.8113782
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePetikkovägen\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003ePetikontie\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "{l|nJgxmvCFTDNHRDJR`@Xd@HLFFRRl@n@Z^T`@@@JR@BXn@@T?D^nAPj@HV`AfDV|@Tx@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 60.2799825,
+                        "lng" : 24.8155588
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.5 km",
+                        "value" : 521
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 60.2767806,
+                        "lng" : 24.8035287
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eTegelpojkslänken\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eTiilipojanlenkki\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : 
+                     {
+                        "points" : "q_|nJc~lvCFTNj@J\\@?FHNf@@F~@hDPh@XdAX~@Pn@DLHbAZjAj@nBLh@F`@Bl@?PCXANETEVSv@WhASz@?@@FKXGPEDA@Sh@C^?b@?H?FBVB`@@`@Dr@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 60.2778535,
+                        "lng" : 24.8113782
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "5.7 km",
+                        "value" : 5662
+                     },
+                     "duration" : 
+                     {
+                        "text" : "8 mins",
+                        "value" : 502
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 60.2358013,
+                        "lng" : 24.8584171
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVichtisvägen\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eVihdintie\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRoute 120\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "{x{nJamkvCD^TKTKJEPIj@O\\K~Ba@n@ITKJEn@SHADCj@M^IVGXIjA_@ZM^KhA[~@Uf@KREFAHCREb@G\\IB?\\Gv@K^E^GRGj@IZEHAJAr@Kl@IDAxAYd@M\\KJEVGRIVITKTKNGRKRMTKHGHEf@[TOTMDENKNKDCJKFEHGPMFGDClAcATSXWHIPOFGnAmArAuApAwAb@g@`@c@v@{@x@}@Z[NQJKPSDEDEDEl@m@TU^a@RQPQj@i@`@_@LKh@e@d@c@v@o@v@q@BCPMfDkCf@]p@e@nA}@LIRMvDiC@A`@[PO^]NMBC`@c@HKX]z@iA~@_BFM\\s@N[Xo@Zy@JYJWh@cBd@iBHYVgAVkAl@iCh@cCBM`AkEl@kCJ_@Nq@TcARw@Nq@l@cCLa@H]?C`@aB`@gBh@}Bl@iCd@iBRu@ZgAr@wBr@eB\\_ATi@Rc@n@{APa@bA_Cj@wADKx@gB`@_AVm@Te@P_@dAaCDKlAqCb@aARe@t@aBFOPa@hBgEfAeC?Ap@}A\\w@Tg@X{@LYN]Re@\\u@Xo@DKRe@Xm@HSHQp@yAN]^{@JUFKFMFO@C@AHQFMDIDKVg@Pc@Zq@LSh@iAvAyCJSLW\\q@N[@ADIDKLSDKVe@FMNYFMFKTa@h@eAn@mANY^s@DIBGP[b@{@bAmBj@gA`@{@JOZo@LSVc@z@_BP]f@{@z@eBJUj@iAh@cAJUJQJQh@cA@Al@kAb@{@p@qAFIVk@h@aABEP]`@w@HOx@}An@mAtAgCx@_BXm@t@sALU`@y@Ve@r@uA`@u@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 60.2767806,
+                        "lng" : 24.8035287
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.3 km",
+                        "value" : 345
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 60.2332979,
+                        "lng" : 24.8569859
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto the \u003cb\u003eKehä I Länteen\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRing I Västerut\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRoute 101\u003c/b\u003e ramp to \u003cb\u003eLeppävaara\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAlberga\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRoute 1\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : 
+                     {
+                        "points" : "wxsnJcdvvCJB@?^i@^k@l@i@NMLKJGHEJELC@?LAL?H@NDLDJDLHNNd@v@?@Xz@BHNf@DFHZ`@bBDTRl@Xj@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 60.2358013,
+                        "lng" : 24.8584171
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "2.7 km",
+                        "value" : 2744
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 mins",
+                        "value" : 137
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 60.2212541,
+                        "lng" : 24.8168486
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eKehä I\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eMurmästarsvägen\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eMuurimestarintie\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRing I\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRoute 101\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Kehä I/\u003cwbr/\u003eRing I/\u003cwbr/\u003eRoute 101\u003c/div\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : 
+                     {
+                        "points" : "cisnJe{uvCH\\\\`BDRZrA`@jBn@zCz@|D^|A\\zADR@FDNd@~BTlAXvAVvAZhB^hC^pCLbAFd@NzADb@JfBHfABRFjADl@FvADdA@f@BnAFrB?l@HfG?RBhBB~BBp@B`ABb@DfAFvADx@Fp@NtBTrCLjADf@Hf@PvA@J\\`C^hC^tC^jDP~BXnEJxA@JBp@HzCF~B?d@H`DJtAFf@@TNbALp@Nz@L`@Ld@Vt@FRZr@HPDJXd@fArA^RRLVLj@X^RFBNHNJJHPLJJHFFHTXFHJLHLLVDD@DNZDFFPJTFRPj@`@nA@DXbAJ`@X~@Nf@\\|@FPDJDJDHBFDJHLP^b@v@T\\PNLJ\\j@V`@t@nA^j@v@nAZf@p@fAXb@^n@NTV\\T^Z^HJJJLJJLFD"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 60.2332979,
+                        "lng" : 24.8569859
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "1.0 km",
+                        "value" : 1015
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 60.2121583,
+                        "lng" : 24.8158781
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003eKehä I\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eMestarintie\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eMästarvägen\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRing I\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRoute 101\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Kehä I/\u003cwbr/\u003eRing I/\u003cwbr/\u003eRoute 101\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : 
+                     {
+                        "points" : "y}pnJi`nvCn@`@FDZNb@NHBHBH@@?HBH@N@J@J@X@\\?`@@P?H@L?D?T@l@Bt@B@?H?L@\\@r@@^BtBH`@@h@@L?D?R@N?|@BvBDhCFb@@rCF^AL@B?PBjADH?@?j@@L?X@`ABd@@J@D?H?B?@?X@n@D"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 60.2212541,
+                        "lng" : 24.8168486
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "5.3 km",
+                        "value" : 5291
+                     },
+                     "duration" : 
+                     {
+                        "text" : "5 mins",
+                        "value" : 304
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 60.1704712,
+                        "lng" : 24.8239771
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003eAlbergavägen\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eHagalundintie\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eHagalundvägen\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eKehä I\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eLeppävaarantie\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRing I\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRoute 101\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Hagalundintie/\u003cwbr/\u003eHagalundvägen/\u003cwbr/\u003eKehä I/\u003cwbr/\u003eRing I/\u003cwbr/\u003eRoute 101\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : 
+                     {
+                        "points" : "_eonJgzmvCf@GDAD?t@BpB@V?L@rA@R@tABJ?L@X?l@@VB`A@V@V@z@BX@p@@N@H?ZDN@J@N?X@dAD\\B\\?X@T?B@`@BP?F?H?l@@pAFTB^DVFZDj@NLBVHb@PPH^Nf@Z`@VZVJHj@f@VTRT?@x@~@x@fAt@hAXd@Z`@BBLRT`@l@bAj@dAr@rA~A|Cj@bAl@jAr@vAT^FLT\\NZBBLV\\j@b@p@PV\\f@NRZ\\^`@b@^BBx@h@v@f@h@Tf@Pb@LXH|@LhCRH?R@B?j@?h@?Z@vA?N?T?x@@b@?PA`A?j@?j@At@C~@G`@C`@Gr@K@?vAUx@MnAS~@MhAQ|@OF?v@Mv@MXCt@Oh@Md@MNEPGj@WXK`@Ub@Yz@i@p@m@fAy@z@{@v@y@z@_AX[LM^c@BEHKPSJODIV_@Za@n@}@Zg@RYR]b@q@n@eABG^o@Vg@^s@Xm@Vg@^w@Zs@h@qAN]d@iA@CHW^eA\\}@t@_Cj@aBRo@J]FOl@qB|@yCPm@FUHYDM?AdAoDDQBKp@mCV_ABIPq@x@sCRk@L_@FULa@L_@Nk@Jg@R_A@C^kC`@yB^uBDQPu@?CH]HW@EFUHQBIDMJUBGFMLUHOBEXe@HMb@a@NMZSb@S`@OLENCB?PEPAF?LAN?H?L@L?H@JBL@HBLBJB`@Lx@\\h@RVL\\L\\LPHRHd@RlAf@l@V^PXLXNVHbA`@pAf@r@XTLZP`@\\RNJJRRj@t@hApAjArBZd@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 60.2121583,
+                        "lng" : 24.8158781
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "4.8 km",
+                        "value" : 4791
+                     },
+                     "duration" : 
+                     {
+                        "text" : "4 mins",
+                        "value" : 224
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 60.1670384,
+                        "lng" : 24.9019557
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to merge onto \u003cb\u003eRoute 51\u003c/b\u003e toward \u003cb\u003eHelsinki\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eHelsingfors\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : 
+                     {
+                        "points" : "m`gnJ{lovCVJ|@bARPJFD@@@LDB@\\H@@PBN@@?F?B?@?N?B?@?@?@?D?VCFALCBANELIPMRO?ARSNYDIFIHUFSBMBKBSB_@@K?E?OAYAWCWAGEWGWOs@GYU_AGc@CUCWAS?EA_@A_@?G?]?m@?]Ak@Bo@?EBs@?GD_ADyADw@F{@?MFoADw@FaA@a@Di@Ba@HgAJqADe@@SLyAHkA^uD?A^gD?CTqBXiB?I@gALy@FW^aCJi@TsAz@yEHe@`@eCBO?ADS?AN{@D]RwANqANiAHu@J{@@ENyAPwANwAPgBN_BFk@Hu@D_@^{DFm@h@sFZ}CFm@XgCb@eE^qD^aELmARqB`@iE\\gDBY@G?GDYHaAp@_H@GFk@N{AReBFq@Hw@JcAFu@Fm@BWDYDg@H{@JaANiB@GJyAHeAFy@Dw@F}@Bq@Be@@O@Y?QBo@BsA?U@m@?o@?_@?c@?s@?m@?WAo@A}@AYAy@?EAE?G?IAYA]ASA_@AQCUGeAIgAScC_@wDS}AKaAk@qEk@yEqAeK?AUkBCUK_AK}@i@mFEa@?IYsCeAcM[_EGgA?A[_EEq@OaCG}@MsBMmBMuBMoBIyAKiBI}AOqCU}DSoDA[IgAK{BQ}CC]Cg@Ei@YmFSuDMsBQkDYiFGgAAKIaBEk@Cm@Co@AUAQAa@Cm@EsAAc@Ac@Ck@A{@A]?U?MAO?Q"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 60.1704712,
+                        "lng" : 24.8239771
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.5 km",
+                        "value" : 483
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 60.16557049999999,
+                        "lng" : 24.9097537
+                     },
+                     "html_instructions" : "Take the exit toward \u003cb\u003eRuoholahti\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eGräsviken\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : 
+                     {
+                        "points" : "_kfnJgt~vCHm@?A?aA?}@?aA@iA?_@?i@BgA@W?E@G@i@Bg@Bk@Bc@?OFeAFy@Di@Fu@Hs@BSJ_APyAD[@EBOHi@Hk@Nw@DODSDMBOHWL_@JUZg@NOLO@AFGJK"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 60.1670384,
+                        "lng" : 24.9019557
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.2 km",
+                        "value" : 206
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 60.16428279999999,
+                        "lng" : 24.907617
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSalmisaarenkatu\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eSundholmsgatan\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "yafnJ}d`wCJz@BPN`ANp@Nl@HXFTTp@Rn@HPBFBBDDB@F?n@Bp@A"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 60.16557049999999,
+                        "lng" : 24.9097537
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.1 km",
+                        "value" : 128
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 60.16313539999999,
+                        "lng" : 24.9077214
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eLänsisatamankatu\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eVästrahamnsgatan\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : 
+                     {
+                        "points" : "wyenJsw_wCV?vAEtAI\\C"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 60.16428279999999,
+                        "lng" : 24.907617
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.1 km",
+                        "value" : 105
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 60.163039,
+                        "lng" : 24.9058342
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eItämerenkatu\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eÖstersjögatan\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "srenJgx_wC@v@?RFnD@ZB~@B`@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 60.16313539999999,
+                        "lng" : 24.9077214
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : 
+         {
+            "points" : "mp|nJasmvCxAmCJMJIFTNb@Xl@b@r@ZZhAnAVb@LVXn@@T^tAZbAvBtHZhAHHbBbGjAbEHbAZjAx@xCJnACj@Gd@YnAk@dC@HSj@GFSh@C^?l@F`AFtAD^TK`@Q|@Y|Cm@n@ITKz@YNE|Bi@fBm@hBg@bCi@~A[xBYr@OfAOhAOr@K~Bg@tAc@rAi@fAm@|A_AzAiAnD}CbDcDtB_CnDyDbCgCpFeFdCsBnEiD`CcBzEcDbBwAhAqAz@iA~@_Bd@aApA_Dt@{Bn@cCfCaL~BeKnCgLzCqMtAgFfB}Er@iBxCaHlCkGdCuFdIaRvC}Gn@cB\\w@jAkCr@_BpCiG`AsBtFkLpAgC|KcT|BgEx@yAfA{BlBuDdBcDvEaJ`J{PnCkFLB^i@^k@l@i@\\YTMXINAV@\\JXNNNd@v@X|@b@tAf@xBRl@Xj@f@~B`@fBlDbPj@fClB|Jz@rFl@tEV`CPjCZtERtGP|LN|IV|Fz@fKb@rD|@jG^tC^jDj@nILdBLlEFdDH`DJtAH|@\\tB\\|Ad@zAb@fAN\\`BxBvBhAfAl@r@j@p@z@^p@h@jA|@tCnAlEp@fBXj@t@vAT\\PNLJ\\j@lApBdDjF`BfCfAvAXXv@f@b@Tl@R^Hp@F~CFnFPnELfBDxLVl@?TBbCFnCFz@Bn@Df@GJAlEFvHNrGNfAHzCJtAFpA@fBJv@LlBb@t@ZfAj@|@n@v@p@dBlBdDxEtA|BjFzJ~BpEh@|@j@bAt@hAl@z@z@~@f@b@pBpApAf@|@V|@LhCR\\@tB@zI?`BE`BKnDi@hMmBnASnA[fBq@dAo@z@i@p@m@fAy@z@{@rByBjAsAl@y@~BgDzBoDzAsClBaE`B}D|B{GrA_EdCoINi@jAaEt@yCfBoGv@cC\\kA^gB`@oC`AoF`@iB\\eAXu@b@y@Xe@l@o@j@a@dAc@r@Ov@Cn@Bp@LpCbAdBr@tD|AjBx@tChAhAf@|@n@^Z~@hAhApAjArBZd@VJpAtA`@Pt@Pn@@f@Ch@Mr@i@b@m@LSXcAHeAAi@Eo@_@kB]yAKy@GqAAsBAiABu@NuEj@wK^aFx@oJt@_HXsB@gALy@f@yC`@}BjBuK~@{Gf@aEbAqJtC}YdBmPbBkQfBuQxA_ObAcL^uFJaCFkD@aDAiDEwCKuCi@gHs@uGw@sGsCmUeAaKeBcS_AiM_BsW{AkXqDgq@WcIG{CA]H_A?cED{EPwE\\_Fj@aFT{Ad@gC`@uAf@}@\\_@HIJKJz@RrA^~Az@pCLXHHJ@`B@nBErBMJvGF`B"
+         },
+         "summary" : "Vichtisvägen/Vihdintie/Route 120 and Kehä I/Ring I/Route 101",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

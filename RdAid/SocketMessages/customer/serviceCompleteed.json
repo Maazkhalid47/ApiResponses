@@ -1,0 +1,7 @@
+{
+    "message": {
+        "object": "ride-completed",
+        "rideStatus": 3,
+        "message": "Ride completed. Please wait while the driver generates your bill."
+    }
+}

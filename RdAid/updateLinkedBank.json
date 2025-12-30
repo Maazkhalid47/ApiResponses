@@ -1,0 +1,18 @@
+{
+    "success": {
+      "code": 200,
+      "data": {
+        "object": "bank-detail",
+        "id": "769cfd78",
+        "bankName": "test bank",
+        "accountNumber": "000000",
+        "accountTitle": "test man",
+        "routingNumber": "000000",
+        "userId": "769cfd50",
+        "createdAt": "2024-12-24T07:08:48.001626Z",
+        "updatedAt": "2024-12-24T07:15:43.447441Z"
+      },
+      "message": "Success"
+    },
+    "error": null
+  }

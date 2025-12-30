@@ -1,0 +1,32 @@
+{
+    "code": 200,
+    "data": {
+        "object": {
+            "id": 773,
+            "max_times_redeemed": 200,
+            "name": "maaz",
+            "store_id": null,
+            "user_id": 695,
+            "status": "active",
+            "times_redeemed": 1,
+            "coupon_type": "amount",
+            "amount": "20",
+            "start_dt": 1745589030000,
+            "end_dt": 1935342000000,
+            "duration": "forever",
+            "duration_in_months": 0,
+            "currency": "eur",
+            "type": "coupon",
+            "product_id": null,
+            "order_id": null,
+            "order_ref": null,
+            "free_month_count": null,
+            "product_group_id": null,
+            "visible": true
+        },
+        "stripe": true,
+        "amount": "0.18"
+    },
+    "status": "success",
+    "error": false
+}

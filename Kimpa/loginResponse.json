@@ -1,0 +1,51 @@
+{
+  "success": {
+    "code": 200,
+    "message": "RESPONSE.USER.LOGIN",
+    "data": {
+      "user": {
+        "userKey": "80aa3d6dd3dd3d5f44da731559d50f0d",
+        "firstName": "Maaz",
+        "lastName": "17",
+        "email": "maaz.khalid+17@progstream.com",
+        "phone": "1234567890",
+        "status": 1,
+        "emailVerified": false,
+        "phoneVerified": false,
+        "newsletterSubscription": false,
+        "isBankVerified": false,
+        "fullName": null,
+        "createdAt": 1763465341701,
+        "updatedAt": 1763465341701,
+        "image": null,
+        "organization": null,
+        "roles": [],
+        "location": {
+          "id": 285,
+          "latitude": 60.29335239999999,
+          "longitude": 25.0377686,
+          "streetAddress": "Vantaa, Finland",
+          "apartment": null,
+          "city": "Vantaa",
+          "state": null,
+          "country": "Finland",
+          "postalCode": null,
+          "status": 1,
+          "userId": 248,
+          "user": null,
+          "createdAt": 1763465341731,
+          "updatedAt": 1763465341731,
+          "modelId": 248,
+          "modelType": "user",
+          "type": 1
+        },
+        "fcmToken": null,
+        "emailSend": null
+      },
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczovL3BiLWRldi1hcGkua2ltcHBha3l5ZGl0LmNvbS9tZSIsIm5hbWUiOiJtYWF6LmtoYWxpZCsxN0Bwcm9nc3RyZWFtLmNvbSIsImlzcyI6Imh0dHBzOi8vcGItZGV2LWFwaS5raW1wcGFreXlkaXQuY29tIiwiZXhwIjoxNzY2MDU3ODQ4LCJ1c2VyS2V5IjoiODBhYTNkNmRkM2RkM2Q1ZjQ0ZGE3MzE1NTlkNTBmMGQifQ.bWhyjLucYSAPudARMcHEX7zArAumwiW55YKw1pYvYkMeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczovL3BiLWRldi1hcGkua2ltcHBha3l5ZGl0LmNvbS9tZSIsIm5hbWUiOiJtYWF6LmtoYWxpZCsxN0Bwcm9nc3RyZWFtLmNvbSIsImlzcyI6Imh0dHBzOi8vcGItZGV2LWFwaS5raW1wcGFreXlkaXQuY29tIiwiZXhwIjoxNzY2MDU3ODQ4LCJ1c2VyS2V5IjoiODBhYTNkNmRkM2RkM2Q1ZjQ0ZGE3MzE1NTlkNTBmMGQifQ.bWhyjLucYSAPudARMcHEX7zArAumwiW55YKw1pYvYkM",
+      "otherToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczovL3BiLWRldi1hcGkua2ltcHBha3l5ZGl0LmNvbS9tZSIsIm5hbWUiOiJtYWF6LmtoYWxpZCsxN0Bwcm9nc3RyZWFtLmNvbSIsImlzcyI6Imh0dHBzOi8vcGItZGV2LWFwaS5raW1wcGFreXlkaXQuY29tIiwiZXhwIjoxNzY2MDU3ODQ4LCJ1c2VyS2V5IjoiODBhYTNkNmRkM2RkM2Q1ZjQ0ZGE3MzE1NTlkNTBmMGQifQ.bWhyjLucYSAPudARMcHEX7zArAumwiW55YKw1pYvYkM",
+      "signedUrl": null
+    }
+  },
+  "error": null
+}

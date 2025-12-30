@@ -1,0 +1,137 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "count": 1,
+            "next": null,
+            "previous": null,
+            "results": [
+                    {
+                        "id": 60,
+                        "message": "h",
+                        "status": "COMPLETED",
+                        "confirmationNote": "this service conform by admin",
+                        "confirmationDate": 1747180800,
+                        "confirmationTime": "15:34:00",
+                        "completionNote": "this service conform by admin be care full",
+                        "completionDate": 1747180800,
+                        "completionTime": "15:35:00",
+                        "charges": 120.0,
+                        "chippingWeight": 20.0,
+                        "confirmedBy": 14,
+                        "completedBy": 14,
+                        "createdAt": 1747136859,
+                        "updatedAt": 1747218956,
+                        "user": {
+                            "id": 26,
+                            "name": "Maaz khalid",
+                            "email": "maaz.khalid@progstream.com",
+                            "status": "ACTIVE",
+                            "role": "CUSTOMER",
+                            "formStep": "PROFILE",
+                            "emailVerified": true,
+                            "lastLogin": null,
+                            "createdAt": 1746187753,
+                            "updatedAt": 1747209765,
+                            "companyProfile": {
+                                "id": 25,
+                                "phone": "00000000000dddd",
+                                "companyName": "MaazCompany",
+                                "contactPersonName": "Maaz khalid",
+                                "numberOfLocations": 2,
+                                "createdAt": 1746187753,
+                                "updatedAt": 1747209765
+                            },
+                            "profileImage": {
+                                "id": 32,
+                                "modelId": 26,
+                                "modelType": "USER",
+                                "url": "https://progstream.s3.amazonaws.com/mccs-ps/dev/file_1747131851.jpg",
+                                "fileName": "1747131851255359",
+                                "fileSize": 426992,
+                                "fileType": "image",
+                                "fileExtension": "jpg",
+                                "attachmentType": "PROFILE",
+                                "visibility": "PUBLIC",
+                                "status": "ACTIVE",
+                                "createdAt": 1747131853,
+                                "updatedAt": 1747131853,
+                                "userId": 26
+                            },
+                            "location": {
+                                "id": 14,
+                                "latitude": 24.9323526,
+                                "longitude": 67.0872638,
+                                "country": "PK",
+                                "state": "Sindh",
+                                "city": "Karachi",
+                                "streetAddress": "LA-2/B, Block 21Ø Main Rashid Minhas Rd, opp. UBL Sports ComplexØ FB Indus-Area Block 21 Block 21 Gulberg Town, Karachi, Pakistan",
+                                "homeAddress": null,
+                                "postalCode": "000000",
+                                "modelId": 26,
+                                "modelType": "USER",
+                                "locationType": null,
+                                "status": "ACTIVE",
+                                "userId": 26,
+                                "createdAt": 1746716352,
+                                "updatedAt": 1746716352,
+                                "equipments": []
+                            }
+                        },
+                        "location": {
+                            "id": 14,
+                            "latitude": 24.9323526,
+                            "longitude": 67.0872638,
+                            "country": "PK",
+                            "state": "Sindh",
+                            "city": "Karachi",
+                            "streetAddress": "LA-2/B, Block 21Ø Main Rashid Minhas Rd, opp. UBL Sports ComplexØ FB Indus-Area Block 21 Block 21 Gulberg Town, Karachi, Pakistan",
+                            "homeAddress": null,
+                            "postalCode": "000000",
+                            "modelId": 26,
+                            "modelType": "USER",
+                            "locationType": null,
+                            "status": "ACTIVE",
+                            "userId": 26,
+                            "createdAt": 1746716352,
+                            "updatedAt": 1746716352,
+                            "equipments": []
+                        },
+                        "serviceRequestEquipments": [
+                            {
+                                "id": 75,
+                                "serviceRequestId": 60,
+                                "createdAt": 1747136859,
+                                "updatedAt": 1747136859,
+                                "service": {
+                                    "id": 1,
+                                    "name": "Clean",
+                                    "details": "Cleaning.....",
+                                    "status": "ACTIVE",
+                                    "userId": 14,
+                                    "createdAt": 1744801885,
+                                    "updatedAt": 1744801885,
+                                    "profileImage": null
+                                },
+                                "equipment": {
+                                    "id": 185,
+                                    "truckNumber": "67owais",
+                                    "name": null,
+                                    "equipmentType": "TRUCK",
+                                    "status": "ACTIVE",
+                                    "locationId": 14,
+                                    "userId": 26,
+                                    "createdAt": 1747136360,
+                                    "updatedAt": 1747136360
+                                }
+                            }
+                        ]
+                    }
+            ],
+            "page": 1,
+            "page_size": 10,
+            "item_count": 1
+        },
+        "message": "Requests fetched successfully"
+    }
+}

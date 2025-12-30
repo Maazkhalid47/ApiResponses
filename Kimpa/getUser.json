@@ -1,0 +1,31 @@
+{
+  "success" : {
+    "code" : 200,
+    "data" : {
+      "user" : {
+        "id" : 262,
+        "firstName" : "Maaz",
+        "lastName" : "18",
+        "email" : "maaz.khalid+18@progstream.com",
+        "phone" : "123456789",
+        "status" : 1,
+        "emailVerified" : true,
+        "phoneVerified" : false,
+        "isBankVerified" : false,
+        "fullName" : null,
+        "createdAt" : 1763555342509,
+        "updatedAt" : 1763555342509,
+        "serviceSetting" : true,
+        "car" : true,
+        "organization" : null,
+        "image" : null,
+        "address" : null,
+        "roles" : null,
+        "location" : null,
+        "userKey" : "e3813d387acb9ff667be8c8795ea9197"
+      },
+      "token" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczovL3BiLWRldi1hcGkua2ltcHBha3l5ZGl0LmNvbS9tZSIsIm5hbWUiOiJtYWF6LmtoYWxpZCsxOEBwcm9nc3RyZWFtLmNvbSIsImlzcyI6Imh0dHBzOi8vcGItZGV2LWFwaS5raW1wcGFreXlkaXQuY29tIiwiZXhwIjoxNzY2MTQ3MzM4LCJ1c2VyS2V5IjoiZTM4MTNkMzg3YWNiOWZmNjY3YmU4Yzg3OTVlYTkxOTcifQ.BRSQ3gEdhKodUiqCGcZuYg3aQgNrPdLG2eFdnksopNU"
+    },
+    "message" : "Success"
+  }
+}

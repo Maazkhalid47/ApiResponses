@@ -1,0 +1,27 @@
+{
+"tripPurpose":0,
+    "details": {
+        "role": "<role>",
+        "rideType":"<rideType>",
+        "destination":"<destination>",
+        "origin":"<origin>",
+        "transportOptions":"<transportOptions>" ,
+        "maxPassengers":"<maxPassengers>",
+        "minPassengers":"<minPassengers>",
+                "whatsAppGroupLink":"<whassapUrl>",
+        "facebookRideLink":"<facebookUrl>",
+        "waypoints":[]
+    },
+    "schedule": {
+        "rideFrequency":"<rideFrequency>",
+        "description": "",
+        "days": "<days>",
+        "date": "<date>"
+,
+        "departureTime":"<startDepartureTime>",
+"returnDate":"<returnDate>",
+"returnTime":"<returnTime>"
+    },
+    "routeDistance": "<routeDistance>",
+    "image": "<image>"
+}

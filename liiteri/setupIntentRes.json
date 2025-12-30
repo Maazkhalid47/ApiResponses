@@ -1,0 +1,19 @@
+{
+    "id": "seti_1QVzPxERD3YW12pJMdtLmh3R",
+    "object": "setup_intent",
+    "automatic_payment_methods": null,
+    "cancellation_reason": null,
+    "client_secret": "seti_1QVzPxERD3YW12pJMdtLmh3R_secret_ROmzoI3Makh55JW1R9aOWoh8oQXoMrR",
+    "created": 1734198377,
+    "description": null,
+    "last_setup_error": null,
+    "livemode": false,
+    "next_action": null,
+    "payment_method": "pm_1QVzU1ERD3YW12pJ6b75jLGZ",
+    "payment_method_configuration_details": null,
+    "payment_method_types": [
+      "card"
+    ],
+    "status": "succeeded",
+    "usage": "off_session"
+  }

@@ -1,0 +1,30 @@
+{
+  "success": {
+    "code": 200,
+    "data": [
+      {
+        "id": 200,
+        "rideId": 532,
+        "requestedBy": 37,
+        "status": 0,
+        "message": "",
+        "proposedSeats": null,
+        
+        "car": null,
+        "userRequestedOrigin": null,
+        "userRequestedDestination": null,
+        "mapUrl": null,
+        "deletedBy": null,
+        "ratingByCurrentUser": null,
+        "createdAt": 1763469382085,
+        "updatedAt": 1763469382085,
+        "acceptedAt": null,
+        "rejectedAt": null,
+        "rideOwner": null,
+        "requestByUnknownUser": false,
+        "messageByUnknownUser": null
+      }
+    ],
+    "message": "Proposals found"
+  }
+}

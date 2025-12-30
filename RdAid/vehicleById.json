@@ -1,0 +1,108 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "vehicledetails": {
+                "object": "vehicle",
+                "id": "769cfb94",
+                "userId": "769cfc3b",
+                "make": "Tesla",
+                "model": "Semi",
+                "year": "6464",
+                "color": null,
+                "fuelType": null,
+                "tireSize": null,
+                "identificationNumber": "hshzhz",
+                "registrationNumber": "hshzhz",
+                "stateOfRegistration": "District of Columbia",
+                "licensePlateNo": null,
+                "expirationDate": "2025-02-26",
+                "towTruck": true,
+                "default": true,
+                "status": "pending",
+                "createdAt": "2025-02-26 11:18",
+                "updatedAt": "2025-02-26 11:31"
+            },
+            "vehicleinsurance": {
+                "object": "insurance-info",
+                "id": "769cfc99",
+                "userId": "769cfc3b",
+                "vehicleId": "769cfb94",
+                "insuranceProvider": "hshshs",
+                "policyNo": "hshshs",
+                "nameOnPolicy": "hahah",
+                "expirationDateOfPolicy": "2025-02-26",
+                "createdAt": "2025-02-26T11:18:13.320361Z",
+                "updatedAt": "2025-02-26T11:31:26.809827Z"
+            },
+            "attachments": [
+                {
+                    "object": "attachment",
+                    "id": "769cf390",
+                    "user_id": "769cfc3b",
+                    "modelId": "769cfb94",
+                    "modelType": "Vehicle",
+                    "fileType": 1,
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1740568693853.jpg",
+                    "fileName": "1740568674382854.jpg",
+                    "fileSize": "24717",
+                    "visibility": "public-read",
+                    "status": "pending",
+                    "attachmentType": "vehicle-front",
+                    "createdAt": "2025-02-26T11:18:15.046261Z",
+                    "updatedAt": "2025-02-26T11:18:15.046295Z"
+                },
+                {
+                    "object": "attachment",
+                    "id": "769cf38f",
+                    "user_id": "769cfc3b",
+                    "modelId": "769cfb94",
+                    "modelType": "Vehicle",
+                    "fileType": 1,
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1740568695067.jpg",
+                    "fileName": "1740568677694251.jpg",
+                    "fileSize": "7077",
+                    "visibility": "public-read",
+                    "status": "pending",
+                    "attachmentType": "vehicle-back-side",
+                    "createdAt": "2025-02-26T11:18:16.137864Z",
+                    "updatedAt": "2025-02-26T11:18:16.137895Z"
+                },
+                {
+                    "object": "attachment",
+                    "id": "769cf38e",
+                    "user_id": "769cfc3b",
+                    "modelId": "769cfb94",
+                    "modelType": "Vehicle",
+                    "fileType": 1,
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1740568696161.jpg",
+                    "fileName": "1740568681370244.jpg",
+                    "fileSize": "7439",
+                    "visibility": "public-read",
+                    "status": "pending",
+                    "attachmentType": "vehicle-left-side",
+                    "createdAt": "2025-02-26T11:18:17.219611Z",
+                    "updatedAt": "2025-02-26T11:18:17.219642Z"
+                },
+                {
+                    "object": "attachment",
+                    "id": "769cf38d",
+                    "user_id": "769cfc3b",
+                    "modelId": "769cfb94",
+                    "modelType": "Vehicle",
+                    "fileType": 1,
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1740568697239.jpg",
+                    "fileName": "1740568684656683.jpg",
+                    "fileSize": "56329",
+                    "visibility": "public-read",
+                    "status": "pending",
+                    "attachmentType": "vehicle-right-side",
+                    "createdAt": "2025-02-26T11:18:18.671003Z",
+                    "updatedAt": "2025-02-26T11:18:18.671035Z"
+                }
+            ]
+        },
+        "message": "Vehicle details displayed"
+    },
+    "error": null
+}

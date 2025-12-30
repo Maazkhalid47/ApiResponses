@@ -1,0 +1,12 @@
+{
+  "success" : {
+    "code" : 200,
+    "data" : {
+      "attachments" : [ {
+        "url" : "https://kimppakyydit-pb-stage-dev.s3.eu-west-1.amazonaws.com/dev/rides/569/1764071943168.png?x-amz-acl=public-read&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251125T115903Z&X-Amz-SignedHeaders=content-type%3Bhost&X-Amz-Expires=600&X-Amz-Credential=AKIA5EYIXTFSMGCFCFQO%2F20251125%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Signature=e4da697cac0268cd6df3cf94458a32cd4bf7ee9296b7693b3aded95f34fa2ffa",
+        "id" : 1665
+      }, null ]
+    },
+    "message" : "Kyyti lisätty"
+  }
+}

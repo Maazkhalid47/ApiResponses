@@ -1,0 +1,101 @@
+[{
+  "success" : {
+    "code" : 201,
+    "message" : "User account created",
+    "data" : {
+      "user" : {
+        "userKey" : "6b043fe8dec5417da6c1f2385ab16f18",
+        "firstName" : "Maaz acc",
+        "lastName" : "3",
+        "email" : "maaz.khalid+3@progstream.com",
+        "phone" : "1234567890",
+        "status" : 1,
+        "emailVerified" : false,
+        "phoneVerified" : false,
+        "newsletterSubscription" : false,
+        "isBankVerified" : false,
+        "fullName" : null,
+        "createdAt" : 1762788543570,
+        "updatedAt" : 1762788543570,
+        "image" : {
+          "id" : 56,
+          "modelType" : "user",
+          "modelId" : 237,
+          "url" : "https://coreorient-stage-dev.s3.eu-west-1.amazonaws.com/user/237/1762788543757.jpg",
+          "name" : "1762788529707262.jpg",
+          "fileType" : 2,
+          "fileSize" : "161496",
+          "visibility" : 0,
+          "status" : 0,
+          "userId" : 237,
+          "screenType" : null,
+          "fileChecksum" : null,
+          "createdAt" : 1762788543764,
+          "updatedAt" : 1762788543764
+        },
+        "organization" : null,
+        "roles" : null,
+        "location" : null,
+        "fcmToken" : null,
+        "emailSend" : null
+      },
+      "token" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczovL2Rldi1pZGVudGl0eS1hcGkuY29yZW9yaWVudC5jb20vbWUiLCJuYW1lIjoibWFhei5raGFsaWQrM0Bwcm9nc3RyZWFtLmNvbSIsImlzcyI6Imh0dHBzOi8vZGV2LWlkZW50aXR5LWFwaS5jb3Jlb3JpZW50LmNvbS8iLCJleHAiOjE3NjUzODA1NDQsInVzZXJLZXkiOiI2YjA0M2ZlOGRlYzU0MTdkYTZjMWYyMzg1YWIxNmYxOCJ9.bXPZhIUGFoYtXe9nt-BtnldKY460JtjtJE88Mahf3DA",
+      "otherToken" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczovL3BiLWRldi1hcGkua2ltcHBha3l5ZGl0LmNvbS9tZSIsIm5hbWUiOiJtYWF6LmtoYWxpZCszQHByb2dzdHJlYW0uY29tIiwiaXNzIjoiaHR0cHM6Ly9wYi1kZXYtYXBpLmtpbXBwYWt5eWRpdC5jb20iLCJleHAiOjE3NjUzODA1NDQsInVzZXJLZXkiOiI2YjA0M2ZlOGRlYzU0MTdkYTZjMWYyMzg1YWIxNmYxOCJ9.kNrt3TEVnVDtRORdc0_-swjHSkJBue_QcHAVx62MfVE",
+      "signedUrl" : {
+        "url" : "https://coreorient-stage-dev.s3.eu-west-1.amazonaws.com/user/237/1762788543757.jpg?x-amz-acl=public-read&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251110T152904Z&X-Amz-SignedHeaders=content-type%3Bhost&X-Amz-Expires=600&X-Amz-Credential=AKIA5EYIXTFSCD4WODGB%2F20251110%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Signature=c1688d971397445cdf42340abafc5300e0fbc9b26a54c70b4c4453e6317c4e6b",
+        "id" : 56
+      }
+    }
+  },
+  "error" : null
+},{
+  "success" : {
+    "code" : 201,
+    "message" : "User account created",
+    "data" : {
+      "user" : {
+        "userKey" : "09c79e4c5b4019fc1df84d449910a5e1",
+        "firstName" : "Maaz test",
+        "lastName" : "13",
+        "email" : "maaz.khalid+13@progstream.com",
+        "phone" : "1234567890",
+        "status" : 1,
+        "emailVerified" : false,
+        "phoneVerified" : false,
+        "newsletterSubscription" : false,
+        "isBankVerified" : false,
+        "fullName" : null,
+        "createdAt" : 1763128609987,
+        "updatedAt" : 1763128609987,
+        "image" : null,
+        "organization" : null,
+        "roles" : null,
+        "location" : {
+          "id" : 282,
+          "latitude" : 60.1631144,
+          "longitude" : 24.9056852,
+          "streetAddress" : "Itämerenkatu",
+          "apartment" : null,
+          "city" : "Helsinki",
+          "state" : null,
+          "country" : "Finland",
+          "postalCode" : null,
+          "status" : 1,
+          "userId" : 245,
+          "user" : null,
+          "createdAt" : 1763128610201,
+          "updatedAt" : 1763128610201,
+          "modelId" : 245,
+          "modelType" : "user",
+          "type" : 1
+        },
+        "fcmToken" : null,
+        "emailSend" : null
+      },
+      "token" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczovL2Rldi1pZGVudGl0eS1hcGkuY29yZW9yaWVudC5jb20vbWUiLCJuYW1lIjoibWFhei5raGFsaWQrMTNAcHJvZ3N0cmVhbS5jb20iLCJpc3MiOiJodHRwczovL2Rldi1pZGVudGl0eS1hcGkuY29yZW9yaWVudC5jb20vIiwiZXhwIjoxNzY1NzIwNjEwLCJ1c2VyS2V5IjoiMDljNzllNGM1YjQwMTlmYzFkZjg0ZDQ0OTkxMGE1ZTEifQ.BEuZOto38m5SWN-WEDC4X-1Jz8bmOCuSFaH3aG5Ol-Y",
+      "otherToken" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczovL3BiLWRldi1hcGkua2ltcHBha3l5ZGl0LmNvbS9tZSIsIm5hbWUiOiJtYWF6LmtoYWxpZCsxM0Bwcm9nc3RyZWFtLmNvbSIsImlzcyI6Imh0dHBzOi8vcGItZGV2LWFwaS5raW1wcGFreXlkaXQuY29tIiwiZXhwIjoxNzY1NzIwNjEwLCJ1c2VyS2V5IjoiMDljNzllNGM1YjQwMTlmYzFkZjg0ZDQ0OTkxMGE1ZTEifQ.y0kMv05sTq8PJt0rUJudcFuYJEN-E6QbL7F2bWUe9HI",
+      "signedUrl" : null
+    }
+  },
+  "error" : null
+}]

@@ -1,0 +1,37 @@
+{
+    "success": {
+      "code": 200,
+      "data": {
+        "object": "user",
+        "id": "769cfd04",
+        "name": "Maaz",
+        "email": "maaz.khalid+testDriver1@progstream.com",
+        "phone": "1234567890",
+        "status": "active",
+        "emailVerified": false,
+        "phoneVerified": false,
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM4ODI4MDQwLCJpYXQiOjE3Mzg4MjQ0NDAsImp0aSI6IjJhMjQxZjM5MTc2NjQwNzY4YTRiNDAyZDc5NmExZjI1IiwidXNlcl9pZCI6MTI0fQ.eqgMFP1nxgkhjLNN9izXY4o-MUVK1rwKyCfskEL5O2E",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MDEyMDQ0MCwiaWF0IjoxNzM4ODI0NDQwLCJqdGkiOiJjODY2NjZhZTI4NzU0MjQzYWVkMTZiNTFmYjk4MDBhZSIsInVzZXJfaWQiOjEyNH0.eQLlEgdGRcikGUYmCRRqX2MaFkB1J6CckeF1MANSfNs",
+        "role": 1,
+        "callMeAllowed": true,
+        "userProfile": true,
+        "vehicle": true,
+        "driverInfo": true,
+        "driverService": true,
+        "isOnline": null,
+        "driverPickUpRadius": 50,
+        "createdAt": "2025-01-08 14:02",
+        "updatedAt": "2025-02-03 07:04",
+        "defaultCard": true,
+        "defaultVehicleApproved": false,
+        "certificateApproved": false,
+        "isBankLinked": true,
+        "proDriverInfo": false,
+        "driverProfile": false,
+        "driverVehicle": false,
+        "proDriverVehicle": false
+      },
+      "message": "User login successfully"
+    },
+    "error": null
+  }

@@ -1,0 +1,42 @@
+{
+    "details": {
+        "gasCostsFromPassenger": "48.31955%",
+        "role": 0,
+        "rideType": 0,
+        "destination": {
+            "city": "Berlin",
+            "country": "Germany",
+            "latitude": 52.5354221,
+            "longitude": 13.4530659,
+            "streetAddress": "DSTRKT Club Berlin (former Anomalie), Storkower Straße, Berlin, Germany"
+        },
+        "origin": {
+            "city": "Herning",
+            "country": "Denmark",
+            "latitude": 56.145351,
+            "longitude": 8.961566,
+            "streetAddress": "H P Hansens Vej, Herning, Denmark"
+        },
+        "transportOptions": "4,8",
+        "maxPassengers": "2",
+        "minPassengers": "2",
+        "affiliatedGroups": 0,
+        "whatsAppGroupLink": "",
+        "facebookRideLink": "",
+        "waypoints": []
+    },
+    "schedule": {
+        "rideFrequency": 0,
+        "description": "pet",
+        "days": [],
+        "date": 1761306524968
+    },
+    "routeDistance": 620871,
+    "image": {
+        "extension": "png",
+        "lastModified": 1761306728399,
+        "name": "map",
+        "size": 253156,
+        "type": "image/png"
+    }
+}

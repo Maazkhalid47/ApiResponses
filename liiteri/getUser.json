@@ -1,0 +1,82 @@
+{
+  "code": 200,
+  "data": {
+    "object": {
+      "id": 3486,
+      "first_name": "Maaz",
+      "last_name": "King",
+      "email": "maazking47@gmail.com",
+      "phone": null,
+      "status": "active",
+      "username": "Maaz King",
+      "userRoles": [
+        "coreorient_user",
+        "store_customer"
+      ],
+      "properties": {
+        "tupas": "not verified",
+        "profile": "complete"
+      },
+      "user_referer": "MDFkYTgxMDg5NzRiYzdjOGE1MDY0NzA1ZDk5OGJmYmY=",
+      "yit_address": "",
+      "liiteri_user": {
+        "id": 3453,
+        "user_key": "01da8108974bc7c8a5064705d998bfbf",
+        "display_name": null,
+        "about_me": null,
+        "language": "en",
+        "test_account": false,
+        "store_id": null,
+        "terms_accepted": false,
+        "last_24_hour_order": [],
+        "last_order": [],
+        "product_free_rentals": 0,
+        "recent_cart": null,
+        "max_rental_hours": "72",
+        "advance_in_days_before_rent": "30",
+        "suspend_user_subscription": false,
+        "fullname": "Maaz King",
+        "discount_percent": 0,
+        "store": null,
+        "user_group": null,
+        "user_subscription": null,
+        "user": {
+          "id": 3486,
+          "username": "Maaz King",
+          "email": "maazking47@gmail.com",
+          "phone": null,
+          "user_type": "user",
+          "uid": "110498790267985522319",
+          "uid_from": "google",
+          "account_from": "liiteri",
+          "status": "active",
+          "created_at": "2025-06-19 14:46:05+0000",
+          "updated_at": "2025-06-19 14:46:05+0000",
+          "stripe_id": null,
+          "first_name": "Maaz",
+          "last_name": "King",
+          "email_verified": true,
+          "phone_verified": false,
+          "ssn_encrypted": false,
+          "terms_conditions": null,
+          "userRoles": [
+            "coreorient_user",
+            "store_customer"
+          ],
+          "properties": {
+            "tupas": "not verified",
+            "profile": "complete"
+          },
+          "user_referer": "MDFkYTgxMDg5NzRiYzdjOGE1MDY0NzA1ZDk5OGJmYmY=",
+          "yit_address": "",
+          "yit_group": []
+        }
+      },
+      "cards": [],
+      "primary_address": null,
+      "yit_group": []
+    }
+  },
+  "status": "success",
+  "error": false
+}

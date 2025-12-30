@@ -1,0 +1,63 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "object": "driver-info",
+            "id": "769cfcb4",
+            "userId": "769cfc3b",
+            "driveInCity": "Alpena",
+            "licenseNo": "wyyqyayag",
+            "licenseIssuedState": "null",
+            "licenseExpirationDate": "2025-02-26",
+            "drivingExpInYears": 1,
+            "usDotNo": "1234548976",
+            "pickUpRadiusVal": 50,
+            "pickUpRadiusUnit": "miles",
+            "driverLicense": {
+                "object": "attachment",
+                "id": "769cf392",
+                "user_id": "769cfc3b",
+                "modelId": "769cfc3b",
+                "modelType": "User",
+                "fileType": 1,
+                "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1740568415693.jpg",
+                "fileName": "1740568415278038.jpg",
+                "fileSize": "23151",
+                "visibility": "public-read",
+                "status": "pending",
+                "attachmentType": "driver-license",
+                "createdAt": "2025-02-26T11:13:36.957075Z",
+                "updatedAt": "2025-02-26T11:13:36.957096Z"
+            },
+            "driverCertificates": [
+                {
+                    "object": "attachment",
+                    "id": "769cf391",
+                    "user_id": "769cfc3b",
+                    "modelId": "769cfc3b",
+                    "modelType": "User",
+                    "fileType": 3,
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1740568424445.png",
+                    "fileName": "1740568423810581.png",
+                    "fileSize": "585053",
+                    "visibility": "public-read",
+                    "status": "pending",
+                    "attachmentType": "Roadside-assistance-certificate",
+                    "createdAt": "2025-02-26T11:13:46.295131Z",
+                    "updatedAt": "2025-02-26T11:13:46.295163Z"
+                }
+            ],
+            "driverLicenseImgUrl": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1740568415693.jpg",
+            "driverCertificateImgUrlAndType": [
+                {
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1740568424445.png",
+                    "attachmentType": "Roadside-assistance-certificate"
+                }
+            ],
+            "createdAt": "2025-02-26T11:09:15.469808Z",
+            "updatedAt": "2025-02-26T11:20:27.855571Z"
+        },
+        "message": "Driver license information displayed"
+    },
+    "error": null
+}

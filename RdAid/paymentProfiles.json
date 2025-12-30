@@ -1,0 +1,33 @@
+{
+    "success": {
+        "code": 200,
+        "data": [
+            {
+                "object": "payment-profile",
+                "id": "769cfcd6",
+                "userId": "769cfcf9",
+                "defaultProfile": false,
+                "status": "active",
+                "cardNumber": "XXXX8888",
+                "cardExpiry": "XXXX",
+                "brand": null,
+                "createdAt": "2025-02-11 16:12",
+                "updatedAt": "2025-02-11 16:12"
+            },
+            {
+                "object": "payment-profile",
+                "id": "769cfc8e",
+                "userId": "769cfcf9",
+                "defaultProfile": true,
+                "status": "active",
+                "cardNumber": "XXXX1111",
+                "cardExpiry": "XXXX",
+                "brand": "Visa",
+                "createdAt": "2025-04-16 17:30",
+                "updatedAt": "2025-04-16 17:30"
+            }
+        ],
+        "message": "Success"
+    },
+    "error": null
+}

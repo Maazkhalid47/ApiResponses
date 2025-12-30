@@ -1,0 +1,54 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "id": 26,
+            "name": "Maaz khalid",
+            "email": "maaz.khalid@progstream.com",
+            "status": "ACTIVE",
+            "role": "CUSTOMER",
+            "formStep": "PROFILE",
+            "emailVerified": true,
+            "lastLogin": null,
+            "createdAt": 1746187753,
+            "updatedAt": 1746614239,
+            "companyProfile": {
+                "id": 25,
+                "phone": "00000000000",
+                "companyName": "MaazCompany",
+                "contactPersonName": "Maaz khalid",
+                "numberOfLocations": 2,
+                "createdAt": 1746187753,
+                "updatedAt": 1746187838
+            },
+            "profileImage": {
+                "id": 25,
+                "modelId": 26,
+                "modelType": "USER",
+                "url": "https://progstream.s3.amazonaws.com/mccs-ps/dev/file_1746187816.png",
+                "fileName": "1746187813561000",
+                "fileSize": 80588,
+                "fileType": "image",
+                "fileExtension": "png",
+                "attachmentType": "PROFILE",
+                "visibility": "PUBLIC",
+                "status": "ACTIVE",
+                "createdAt": 1746187818,
+                "updatedAt": 1746187818,
+                "userId": 26
+            },
+            "token": {
+                "id": 156,
+                "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0NzkxMDI1NywiaWF0IjoxNzQ2NjE0MjU3LCJqdGkiOiIwNzJhNmI5M2RlMmM0YzRjYjJiZDliNjVmZDI2MmZhYSIsInVzZXJfaWQiOjI2fQ.5CG3V0EOHNo_p-wTQeylEVMRuU_75nNujXCqzf9gNyE",
+                "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzQ2NjE3ODU3LCJpYXQiOjE3NDY2MTQyNTcsImp0aSI6ImRjNjIwMGVmZTA4OTRkMmRiYWJhMzNhZDBhMzk0NWIxIiwidXNlcl9pZCI6MjZ9.G0TlnioTjU5GEm4eKTjyqXcpLOie3pYuszWVIXeqovI",
+                "status": "ACTIVE",
+                "expiry": 1746617857,
+                "refreshTokenExpiry": 1747910257,
+                "createdAt": 1746614257,
+                "updatedAt": 1746614257,
+                "userId": 26
+            }
+        },
+        "message": "User logged in."
+    }
+}

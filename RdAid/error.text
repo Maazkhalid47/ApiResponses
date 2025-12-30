@@ -1,0 +1,75 @@
+seMessaging(13288): Unable to log event: analytics library is missing
+W/FirebaseMessaging(13288): Unable to log event: analytics library is missing
+W/WindowOnBackDispatcher(13288): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher(13288): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+I/flutter (13288): Foreground notification received: Request Accepted
+W/WindowOnBackDispatcher(13288): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher(13288): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+E/flutter (13288): [ERROR:flutter/runtime/dart_vm_initializer.cc(40)] Unhandled Exception: Bad state: Stream has already been listened to.
+E/flutter (13288): #0      _StreamController._subscribe (dart:async/stream_controller.dart:679:7)
+E/flutter (13288): #1      _ControllerStream._createSubscription (dart:async/stream_controller.dart:830:19)
+E/flutter (13288): #2      _StreamImpl.listen (dart:async/stream_impl.dart:498:9)
+E/flutter (13288): #3      connectSocket (package:rdaid/custom_code/actions/connect_socket.dart:37:37)
+E/flutter (13288): #4      _DriveriscomingWidgetState.initState.<anonymous closure> (package:rdaid/pages/ride_pages/driveriscoming/driveriscoming_widget.dart:47:21)
+E/flutter (13288): <asynchronous suspension>
+E/flutter (13288): 
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+D/Google Android Maps SDK(13288): For capability in capabilities, log:
+D/Google Android Maps SDK(13288): "AdvancedMarkers: false: Capabilities unavailable without a Map ID."Data-driven styling: false
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+E/FrameEvents(13288): updateAcquireFence: Did not find frame.
+E/FrameEvents(13288): updateAcquireFence: Did not find frame.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+D/Google Android Maps SDK(13288): For capability in capabilities, log:
+D/Google Android Maps SDK(13288): "AdvancedMarkers: false: Capabilities unavailable without a Map ID."Data-driven styling: false
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend(13288): Too many Flogger logs received before configuration. Dropping old logs.
+Another exception was thrown: Null check operator used on a null value
+I/flutter (13288): Error debug serializing parameter: Converting object to an encodable object failed: Instance of 'AdapterWebSocketChannel'
+I/flutter (13288): Error debug serializing parameter: Converting object to an encodable object failed: Instance of 'StatefulElement'
+I/flutter (13288): Error debug serializing parameter: Converting object to an encodable object failed: Instance of 'FlutterLocalNotificationsPlugin'
+E/flutter (13288): [ERROR:flutter/runtime/dart_vm_initializer.cc(40)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel: "dev.flutter.pigeon.google_maps_flutter_android.MapsApi.animateCamera.1"., null, null)
+E/flutter (13288): #0      MapsApi.animateCamera (package:google_maps_flutter_android/src/messages.g.dart:1833:7)
+E/flutter (13288): <asynchronous suspension>
+E/flutter (13288): 
+E/flutter (13288): [ERROR:flutter/runtime/dart_vm_initializer.cc(40)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel: "dev.flutter.pigeon.google_maps_flutter_android.MapsApi.animateCamera.1"., null, null)
+E/flutter (13288): #0      MapsApi.animateCamera (package:google_maps_flutter_android/src/messages.g.dart:1833:7)
+E/flutter (13288): <asynchronous suspension>
+E/flutter (13288): 
+E/flutter (13288): [ERROR:flutter/runtime/dart_vm_initializer.cc(40)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel: "dev.flutter.pigeon.google_maps_flutter_android.MapsApi.animateCamera.1"., null, null)
+E/flutter (13288): #0      MapsApi.animateCamera (package:google_maps_flutter_android/src/messages.g.dart:1833:7)
+E/flutter (13288): <asynchronous suspension>
+E/flutter (13288): 
+E/flutter (13288): [ERROR:flutter/runtime/dart_vm_initializer.cc(40)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel: "dev.flutter.pigeon.google_maps_flutter_android.MapsApi.animateCamera.1"., null, null)
+E/flutter (13288): #0      MapsApi.animateCamera (package:google_maps_flutter_android/src/messages.g.dart:1833:7)
+E/flutter (13288): <asynchronous suspension>
+E/flutter (13288): 
+Another exception was thrown: Null check operator used on a null value
+Another exception was thrown: Null check operator used on a null value
+E/flutter (13288): [ERROR:flutter/runtime/dart_vm_initializer.cc(40)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel: "dev.flutter.pigeon.google_maps_flutter_android.MapsApi.animateCamera.1"., null, null)
+E/flutter (13288): #0      MapsApi.animateCamera (package:google_maps_flutter_android/src/messages.g.dart:1833:7)
+E/flutter (13288): <asynchronous suspension>
+E/flutter (13288): 
+E/flutter (13288): [ERROR:flutter/runtime/dart_vm_initializer.cc(40)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel: "dev.flutter.pigeon.google_maps_flutter_android.MapsApi.animateCamera.1"., null, null)
+E/flutter (13288): #0      MapsApi.animateCamera (package:google_maps_flutter_android/src/messages.g.dart:1833:7)
+E/flutter (13288): <asynchronous suspension>
+E/flutter (13288): 
+E/flutter (13288): [ERROR:flutter/runtime/dart_vm_initializer.cc(40)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel: "dev.flutter.pigeon.google_maps_flutter_android.MapsApi.animateCamera.1"., null, null)
+E/flutter (13288): #0      MapsApi.animateCamera (package:google_maps_flutter_android/src/messages.g.dart:1833:7)
+E/flutter (13288): <asynchronous suspension>
+E/flutter (13288): 
+E/flutter (13288): [ERROR:flutter/runtime/dart_vm_initializer.cc(40)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel: "dev.flutter.pigeon.google_maps_flutter_android.MapsApi.animateCamera.1"., null, null)
+E/flutter (13288): #0      MapsApi.animateCamera (package:google_maps_flutter_android/src/messages.g.dart:1833:7)
+E/flutter (13288): <asynchronous suspension>

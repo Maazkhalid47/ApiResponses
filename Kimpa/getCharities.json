@@ -1,0 +1,228 @@
+{
+  "success": {
+    "code": 200,
+    "data": [
+      {
+        "id": 1,
+        "donationSheetId": "01",
+        "nameKey": "d835c209-f5b6-42e8-80cf-b13ef6eba8a6-1758104720207",
+        "descriptionKey": "29d1e439-badf-4c39-8075-2953e3de8d0e-1758104720207",
+        "bankAccount": "FI6457895420020005",
+        "mobilePayNumber": "51513",
+        "website": "https://www.mll.fi/auta-kiusattuja/lahjoita/",
+        "status": 1,
+        "descriptionText": {
+          "en": "Mannerheim League for Child Welfare",
+          "fi": "Mannerheimin Lastensuojeluliitto",
+          "sv": "Mannerheims Barnskyddsförbund"
+        },
+        "nameText": {
+          "en": "Mannerheim League for Child Welfare",
+          "fi": "Mannerheimin Lastensuojeluliitto",
+          "sv": "Mannerheims Barnskyddsförbund"
+        },
+        "createdAt": 1758104720207,
+        "updatedAt": 1758104720207
+      },
+      {
+        "id": 2,
+        "donationSheetId": "02",
+        "nameKey": "26437e01-a9b4-4f07-93c9-4529c63c7b1b-1758104720368",
+        "descriptionKey": "7089c919-e3f6-475b-a371-be1e3f4982f8-1758104720368",
+        "bankAccount": "FI6410173000210727",
+        "mobilePayNumber": "24100",
+        "website": "https://www.pelastakaalapset.fi/lahjoittaminen/",
+        "status": 1,
+        "descriptionText": {
+          "en": "Save the Children Finland",
+          "fi": "Pelastakaa lapset",
+          "sv": "Rädda Barnen"
+        },
+        "nameText": {
+          "en": "Save the Children Finland",
+          "fi": "Pelastakaa lapset",
+          "sv": "Rädda Barnen"
+        },
+        "createdAt": 1758104720368,
+        "updatedAt": 1758104720368
+      },
+      {
+        "id": 3,
+        "donationSheetId": "03",
+        "nameKey": "f4a143d7-bda2-4454-9a6a-cd620eeaf15f-1758104720478",
+        "descriptionKey": "bd597ee3-337c-40cf-b810-c95a5a44302f-1758104720478",
+        "bankAccount": "FI2950000120415699 (viite 5335)",
+        "mobilePayNumber": "32232",
+        "website": "https://www.punainenristi.fi/lahjoita/",
+        "status": 1,
+        "descriptionText": {
+          "en": "Finnish Red Cross",
+          "fi": "Suomen Punainen Risti",
+          "sv": "Röda Korset"
+        },
+        "nameText": {
+          "en": "Finnish Red Cross",
+          "fi": "Suomen Punainen Risti",
+          "sv": "Röda Korset"
+        },
+        "createdAt": 1758104720478,
+        "updatedAt": 1758104720478
+      },
+      {
+        "id": 4,
+        "donationSheetId": "04",
+        "nameKey": "746d3232-b8fa-413f-a5d7-590a60198442-1758104720595",
+        "descriptionKey": "4be3bf55-2595-4190-b228-4aea69f6aaa6-1758104720595",
+        "bankAccount": "FI5415963000102899 (viite 10773)",
+        "mobilePayNumber": "85508",
+        "website": "https://www.lahjoitaapua.fi/kohde/hataapurahasto",
+        "status": 1,
+        "descriptionText": {
+          "en": "Church's Charity in Finland",
+          "fi": "Kirkon Kotimaanapu",
+          "sv": "Kyrkans Nödhjälpsinsamling"
+        },
+        "nameText": {
+          "en": "Church's Charity in Finland",
+          "fi": "Kirkon Kotimaanapu",
+          "sv": "Kyrkans Nödhjälpsinsamling"
+        },
+        "createdAt": 1758104720595,
+        "updatedAt": 1758104720595
+      },
+      {
+        "id": 5,
+        "donationSheetId": "05",
+        "nameKey": "ded1e1a2-3c47-4938-831a-12634c26ba4a-1758104720699",
+        "descriptionKey": "5feb19f4-fcf5-46f0-b304-9b8a36fe425c-1758104720699",
+        "bankAccount": "FI1450000120236228 (viite 309002)",
+        "mobilePayNumber": "85050",
+        "website": "https://www.yhteisvastuu.fi/lahjoita/",
+        "status": 1,
+        "descriptionText": {
+          "en": "Church's Common Responsibility",
+          "fi": "Kirkon Yhteisvastuukeräys",
+          "sv": "Kyrkans Gemensamt Ansvar"
+        },
+        "nameText": {
+          "en": "Church's Common Responsibility",
+          "fi": "Kirkon Yhteisvastuukeräys",
+          "sv": "Kyrkans Gemensamt Ansvar"
+        },
+        "createdAt": 1758104720699,
+        "updatedAt": 1758104720699
+      },
+      {
+        "id": 6,
+        "donationSheetId": "06",
+        "nameKey": "9b745338-77c5-462c-bf10-623d15ee013e-1758104720780",
+        "descriptionKey": "b4f6bf3a-8a7d-41a2-bdf5-d8c8a4081ce3-1758104720780",
+        "bankAccount": "FI3280001000211129",
+        "mobilePayNumber": "15134",
+        "website": "https://www.invalidiliitto.fi/lahjoita",
+        "status": 1,
+        "descriptionText": {
+          "en": "Association of People with Physical Disabilities",
+          "fi": "Invalidiliitto",
+          "sv": "Invalidförbundet"
+        },
+        "nameText": {
+          "en": "Association of People with Physical Disabilities",
+          "fi": "Invalidiliitto",
+          "sv": "Invalidförbundet"
+        },
+        "createdAt": 1758104720780,
+        "updatedAt": 1758104720780
+      },
+      {
+        "id": 7,
+        "donationSheetId": "07",
+        "nameKey": "e8c42302-3875-4c57-90ee-390c8a5c1ab6-1758104720888",
+        "descriptionKey": "edc9bd86-29d8-494d-b844-f5fb1b66bd33-1758104720888",
+        "bankAccount": "FI2950000120415699",
+        "mobilePayNumber": "47770",
+        "website": "https://syopasaatio.fi/lahjoita/kertalahjoitus-nopeasti-ja-helposti/",
+        "status": 1,
+        "descriptionText": {
+          "en": "Cancer Foundation Finland",
+          "fi": "Syöpäsäätiö",
+          "sv": "Cancerstiftelsen"
+        },
+        "nameText": {
+          "en": "Cancer Foundation Finland",
+          "fi": "Syöpäsäätiö",
+          "sv": "Cancerstiftelsen"
+        },
+        "createdAt": 1758104720888,
+        "updatedAt": 1758104720888
+      },
+      {
+        "id": 8,
+        "donationSheetId": "08",
+        "nameKey": "97e1d22e-1cac-44a4-800d-e69da5651582-1758104721002",
+        "descriptionKey": "08e55f3c-76c9-4087-a300-4b1956e8a588-1758104721002",
+        "bankAccount": "FI2850000120443071",
+        "mobilePayNumber": "27001",
+        "website": "https://www.sll.fi/auta-luontoa/lahjoita/",
+        "status": 1,
+        "descriptionText": {
+          "en": "Finnish Association for Nature Conservation",
+          "fi": "Suomen luonnonsuojeluliitto",
+          "sv": "Finlands naturskyddsförbund"
+        },
+        "nameText": {
+          "en": "Finnish Association for Nature Conservation",
+          "fi": "Suomen luonnonsuojeluliitto",
+          "sv": "Finlands naturskyddsförbund"
+        },
+        "createdAt": 1758104721002,
+        "updatedAt": 1758104721002
+      },
+      {
+        "id": 9,
+        "donationSheetId": "09",
+        "nameKey": "48b9dd6a-792a-4322-8a21-082ba1d25f8b-1758104721115",
+        "descriptionKey": "b7fa4fa6-3298-489d-b37c-426d8f56e677-1758104721116",
+        "bankAccount": "FI9780001901061763",
+        "mobilePayNumber": "77772",
+        "website": "https://sey.fi/lahjoita/liity-kuukausilahjoittajaksi/",
+        "status": 1,
+        "descriptionText": {
+          "en": "Animal Welfare Finland",
+          "fi": "Suomen Eläinsuojelu",
+          "sv": "Djurskyddet Finland"
+        },
+        "nameText": {
+          "en": "Animal Welfare Finland",
+          "fi": "Suomen Eläinsuojelu",
+          "sv": "Djurskyddet Finland"
+        },
+        "createdAt": 1758104721116,
+        "updatedAt": 1758104721116
+      },
+      {
+        "id": 10,
+        "donationSheetId": "10",
+        "nameKey": "d441f3ee-7c9c-496e-a017-d48a72d172a7-1758104721210",
+        "descriptionKey": "e40f7929-ea48-4f72-8e68-ced7b0e4769e-1758104721211",
+        "bankAccount": "FI1450431920003452 (viite 89005)",
+        "mobilePayNumber": "37850",
+        "website": "https://kansanlahetys.fi/suuressa-mukana/lahjoita/",
+        "status": 1,
+        "descriptionText": {
+          "en": "Finnish Lutheran Mission",
+          "fi": "Kansanlähetys",
+          "sv": "Finska Lutherska missionen"
+        },
+        "nameText": {
+          "en": "Finnish Lutheran Mission",
+          "fi": "Kansanlähetys",
+          "sv": "Finska Lutherska missionen"
+        },
+        "createdAt": 1758104721211,
+        "updatedAt": 1758104721211
+      }
+    ],
+    "message": "Success"
+  }
+}

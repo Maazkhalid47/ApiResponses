@@ -1,0 +1,101 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "id": 56,
+            "message": "test note",
+            "status": "PENDING",
+            "charges": null,
+            "confirmationNote": null,
+            "confirmationDate": null,
+            "serviceId": 3,
+            "userId": 49,
+            "confirmedBy": null,
+            "createdAt": 1754047055,
+            "updatedAt": 1754047055,
+            "service": {
+                "id": 3,
+                "name": "Cillos chipping",
+                "details": "Cillos chipping again.",
+                "status": "ACTIVE",
+                "userId": 14,
+                "createdAt": 1748258477,
+                "updatedAt": 1748258477,
+                "profileImage": {
+                    "id": 38,
+                    "modelId": 3,
+                    "modelType": "SERVICE",
+                    "url": "https://progstream.s3.amazonaws.com/mccs-ps/dev/file_1748258482.jpg",
+                    "fileName": "online-web-design",
+                    "fileSize": 6994794,
+                    "fileType": "image",
+                    "fileExtension": "jpg",
+                    "attachmentType": "PROFILE",
+                    "visibility": "PUBLIC",
+                    "status": "ACTIVE",
+                    "createdAt": 1748258485,
+                    "updatedAt": 1748258485,
+                    "userId": 14
+                }
+            },
+            "user": {
+                "id": 49,
+                "name": "Maaz test contact person",
+                "email": "maaz.khalid+test@progstream.com",
+                "status": "ACTIVE",
+                "role": "CUSTOMER",
+                "formStep": "LOCATIONS_AND_SERVICES",
+                "emailVerified": true,
+                "lastLogin": null,
+                "createdAt": 1753945319,
+                "updatedAt": 1754028167,
+                "companyProfile": {
+                    "id": 43,
+                    "phone": "00000000",
+                    "companyName": "Maaz test company",
+                    "contactPersonName": "Maaz test contact person",
+                    "numberOfLocations": 3,
+                    "createdAt": 1753945382,
+                    "updatedAt": 1753945592
+                },
+                "profileImage": {
+                    "id": 78,
+                    "modelId": 49,
+                    "modelType": "USER",
+                    "url": "https://progstream.s3.amazonaws.com/mccs-ps/dev/file_1753945583.jpg",
+                    "fileName": "1753945582185528",
+                    "fileSize": 534347,
+                    "fileType": "image",
+                    "fileExtension": "jpg",
+                    "attachmentType": "PROFILE",
+                    "visibility": "PUBLIC",
+                    "status": "ACTIVE",
+                    "createdAt": 1753945586,
+                    "updatedAt": 1753945586,
+                    "userId": 49
+                },
+                "location": {
+                    "id": 38,
+                    "latitude": 24.9323526,
+                    "longitude": 67.0872638,
+                    "country": "PK",
+                    "state": "Sindh",
+                    "city": "Karachi",
+                    "streetAddress": "LA-2/B, Block 21، Main Rashid Minhas Rd, opp. UBL Sports Complex، FB Indus-Area Block 21 Block 21 Gulberg Town, Karachi, Pakistan",
+                    "homeAddress": null,
+                    "postalCode": "000000",
+                    "modelId": 49,
+                    "modelType": "USER",
+                    "locationType": null,
+                    "status": "ACTIVE",
+                    "userId": 49,
+                    "createdAt": 1753945398,
+                    "updatedAt": 1753945398,
+                    "equipments": []
+                },
+                "favorite": false
+            }
+        },
+        "message": "Quotation fetched successfully"
+    }
+}

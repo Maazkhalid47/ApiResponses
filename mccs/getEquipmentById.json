@@ -1,0 +1,38 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "count": 2,
+            "next": null,
+            "previous": null,
+            "results": [
+                {
+                    "id": 6,
+                    "truckNumber": "test-000",
+                    "name": null,
+                    "equipmentType": "TRUCK",
+                    "status": "ACTIVE",
+                    "locationId": 2,
+                    "userId": 26,
+                    "createdAt": 1746614239,
+                    "updatedAt": 1746614239
+                },
+                {
+                    "id": 7,
+                    "truckNumber": "test-001",
+                    "name": null,
+                    "equipmentType": "TRUCK",
+                    "status": "ACTIVE",
+                    "locationId": 2,
+                    "userId": 26,
+                    "createdAt": 1746614239,
+                    "updatedAt": 1746614239
+                }
+            ],
+            "page": 1,
+            "page_size": 10,
+            "item_count": 2
+        },
+        "message": "Equipments fetched successfully"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "code": 201,
+    "data": {
+        "object": {
+            "id": 159,
+            "username": null,
+            "email": "waleed+29@progstream.com",
+            "phone": "waleed654321",
+            "user_type": "user",
+            "uid": null,
+            "uid_from": null,
+            "account_from": "liiteri",
+            "status": "pending",
+            "created_at": "2024-11-07 08:08:23+0000",
+            "updated_at": "2024-11-07 08:08:23+0000",
+            "stripe_id": null,
+            "first_name": "waleed",
+            "last_name": null,
+            "email_verified": false,
+            "phone_verified": false,
+            "ssn_encrypted": false,
+            "terms_conditions": null,
+            "userRoles": [
+                "coreorient_user",
+                "store_customer"
+            ],
+            "address": {
+                "id": 156,
+                "user_id": 159,
+                "address": "block k",
+                "primary_address": 1,
+                "created_at": "2024-11-07 08:08:23+0000",
+                "updated_at": "2024-11-07 08:08:23+0000",
+                "zip_code": "3434",
+                "city": "karachi",
+                "state": null,
+                "country": null,
+                "latitude": null,
+                "longitude": null,
+                "suite_number": null,
+                "deleted_at": null
+            },
+            "properties": {
+                "tupas": "not verified",
+                "profile": "complete"
+            },
+            "user_referer": "YmJiYzdiNWYyMGQ4OGE3MDgzNjhhYzU0ZWRmY2Q4NzM=",
+            "primary_address": {
+                "id": 156,
+                "user_id": 159,
+                "address": "block k",
+                "primary_address": 1,
+                "created_at": "2024-11-07 08:08:23+0000",
+                "updated_at": "2024-11-07 08:08:23+0000",
+                "zip_code": "3434",
+                "city": "karachi",
+                "state": null,
+                "country": null,
+                "latitude": null,
+                "longitude": null,
+                "suite_number": null,
+                "deleted_at": null
+            }
+        },
+        "token": {
+            "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImJmOTI2ZjBhN2Q2ZGUxMTM3N2Q0MGFmOWI5NzkwM2EwNzIwODE2MjhmOTc3OWZlZGRmZDVhYzZlYmMxOWIwYjhlYzIyOTAwY2UyOWM2NTg3In0.eyJhdWQiOiIzIiwianRpIjoiYmY5MjZmMGE3ZDZkZTExMzc3ZDQwYWY5Yjk3OTAzYTA3MjA4MTYyOGY5Nzc5ZmVkZGZkNWFjNmViYzE5YjBiOGVjMjI5MDBjZTI5YzY1ODciLCJpYXQiOjE3MzA5NjY5MDcsIm5iZiI6MTczMDk2NjkwNywiZXhwIjoxNzYyNTAyOTA3LCJzdWIiOiIxNTkiLCJzY29wZXMiOltdfQ.b94SLccBXeKYBpKzLgyLEF5ZUap8utYVwQ-jC8P4LI54oAwz1cAKYiVWKMTIH7OXABwMZBKtR0BJQLpwnNCzI9bzVqprmTMNIQ4DRlmT07JtdDjvTjLUSAjJJ1wokgDQTw8Lb_RMOzwvT_AN0zWctAyr5eLaGyk1Qz0Hwvg9s23h5F2VoWScK-bOMoQALrGZZJwznfsw36b73vZGS2sq0Rdl3F6mvvAh0pywU9FBVf1t78Yv6cOchW3ssVOx6LD0APMDV_BJd42iA1IuygmrWQs37-kblqhuvxQ8NhfbGVO-8EDaYPp4ajedwfnUMhLBITkMiyU7qyMzla-0nvkIDrOAoCbhzy2MzmDiB5lVgBHLiyaGv357nmGWa920e0cj9jiVO1g4b0lsvIA01L16CAlZM4TB32KytpbAkE6RBoT6XPQe7gBkNNn-YIYEz5iTKj30p_uy7Af_I7BPA6R0p4leoIr1E2pg33DHaWziL7XOHeJqNQKPYTmuZEc3jcW-s_TfgpY2funrhC8hQzBmrjhAgkbnvtpBrIIpiF98L6v0GEO0dnnM2n0tlbREoP0nDW_MEQcHTje0E2kZhXxNDOG9k0HjIsecjmfqorFLtY_70NMfFV2YZypP586fo2GzFh6FGLKpO7psPJ5AXtOnzyfcl6SY7ik8koL6kNF8DCo"
+        }
+    },
+    "status": "success",
+    "error": false
+}

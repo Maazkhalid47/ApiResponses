@@ -1,0 +1,8 @@
+{
+    "error": {
+        "code": 422,
+        "data": null,
+        "message": "Incorrect audience"
+    },
+    "success": null
+}

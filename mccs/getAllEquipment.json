@@ -1,0 +1,49 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "count": 3,
+            "next": null,
+            "previous": null,
+            "results": [
+                {
+                    "id": 255,
+                    "truckNumber": null,
+                    "name": "location1other1",
+                    "equipmentType": "OTHER",
+                    "status": "ACTIVE",
+                    "locationId": 42,
+                    "userId": 51,
+                    "createdAt": 1754304319,
+                    "updatedAt": 1754304319
+                },
+                {
+                    "id": 256,
+                    "truckNumber": "location1truck1",
+                    "name": null,
+                    "equipmentType": "TRUCK",
+                    "status": "ACTIVE",
+                    "locationId": 42,
+                    "userId": 51,
+                    "createdAt": 1754304322,
+                    "updatedAt": 1754304322
+                },
+                {
+                    "id": 257,
+                    "truckNumber": "location1truck2",
+                    "name": null,
+                    "equipmentType": "TRUCK",
+                    "status": "ACTIVE",
+                    "locationId": 42,
+                    "userId": 51,
+                    "createdAt": 1754304322,
+                    "updatedAt": 1754304322
+                }
+            ],
+            "page": 1,
+            "page_size": 10,
+            "item_count": 3
+        },
+        "message": "Equipments fetched successfully"
+    }
+}

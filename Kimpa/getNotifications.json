@@ -1,0 +1,43 @@
+{
+  "success" : {
+    "code" : 200,
+    "data" : [ {
+      "id" : 157,
+      "title" : "Ride proposal",
+      "message" : "User is interested in sharing a ride with you",
+      "userId" : 269,
+      "sentAt" : null,
+      "read" : false,
+      "status" : 2,
+      "modelId" : null,
+      "modelType" : null,
+      "createdAt" : 1764228519656,
+      "updatedAt" : 1764228540368
+    }, {
+      "id" : 159,
+      "title" : "Ride proposal",
+      "message" : "User is interested in sharing a ride with you",
+      "userId" : 269,
+      "sentAt" : 1764238980747,
+      "read" : false,
+      "status" : 1,
+      "modelId" : 580,
+      "modelType" : "ride",
+      "createdAt" : 1764238970175,
+      "updatedAt" : 1764238980748
+    }, {
+      "id" : 160,
+      "title" : "Ride proposal",
+      "message" : "User is interested in sharing a ride with you",
+      "userId" : 269,
+      "sentAt" : 1764239280879,
+      "read" : false,
+      "status" : 1,
+      "modelId" : 581,
+      "modelType" : "ride",
+      "createdAt" : 1764239263930,
+      "updatedAt" : 1764239280880
+    } ],
+    "message" : "Success"
+  }
+}

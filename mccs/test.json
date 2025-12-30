@@ -1,0 +1,170 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "id": 91,
+            "message": "tedgtv shegcs sj s sb",
+            "status": "APPROVED",
+            "confirmationNote": "Amzing",
+            "confirmationDate": 1755561600,
+            "confirmationTime": "17:54:00",
+            "completionNote": null,
+            "completionDate": null,
+            "completionTime": null,
+            "charges": null,
+            "chippingWeight": null,
+            "confirmedBy": 14,
+            "completedBy": null,
+            "createdAt": 1748959203,
+            "updatedAt": 1748959254,
+            "user": {
+                "id": 43,
+                "name": "maaz contact person",
+                "email": "maaz.khalid@progstream.com",
+                "status": "ACTIVE",
+                "role": "CUSTOMER",
+                "formStep": "PROFILE",
+                "emailVerified": true,
+                "lastLogin": null,
+                "createdAt": 1748958577,
+                "updatedAt": 1748958945,
+                "companyProfile": {
+                    "id": 39,
+                    "phone": "8181726277",
+                    "companyName": "maaz google test company",
+                    "contactPersonName": "maaz contact person",
+                    "numberOfLocations": 3,
+                    "createdAt": 1748958627,
+                    "updatedAt": 1748958945
+                },
+                "profileImage": null,
+                "location": {
+                    "id": 36,
+                    "latitude": 24.9323526,
+                    "longitude": 67.0872638,
+                    "country": "PK",
+                    "state": "Sindh",
+                    "city": "Karachi",
+                    "streetAddress": "LA-2/B, Block 21Ø Main Rashid Minhas Rd, opp. UBL Sports ComplexØ FB Indus-Area Block 21 Block 21 Gulberg Town, Karachi, Pakistan",
+                    "homeAddress": null,
+                    "postalCode": "000000",
+                    "modelId": 43,
+                    "modelType": "USER",
+                    "locationType": null,
+                    "status": "ACTIVE",
+                    "userId": 43,
+                    "createdAt": 1748958632,
+                    "updatedAt": 1748958632,
+                    "equipments": []
+                },
+                "favorite": true
+            },
+            "location": {
+                "id": 36,
+                "latitude": 24.9323526,
+                "longitude": 67.0872638,
+                "country": "PK",
+                "state": "Sindh",
+                "city": "Karachi",
+                "streetAddress": "LA-2/B, Block 21Ø Main Rashid Minhas Rd, opp. UBL Sports ComplexØ FB Indus-Area Block 21 Block 21 Gulberg Town, Karachi, Pakistan",
+                "homeAddress": null,
+                "postalCode": "000000",
+                "modelId": 43,
+                "modelType": "USER",
+                "locationType": null,
+                "status": "ACTIVE",
+                "userId": 43,
+                "createdAt": 1748958632,
+                "updatedAt": 1748958632,
+                "equipments": []
+            },
+            "serviceRequestEquipments": [
+                {
+                    "id": 131,
+                    "serviceRequestId": 91,
+                    "createdAt": 1748959203,
+                    "updatedAt": 1748959203,
+                    "service": {
+                        "id": 3,
+                        "name": "Cillos chipping",
+                        "details": "Cillos chipping again.",
+                        "status": "ACTIVE",
+                        "userId": 14,
+                        "createdAt": 1748258477,
+                        "updatedAt": 1748258477,
+                        "profileImage": {
+                            "id": 38,
+                            "modelId": 3,
+                            "modelType": "SERVICE",
+                            "url": "https://progstream.s3.amazonaws.com/mccs-ps/dev/file_1748258482.jpg",
+                            "fileName": "online-web-design",
+                            "fileSize": 6994794,
+                            "fileType": "image",
+                            "fileExtension": "jpg",
+                            "attachmentType": "PROFILE",
+                            "visibility": "PUBLIC",
+                            "status": "ACTIVE",
+                            "createdAt": 1748258485,
+                            "updatedAt": 1748258485,
+                            "userId": 14
+                        }
+                    },
+                    "equipment": {
+                        "id": 248,
+                        "truckNumber": "gfggb",
+                        "name": null,
+                        "equipmentType": "TRUCK",
+                        "status": "ACTIVE",
+                        "locationId": 36,
+                        "userId": 43,
+                        "createdAt": 1748958723,
+                        "updatedAt": 1748958723
+                    }
+                },
+                {
+                    "id": 132,
+                    "serviceRequestId": 91,
+                    "createdAt": 1748959203,
+                    "updatedAt": 1748959203,
+                    "service": {
+                        "id": 3,
+                        "name": "Cillos chipping",
+                        "details": "Cillos chipping again.",
+                        "status": "ACTIVE",
+                        "userId": 14,
+                        "createdAt": 1748258477,
+                        "updatedAt": 1748258477,
+                        "profileImage": {
+                            "id": 38,
+                            "modelId": 3,
+                            "modelType": "SERVICE",
+                            "url": "https://progstream.s3.amazonaws.com/mccs-ps/dev/file_1748258482.jpg",
+                            "fileName": "online-web-design",
+                            "fileSize": 6994794,
+                            "fileType": "image",
+                            "fileExtension": "jpg",
+                            "attachmentType": "PROFILE",
+                            "visibility": "PUBLIC",
+                            "status": "ACTIVE",
+                            "createdAt": 1748258485,
+                            "updatedAt": 1748258485,
+                            "userId": 14
+                        }
+                    },
+                    "equipment": {
+                        "id": 249,
+                        "truckNumber": "ygvg",
+                        "name": null,
+                        "equipmentType": "TRUCK",
+                        "status": "ACTIVE",
+                        "locationId": 36,
+                        "userId": 43,
+                        "createdAt": 1748958723,
+                        "updatedAt": 1748958723
+                    }
+                }
+            ]
+        },
+        "message": "Request fetched successfully"
+    }
+}

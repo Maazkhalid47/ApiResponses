@@ -1,0 +1,25 @@
+{
+    "success": {
+        "code": 201,
+        "data": {
+            "id": 4,
+            "latitude": -33.8688,
+            "longitude": 151.2093,
+            "country": "Australia",
+            "state": "New South Wales",
+            "city": "Sydney",
+            "streetAddress": "1 Macquarie St",
+            "homeAddress": "Unit 302",
+            "postalCode": "2000",
+            "modelId": 1,
+            "modelType": "USER",
+            "locationType": "apartment",
+            "status": "ACTIVE",
+            "userId": 26,
+            "createdAt": 1746631103,
+            "updatedAt": 1746631103,
+            "equipments": []
+        },
+        "message": "Locations saved successfully"
+    }
+}

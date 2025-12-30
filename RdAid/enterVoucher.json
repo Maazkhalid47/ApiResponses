@@ -1,0 +1,19 @@
+[{
+    "error": {
+        "code": 422,
+        "data": null,
+        "message": "No voucher found"
+    },
+    "success": null
+},
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "discountedAmount": 160.0
+        },
+        "message": "Voucher applied"
+    },
+    "error": null
+}
+]

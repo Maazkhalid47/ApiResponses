@@ -1,0 +1,91 @@
+[{
+  "code": 200,
+  "data": {
+    "object": {
+      "id": 3374,
+      "username": null,
+      "email": "maaz.khalid@progstream.com",
+      "phone": "01234567891",
+      "user_type": "user",
+      "uid": null,
+      "uid_from": null,
+      "account_from": "liiteri",
+      "status": "pending",
+      "created_at": "2024-11-20 07:05:48+0000",
+      "updated_at": "2025-01-17 14:55:51+0000",
+      "stripe_id": null,
+      "first_name": "Maaz",
+      "last_name": null,
+      "email_verified": false,
+      "phone_verified": false,
+      "ssn_encrypted": false,
+      "terms_conditions": null,
+      "userRoles": [
+        "coreorient_user",
+        "store_customer"
+      ],
+      "address": {
+        "id": 2596,
+        "user_id": 3374,
+        "address": "no address",
+        "primary_address": 1,
+        "created_at": "2024-11-20 07:05:48+0000",
+        "updated_at": "2024-11-20 07:05:48+0000",
+        "zip_code": "123456",
+        "city": "Karachi",
+        "state": null,
+        "country": "Finland",
+        "latitude": null,
+        "longitude": null,
+        "suite_number": null,
+        "deleted_at": null
+      },
+      "properties": {
+        "tupas": "not verified",
+        "profile": "complete"
+      },
+      "user_referer": "MGQ2ZjVhZmE4YmRiMGVjMDU1NGI1YTNhZDE1NTE2NTk=",
+      "primary_address": {
+        "id": 2596,
+        "user_id": 3374,
+        "address": "no address",
+        "primary_address": 1,
+        "created_at": "2024-11-20 07:05:48+0000",
+        "updated_at": "2024-11-20 07:05:48+0000",
+        "zip_code": "123456",
+        "city": "Karachi",
+        "state": null,
+        "country": "Finland",
+        "latitude": null,
+        "longitude": null,
+        "suite_number": null,
+        "deleted_at": null
+      }
+    },
+    "token": {
+      "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImI3ZTc3OWFkMmI5YTliY2E4NjFmMGM0YTFlOGVmZmZlYmUwNzJlOWFjOWExOGFkYjE3ZDk1ZWZkOWQyMzI5YjkxNmI0ZmJiMTZhZDIwZDFlIn0.eyJhdWQiOiI1IiwianRpIjoiYjdlNzc5YWQyYjlhOWJjYTg2MWYwYzRhMWU4ZWZmZmViZTA3MmU5YWM5YTE4YWRiMTdkOTVlZmQ5ZDIzMjliOTE2YjRmYmIxNmFkMjBkMWUiLCJpYXQiOjE3MzgwNjM4NTQsIm5iZiI6MTczODA2Mzg1NCwiZXhwIjoxNzY5NTk5ODU0LCJzdWIiOiIzMzc0Iiwic2NvcGVzIjpbXX0.QDDaqCoOy-Y1FAq6gw9yr5zltKnj0DDu7N3Ja4rO6Ooql0BK7A63kxtse74f7AGe75FvFVwCevRh7V73bK8KwDTe9jeizCiAeGhfoAC-1wtpwTeE6vC3Cg33Cmh26ALTXdIjKES5lHIswUsU1RW-ot9lU6HAsdEw9z5Y2Fit84JegIGc9W8JvOaQcRZZaMvhjLfS4WUtUGLP3zUIam3axMNvIe6U7DHellCC1hvaqVIUus3kyS-U13Y2NgBQluQDkyz85Z5DGBJ-8RC-OBZuetcYkiFyOmDJUkwkVwA2-A7ISiG3VeR5JXp4r3sijRcnlIIQbsxs2rQWtGnn2myOtQ4KZvlyrcNczEsFHvPSgdt2RREZxImgHf3qgnmFl3Aj1mU2BWL-50hnouHNeC9r8mcGYNARl17Elh7u_ygeQ-oe5uiPdU8_JaLoRRbj6UPWO3hGW4Gskx-v4f0QaCNNCgneJ8jl_7Xy-6juZj4mq0Ze53-eGl19fUNqhHW3V10ylnNOfi1kZDbX_wHd0UsZ3W_iBvz-cwBscSc14Nv0F8pUoa_F2SILlUBS5VxdFbJqqzxY3L-b3Fj9iJ0VqVsX0mscKWinncm2rTCamp99K_yiXkpyIbthCpvH-Nzj49jDN7KgmtTBnOq6gvLVq4ND-1JGaNzMOWhRdftaT78mSbY"
+    }
+  },
+  "status": "success",
+  "error": false
+},
+{
+  "code": 421,
+  "data": false,
+  "status": "failed",
+  "error": {
+    "email": [
+      "Invalid Password"
+    ]
+  }
+},
+{
+  "code": 421,
+  "data": false,
+  "status": "failed",
+  "error": {
+    "email": [
+      "Email not found"
+    ]
+  }
+}]

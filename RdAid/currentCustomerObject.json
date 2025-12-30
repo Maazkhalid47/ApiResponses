@@ -1,0 +1,136 @@
+{
+    "object": "ride-details",
+    "id": "769cf5b7",
+    "rideStatus": 14,
+    "createdAt": "2025-12-19 13:49:03",
+    "acceptedAt": 1766152148,
+    "rideCost": 42,
+    "serviceName": "Jump start",
+    "paymentStatus": 2,
+    "rideRating": 0,
+    "customerDetails": {
+        "id": "769cfb65",
+        "name": "Maaz 23",
+        "email": "maaz.khalid+23@progstream.com",
+        "phone": "+1(000)0000001",
+        "profileImage": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1766144796082.jpg",
+        "ratingCount": 0,
+        "ratingAvg": 0,
+        "callMeAllowed": true
+    },
+    "serviceDetails": {
+        "object": "service",
+        "id": "769cfd70",
+        "title": "Jump start",
+        "description": "qeqwe",
+        "durationInMin": 30,
+        "expirationDate": null,
+        "serviceFor": 0,
+        "driverCount": 25,
+        "addedBy": 498,
+        "updatedBy": null,
+        "status": "active",
+        "servicePrice": {
+            "object": "servicePrice",
+            "id": "769cfd70",
+            "serviceId": "769cfd70",
+            "paymentType": 1,
+            "serviceCharges": 40,
+            "distance": null,
+            "chargesPerUnit": null,
+            "chargesPerUnitAfterSlab": null,
+            "adjustablePrice": true,
+            "allowNightShift": true,
+            "unit": "miles",
+            "createdAt": "2025-11-10 08:43:01",
+            "updatedAt": "2025-11-10 08:43:01"
+        },
+        "serviceIconUrl": null,
+        "driverOnline": 0,
+        "cancellationFeePercent": 10,
+        "createdAt": "2025-11-10 08:43:01",
+        "updatedAt": "2025-11-10 08:43:01"
+    },
+    "vehicleDetails": {
+        "object": "vehicle",
+        "id": "769cfab6",
+        "userId": "769cfb65",
+        "make": "Dodge",
+        "model": "Colt",
+        "year": "2019",
+        "color": "Red",
+        "fuelType": "Gasoline",
+        "tireSize": "233/33/R33",
+        "identificationNumber": null,
+        "registrationNumber": null,
+        "stateOfRegistration": null,
+        "licensePlateNo": "test 123",
+        "expirationDate": null,
+        "towTruck": false,
+        "default": null,
+        "status": "pending",
+        "createdAt": "2025-12-19 11:58:04",
+        "updatedAt": "2025-12-19 11:58:04",
+        "attachmentUrl": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1766145485025.jpg"
+    },
+    "pickUpLocation": {
+        "object": "location",
+        "id": "769ceeae",
+        "user_id": "769cfb65",
+        "latitude": 24.923627043300623,
+        "longitude": 67.09182444959879,
+        "country": null,
+        "state": null,
+        "city": null,
+        "streetAddress": "M A Arcade, Plot 16, Block 5 Gulshan-e-Iqbal, Karachi, Pakistan",
+        "homeAddress": null,
+        "postalCode": null,
+        "apartment": null,
+        "modelId": "769cf5b7",
+        "modelType": "Ride",
+        "status": "active",
+        "createdAt": "2025-12-19 13:49:03",
+        "updatedAt": "2025-12-19 13:49:03"
+    },
+    "userAnswers": [
+        {
+            "question": "Do you have a car jack?",
+            "answer": "yes"
+        },
+        {
+            "question": "Is there any equipment available?",
+            "answer": "yes"
+        },
+        {
+            "question": "Are you with the vehicle?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the car jack electronic",
+            "answer": "Yes"
+        },
+        {
+            "question": "What type of equipment do you have?",
+            "answer": "Manual"
+        }
+    ],
+    "driverDetails": {
+        "id": "769cfb8c",
+        "name": "waleed",
+        "firstName": "waleed",
+        "lastName": "proD2",
+        "userProfileImg": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1762780920490.jpg",
+        "online_status": true,
+        "ratingCount": 0,
+        "ratingAvg": 0,
+        "distance": 0,
+        "lat": 24.9236243,
+        "lng": 67.0918157,
+        "arrivalTime": "1 min"
+    },
+    "estimatedRideCost": 0,
+    "driverArrivalTime": "1 min",
+    "driverDistance": "0 miles",
+    "rideAttachments": null,
+    "tipAmount": 0
+}

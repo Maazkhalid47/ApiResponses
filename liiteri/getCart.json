@@ -1,0 +1,517 @@
+{
+    "code": 200,
+    "data": {
+        "object": {
+            "id": 9787,
+            "session_id": "762ebff5655e1da99a5ffd9b4dbef571",
+            "reference_number": null,
+            "user_id": 3364,
+            "status": "pending",
+            "total_price": "0",
+            "created_at": "2025-01-28 14:30:44+0000",
+            "updated_at": "2025-01-28 14:30:44+0000",
+            "store_id": null,
+            "total_loan_price": 0,
+            "total_purchase_price": 0,
+            "store_location": "Kivist\u00f6",
+            "product_name": "Tekstiilipesuri",
+            "cart_products": [
+                {
+                    "id": 11639,
+                    "cart_id": 9787,
+                    "product_id": 723,
+                    "unit_price": "9.9",
+                    "unit_discount": "0",
+                    "quantity": 1,
+                    "price": "0",
+                    "delivery_method": "pickup",
+                    "start_dt": "2025-01-28 14:30:00+00",
+                    "end_dt": "2025-01-28 15:30:00+00",
+                    "pickup_dt": null,
+                    "dropoff_dt": null,
+                    "status": "booked",
+                    "deleted_at": null,
+                    "product_price_id": 1211,
+                    "start_date": 1738074600000,
+                    "end_date": 1738078200000,
+                    "product_daily_price": 0,
+                    "product_hourly_price": 9.9,
+                    "product": {
+                        "id": 723,
+                        "name": "Tekstiilipesuri",
+                        "details": "<p style=\"color: #626262;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Tekstiilipesuri - K&auml;rcher Professional Puzzi 10\/1<\/span><\/p>\n<p style=\"color: #626262;\"><span id=\"docs-internal-guid-6e509c3a-2334-168b-9b2a-4d3e4231a9f9\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">K&auml;rcher Puzzi 10\/1 on s&auml;&auml;nn&ouml;lliseen ammattik&auml;ytt&ouml;&ouml;n mitoitettu tekstiilipesuri \/ painehuuhtelulaite. Tehokas ty&ouml;kalu mattojen, kangasverhoiltujen huonekalujen, auton istuimien ja sis&auml;verhoilujen puhdistukseen. Laite toimii verkkovirralla. <br \/><\/span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br class=\"kix-line-break\" \/><\/span><span style=\"font-size: 10pt; font-family: Arial; color: #2b2b2b; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Painehuuhtelu j&auml;tt&auml;&auml; pinnan raikkaan puhtaaksi, ja tehokkaan kuivauksen ansiosta kohde kuivuu nopeasti k&auml;ytt&ouml;valmiiksi. Lujarakenteinen, varmatoiminen kone ja j&auml;mer&auml;t pesuvarusteet kest&auml;v&auml;t p&auml;ivitt&auml;isess&auml; ammattik&auml;yt&ouml;ss&auml;. <\/span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Pumpun teho 40 W, j&auml;nnite 220 - <\/span><\/span><\/span><\/span><span id=\"docs-internal-guid-6e509c3a-2334-168b-9b2a-4d3e4231a9f9\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">240 V, paino 10,7 kg, mitat 71 cm x 33 cm x 42 cm.<br \/><\/span><\/span><\/span><\/span><\/p>\n<p style=\"color: #626262;\"><span id=\"docs-internal-guid-6e509c3a-2334-168b-9b2a-4d3e4231a9f9\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Sis&auml;lt&ouml;:<\/span><\/span><\/span><\/span><\/p>\n<ul style=\"color: #626262;\">\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Pesuri<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Imuputki k&auml;sikahvalla<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Imuletku integroidulla vedensy&ouml;t&ouml;ll&auml;<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Lattiasuulake kokolattiamatolle<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">K&auml;sisuulake huonekalujen ja pehmusteverhoilujen puhdistamiseen<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Rakosuutin<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Ohjekirjat (2 kpl)<\/span><\/span><\/span><\/li>\n<\/ul>\n<p style=\"color: #626262;\"><span id=\"docs-internal-guid-6e509c3a-2334-168b-9b2a-4d3e4231a9f9\"><\/span><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen. Huom! Tekstiilipesuri ei mahdu reppuun, mutta reppu on k&auml;tev&auml; laitteen irroitettaville osille.&nbsp;<br \/><br \/><\/span><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/p>\n<p style=\"color: #626262;\"><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5366346-000-01.pdf\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">K&auml;ytt&ouml;ohje<\/span><\/a><\/p>\n<p style=\"color: #626262;\"><a href=\"https:\/\/www.kaercher.com\/fi\/professional\/mattojen-ja-tekstiilien-puhdistuslaitteet\/painehuuhtelukoneet\/puzzi-10-1-11001310.html\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Tuote valmistajan kotisivuilla<\/span><\/a><\/p>",
+                        "location": "Oikealla seinustalla \/ On the right side",
+                        "quantity": 1,
+                        "status": "active",
+                        "expiry_date": "2020-07-03",
+                        "store_id": 9,
+                        "category_id": 27,
+                        "listing_id": 1,
+                        "added_by": 106,
+                        "created_at": "2019-04-26 18:32:26+0000",
+                        "updated_at": "2025-01-21 10:14:21+0000",
+                        "discount": "0",
+                        "deleted_at": null,
+                        "external_url": null,
+                        "product_url": "tekstiilipesuri",
+                        "free_rental": 0,
+                        "shelf_number": null,
+                        "place": "open",
+                        "freebie": false,
+                        "gift_card": 1,
+                        "used": 435,
+                        "product_group_id": 112,
+                        "available_quantity": -28,
+                        "sub_locker_name": null,
+                        "product_in_use": null,
+                        "product_groups": {
+                            "id": 112,
+                            "name": "Tekstiilipesuri",
+                            "details": "<p>Tekstiilipesuri - K&auml;rcher Professional Puzzi 10\/1<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>K&auml;rcher Puzzi 10\/1 on s&auml;&auml;nn&ouml;lliseen ammattik&auml;ytt&ouml;&ouml;n mitoitettu tekstiilipesuri \/ painehuuhtelulaite. Tehokas ty&ouml;kalu mattojen, kangasverhoiltujen huonekalujen, auton istuimien ja sis&auml;verhoilujen puhdistukseen. Laite toimii verkkovirralla .<\/p>\r\n<p>Painehuuhtelu j&auml;tt&auml;&auml; pinnan raikkaan puhtaaksi, ja tehokkaan kuivauksen ansiosta kohde kuivuu nopeasti k&auml;ytt&ouml;valmiiksi. Lujarakenteinen, varmatoiminen kone ja j&auml;mer&auml;t pesuvarusteet kest&auml;v&auml;t p&auml;ivitt&auml;isess&auml; ammattik&auml;yt&ouml;ss&auml;<\/p>\r\n<p>Pumpun teho 40 W, j&auml;nnite 220 - 240 V, paino 10,7 kg, mitat 71 cm x 33 cm x 42 cm.<\/p>\r\n<p>Sis&auml;lt&ouml;:<\/p>\r\n<p>Pesuri<\/p>\r\n<p>Imuputki k&auml;sikahvalla<\/p>\r\n<p>max 2dl nestem&auml;aist&auml; pesuainetta sis&auml;ltyy vuokrahintaan.<\/p>\r\n<p>(Mattosuutin ja jatkoputki eiv&auml;t ole saatavilla Espoon keskuksessa)<\/p>\r\n<p>Imuletku integroidulla vedensy&ouml;t&ouml;ll&auml;<\/p>\r\n<p>Lattiasuulake kokolattiamatolle<\/p>\r\n<p>K&auml;sisuulake huonekalujen ja pehmusteverhoilujen puhdistamiseen<\/p>\r\n<p>Rakosuutin.<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen. Huom! Tekstiilipesuri ei mahdu reppuun, mutta reppu on k&auml;tev&auml; laitteen irroitettaville osille.<\/span><\/span><\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">(Mattosuutin ja jatkoputki eiv&auml;t ole saatavilla Espoon keskuksessa)<\/span><\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/span><\/p>\r\n<p><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5366346-000-01.pdf\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">K&auml;ytt&ouml;ohje<\/span><\/span><\/span><\/a><\/p>\r\n<p><a href=\"https:\/\/www.kaercher.com\/fi\/professional\/mattojen-ja-tekstiilien-puhdistuslaitteet\/painehuuhtelukoneet\/puzzi-10-1-11001310.html\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">Tuote valmistajan kotisivuilla<\/span><\/span><\/span><\/a><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">&nbsp;<\/span><\/span><\/p>",
+                            "status": "available",
+                            "expiry_date": "2026-07-03",
+                            "category_id": 45,
+                            "listing_id": 1,
+                            "added_by": 3,
+                            "product_url": null,
+                            "external_url": null,
+                            "gift_card": null,
+                            "freebie": false,
+                            "free_rental": 0,
+                            "used": 832,
+                            "deleted_at": null,
+                            "created_at": "2019-11-20 14:08:07+0000",
+                            "updated_at": "2025-01-21 10:14:21+0000",
+                            "user_manual": "https:\/\/drive.google.com\/file\/d\/18KRZrVhngY-qgQa0-srwDZbVBzurRN4Z\/view?usp=sharing",
+                            "separate": false,
+                            "availability_date": "2020-09-03 09:03:37+00",
+                            "quality": "high",
+                            "product_type": 0,
+                            "name_fi": null,
+                            "listingName": "Loan",
+                            "CategoryName": "muu",
+                            "rating": 0,
+                            "price_array": {
+                                "price_hourly": "9.9",
+                                "price_daily": "29",
+                                "price_purchase": null,
+                                "currency": "eur",
+                                "discount_price_hourly": 9.9,
+                                "discount_price_daily": 29,
+                                "discount_price_purchase": null
+                            },
+                            "product_serial_numbers": "Tekstiilipesuri-0,Tekstiilipesuri-0,Tekstiilipesuri-0",
+                            "tag_names": "cleaners",
+                            "product_point": "1",
+                            "sub_locker_name": null,
+                            "available_products": false,
+                            "api_url": "tekstiilipesuri-112",
+                            "in_stock": true,
+                            "store_names": "Lempalaa,Vuosaari Columbus,dummyAsoliiteri,ABC,Tampere,Vuosaari-old,Matinkyl\u00e4,Teurastamo Tukkutori,Lauttasaari Tavaralainaamo,Oulunkyl\u00e4,Kivist\u00f6",
+                            "images": [
+                                {
+                                    "id": 687,
+                                    "name": "MHsoUOf9CU8WQx7G88EFK4Y8WKYzegF9Dlk6nxMP.png",
+                                    "image_url": "https:\/\/s3-eu-central-1.amazonaws.com\/liiteri-stage-dev\/development\/store-9\/products\/723",
+                                    "show": 1,
+                                    "product_id": 723,
+                                    "product_group_id": 112,
+                                    "product": {
+                                        "id": 723,
+                                        "name": "Tekstiilipesuri",
+                                        "details": "<p style=\"color: #626262;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Tekstiilipesuri - K&auml;rcher Professional Puzzi 10\/1<\/span><\/p>\n<p style=\"color: #626262;\"><span id=\"docs-internal-guid-6e509c3a-2334-168b-9b2a-4d3e4231a9f9\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">K&auml;rcher Puzzi 10\/1 on s&auml;&auml;nn&ouml;lliseen ammattik&auml;ytt&ouml;&ouml;n mitoitettu tekstiilipesuri \/ painehuuhtelulaite. Tehokas ty&ouml;kalu mattojen, kangasverhoiltujen huonekalujen, auton istuimien ja sis&auml;verhoilujen puhdistukseen. Laite toimii verkkovirralla. <br \/><\/span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br class=\"kix-line-break\" \/><\/span><span style=\"font-size: 10pt; font-family: Arial; color: #2b2b2b; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Painehuuhtelu j&auml;tt&auml;&auml; pinnan raikkaan puhtaaksi, ja tehokkaan kuivauksen ansiosta kohde kuivuu nopeasti k&auml;ytt&ouml;valmiiksi. Lujarakenteinen, varmatoiminen kone ja j&auml;mer&auml;t pesuvarusteet kest&auml;v&auml;t p&auml;ivitt&auml;isess&auml; ammattik&auml;yt&ouml;ss&auml;. <\/span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Pumpun teho 40 W, j&auml;nnite 220 - <\/span><\/span><\/span><\/span><span id=\"docs-internal-guid-6e509c3a-2334-168b-9b2a-4d3e4231a9f9\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">240 V, paino 10,7 kg, mitat 71 cm x 33 cm x 42 cm.<br \/><\/span><\/span><\/span><\/span><\/p>\n<p style=\"color: #626262;\"><span id=\"docs-internal-guid-6e509c3a-2334-168b-9b2a-4d3e4231a9f9\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Sis&auml;lt&ouml;:<\/span><\/span><\/span><\/span><\/p>\n<ul style=\"color: #626262;\">\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Pesuri<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Imuputki k&auml;sikahvalla<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Imuletku integroidulla vedensy&ouml;t&ouml;ll&auml;<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Lattiasuulake kokolattiamatolle<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">K&auml;sisuulake huonekalujen ja pehmusteverhoilujen puhdistamiseen<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Rakosuutin<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Ohjekirjat (2 kpl)<\/span><\/span><\/span><\/li>\n<\/ul>\n<p style=\"color: #626262;\"><span id=\"docs-internal-guid-6e509c3a-2334-168b-9b2a-4d3e4231a9f9\"><\/span><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen. Huom! Tekstiilipesuri ei mahdu reppuun, mutta reppu on k&auml;tev&auml; laitteen irroitettaville osille.&nbsp;<br \/><br \/><\/span><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/p>\n<p style=\"color: #626262;\"><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5366346-000-01.pdf\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">K&auml;ytt&ouml;ohje<\/span><\/a><\/p>\n<p style=\"color: #626262;\"><a href=\"https:\/\/www.kaercher.com\/fi\/professional\/mattojen-ja-tekstiilien-puhdistuslaitteet\/painehuuhtelukoneet\/puzzi-10-1-11001310.html\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Tuote valmistajan kotisivuilla<\/span><\/a><\/p>",
+                                        "location": "Oikealla seinustalla \/ On the right side",
+                                        "quantity": 1,
+                                        "status": "active",
+                                        "expiry_date": "2020-07-03",
+                                        "store_id": 9,
+                                        "category_id": 27,
+                                        "listing_id": 1,
+                                        "added_by": 106,
+                                        "created_at": "2019-04-26 18:32:26+0000",
+                                        "updated_at": "2025-01-21 10:14:21+0000",
+                                        "discount": "0",
+                                        "deleted_at": null,
+                                        "external_url": null,
+                                        "product_url": "tekstiilipesuri",
+                                        "free_rental": 0,
+                                        "shelf_number": null,
+                                        "place": "open",
+                                        "freebie": false,
+                                        "gift_card": 1,
+                                        "used": 435,
+                                        "product_group_id": 112,
+                                        "available_quantity": -28,
+                                        "sub_locker_name": null,
+                                        "product_in_use": null
+                                    }
+                                },
+                                {
+                                    "id": 638,
+                                    "name": "pxVUhiUhna8BMvn629EUm2VlcoDnwTAwVt9pptG5.jpeg",
+                                    "image_url": "https:\/\/s3-eu-central-1.amazonaws.com\/liiteri-stage-dev\/development\/store-5\/products\/663",
+                                    "show": 1,
+                                    "product_id": 663,
+                                    "product_group_id": 112,
+                                    "product": {
+                                        "id": 663,
+                                        "name": "Tekstiilipesuri",
+                                        "details": "<p style=\"margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">Tekstiilipesuri - K&auml;rcher Professional Puzzi 10\/1<\/p>\n<p style=\"margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">K&auml;rcher Puzzi 10\/1 on s&auml;&auml;nn&ouml;lliseen ammattik&auml;ytt&ouml;&ouml;n mitoitettu tekstiilipesuri \/ painehuuhtelulaite. Tehokas ty&ouml;kalu mattojen, kangasverhoiltujen huonekalujen, auton istuimien ja sis&auml;verhoilujen puhdistukseen. Laite toimii verkkovirralla.&nbsp;<br \/><br class=\"kix-line-break\" \/>Painehuuhtelu j&auml;tt&auml;&auml; pinnan raikkaan puhtaaksi, ja tehokkaan kuivauksen ansiosta kohde kuivuu nopeasti k&auml;ytt&ouml;valmiiksi. Lujarakenteinen, varmatoiminen kone ja j&auml;mer&auml;t pesuvarusteet kest&auml;v&auml;t p&auml;ivitt&auml;isess&auml; ammattik&auml;yt&ouml;ss&auml;.&nbsp;Pumpun teho 40 W, j&auml;nnite 220 -&nbsp;240 V, paino 10,7 kg, mitat 71 cm x 33 cm x 42 cm.<\/p>\n<p style=\"margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">Sis&auml;lt&ouml;:<\/p>\n<ul style=\"margin-bottom: 10px; color: #333333; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">\n<li>Pesuri<\/li>\n<li>Imuputki k&auml;sikahvalla<\/li>\n<li>Imuletku integroidulla vedensy&ouml;t&ouml;ll&auml;<\/li>\n<li>Lattiasuulake kokolattiamatolle<\/li>\n<li>K&auml;sisuulake huonekalujen ja pehmusteverhoilujen puhdistamiseen<\/li>\n<li>Ohjekirjat (2 kpl)<\/li>\n<\/ul>\n<p style=\"margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">&nbsp;<\/p>\n<p style=\"margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\"><span lang=\"FI\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen. Huom! Tekstiilipesuri ei mahdu reppuun, mutta reppu on k&auml;tev&auml; laitteen irroitettaville osille.&nbsp;<br \/><br \/><\/span><span lang=\"FI\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/p>\n<p style=\"margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\"><a style=\"color: #337ab7; text-decoration-line: none;\" href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5366346-000-01.pdf\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\">K&auml;ytt&ouml;ohje<\/span><\/a><\/p>\n<p style=\"margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\"><a style=\"color: #337ab7; text-decoration-line: none;\" href=\"https:\/\/www.kaercher.com\/fi\/professional\/mattojen-ja-tekstiilien-puhdistuslaitteet\/painehuuhtelukoneet\/puzzi-10-1-11001310.html\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\">Tuote valmistajan kotisivuilla<\/span><\/a><\/p>",
+                                        "location": "On the left side",
+                                        "quantity": 1,
+                                        "status": "inactive",
+                                        "expiry_date": "2020-07-03",
+                                        "store_id": 5,
+                                        "category_id": 27,
+                                        "listing_id": 1,
+                                        "added_by": 1,
+                                        "created_at": "2018-12-13 11:27:17+0000",
+                                        "updated_at": "2023-06-29 08:39:37+0000",
+                                        "discount": "0",
+                                        "deleted_at": null,
+                                        "external_url": null,
+                                        "product_url": "tekstiilipesuri",
+                                        "free_rental": 0,
+                                        "shelf_number": "1",
+                                        "place": "open",
+                                        "freebie": false,
+                                        "gift_card": null,
+                                        "used": 55,
+                                        "product_group_id": 112,
+                                        "available_quantity": 0,
+                                        "sub_locker_name": null,
+                                        "product_in_use": null
+                                    }
+                                },
+                                {
+                                    "id": 375,
+                                    "name": "cYJ8USh619v1L9NNULnCYwrS6tQMrXnVov9nq6KJ.png",
+                                    "image_url": "https:\/\/s3-eu-central-1.amazonaws.com\/liiteri-stage-dev\/development\/store-7\/products\/368",
+                                    "show": 1,
+                                    "product_id": 368,
+                                    "product_group_id": 112,
+                                    "product": {
+                                        "id": 368,
+                                        "name": "Tekstiilipesuri",
+                                        "details": "<p><span lang=\"FI\">Tekstiilipesuri - K&auml;rcher <\/span><span lang=\"FI\">Puzzi 8\/1 C <\/span><\/p>\r\n<p><span lang=\"FI\">Puzzi 8\/1 C on n&auml;pp&auml;r&auml;, ammattik&auml;ytt&ouml;&ouml;n mitoitettu tekstiilipesuri \/ painehuuhtelukone. <\/span><span lang=\"FI\">Tehokas ty&ouml;kalu mattojen, kangasverhoiltujen huonekalujen, auton istuimien ja sis&auml;verhoilujen puhdistukseen. Laite toimii verkkovirralla. <br \/> <br \/> <\/span>Painehuuhtelu j&auml;tt&auml;&auml; pinnan raikkaan puhtaaksi, ja tehokkaan kuivauksen ansiosta kohde kuivuu nopeasti k&auml;ytt&ouml;valmiiksi. Lujarakenteinen, varmatoiminen kone ja j&auml;mer&auml;t pesuvarusteet kest&auml;v&auml;t p&auml;ivitt&auml;isess&auml; ammattik&auml;yt&ouml;ss&auml;. <span lang=\"FI\">Pumpun teho 40 W, j&auml;nnite 220 - <\/span>240 V, paino 9,8 kg, mitat 53 cm x 33 cm x 44 cm.<br \/> <!--[endif]--><\/p>\r\n<p>Sis&auml;lt&ouml;:<\/p>\r\n<p><!-- [if !supportLists]-->&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!--[endif]-->Pesuri<br \/><!-- [if !supportLists]-->&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!--[endif]-->Imuputki k&auml;sikahvalla<br \/><!-- [if !supportLists]-->&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!--[endif]-->Imuletku integroidulla vedensy&ouml;t&ouml;ll&auml;<br \/><!-- [if !supportLists]--><span lang=\"FI\">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!--[endif]--><span lang=\"FI\">Imurisuulake huonekaluille<\/span><\/span><br \/><!-- [if !supportLists]-->&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!--[endif]-->Ohjekirjat (2 kpl)<\/p>\r\n<p><!-- [if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n  <o:AllowPNG\/>\r\n  <o:PixelsPerInch>96<\/o:PixelsPerInch>\r\n <\/o:OfficeDocumentSettings>\r\n<\/xml><![endif]--> <!-- [if gte mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:View>Normal<\/w:View>\r\n  <w:Zoom>0<\/w:Zoom>\r\n  <w:TrackMoves\/>\r\n  <w:TrackFormatting\/>\r\n  <w:PunctuationKerning\/>\r\n  <w:ValidateAgainstSchemas\/>\r\n  <w:SaveIfXMLInvalid>false<\/w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false<\/w:IgnoreMixedContent>\r\n  <w:AlwaysShowPlaceholderText>false<\/w:AlwaysShowPlaceholderText>\r\n  <w:DoNotPromoteQF\/>\r\n  <w:LidThemeOther>EN-GB<\/w:LidThemeOther>\r\n  <w:LidThemeAsian>X-NONE<\/w:LidThemeAsian>\r\n  <w:LidThemeComplexScript>X-NONE<\/w:LidThemeComplexScript>\r\n  <w:Compatibility>\r\n   <w:BreakWrappedTables\/>\r\n   <w:SnapToGridInCell\/>\r\n   <w:WrapTextWithPunct\/>\r\n   <w:UseAsianBreakRules\/>\r\n   <w:DontGrowAutofit\/>\r\n   <w:SplitPgBreakAndParaMark\/>\r\n   <w:EnableOpenTypeKerning\/>\r\n   <w:DontFlipMirrorIndents\/>\r\n   <w:OverrideTableStyleHps\/>\r\n  <\/w:Compatibility>\r\n  <m:mathPr>\r\n   <m:mathFont m:val=\"Cambria Math\"\/>\r\n   <m:brkBin m:val=\"before\"\/>\r\n   <m:brkBinSub m:val=\"&#45;-\"\/>\r\n   <m:smallFrac m:val=\"off\"\/>\r\n   <m:dispDef\/>\r\n   <m:lMargin m:val=\"0\"\/>\r\n   <m:rMargin m:val=\"0\"\/>\r\n   <m:defJc m:val=\"centerGroup\"\/>\r\n   <m:wrapIndent m:val=\"1440\"\/>\r\n   <m:intLim m:val=\"subSup\"\/>\r\n   <m:naryLim m:val=\"undOvr\"\/>\r\n  <\/m:mathPr><\/w:WordDocument>\r\n<\/xml><![endif]--><!-- [if gte mso 9]><xml>\r\n <w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"false\"\r\n  DefSemiHidden=\"false\" DefQFormat=\"false\" DefPriority=\"99\"\r\n  LatentStyleCount=\"382\">\r\n  <w:LsdException Locked=\"false\" Priority=\"0\" QFormat=\"true\" Name=\"Normal\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 7\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 8\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 9\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 7\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 8\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 9\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 7\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 8\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 9\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal Indent\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footnote text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"header\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footer\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index heading\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"35\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"caption\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"table of figures\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"envelope address\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"envelope return\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footnote reference\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation reference\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"line number\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"page number\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"endnote reference\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"endnote text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"table of authorities\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"macro\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"toa heading\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"10\" QFormat=\"true\" Name=\"Title\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Closing\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Signature\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"Default Paragraph Font\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Message Header\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"11\" QFormat=\"true\" Name=\"Subtitle\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Salutation\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Date\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text First Indent\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text First Indent 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Heading\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Block Text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Hyperlink\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"FollowedHyperlink\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"22\" QFormat=\"true\" Name=\"Strong\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"20\" QFormat=\"true\" Name=\"Emphasis\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Document Map\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Plain Text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"E-mail Signature\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Top of Form\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Bottom of Form\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal (Web)\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Acronym\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Address\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Cite\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Code\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Definition\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Keyboard\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Preformatted\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Sample\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Typewriter\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Variable\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal Table\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation subject\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"No List\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 7\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 8\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 7\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 8\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Contemporary\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Elegant\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Professional\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Subtle 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Subtle 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Balloon Text\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"Table Grid\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Theme\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 7\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 8\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 9\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" Name=\"Placeholder Text\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" QFormat=\"true\" Name=\"No Spacing\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" Name=\"Revision\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"34\" QFormat=\"true\"\r\n   Name=\"List Paragraph\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"29\" QFormat=\"true\" Name=\"Quote\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"30\" QFormat=\"true\"\r\n   Name=\"Intense Quote\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"19\" QFormat=\"true\"\r\n   Name=\"Subtle Emphasis\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"21\" QFormat=\"true\"\r\n   Name=\"Intense Emphasis\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"31\" QFormat=\"true\"\r\n   Name=\"Subtle Reference\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"32\" QFormat=\"true\"\r\n   Name=\"Intense Reference\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"33\" QFormat=\"true\" Name=\"Book Title\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"37\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"Bibliography\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"TOC Heading\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"41\" Name=\"Plain Table 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"42\" Name=\"Plain Table 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"43\" Name=\"Plain Table 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"44\" Name=\"Plain Table 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"45\" Name=\"Plain Table 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"40\" Name=\"Grid Table Light\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\" Name=\"Grid Table 1 Light\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\" Name=\"Grid Table 6 Colorful\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\" Name=\"Grid Table 7 Colorful\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\" Name=\"List Table 1 Light\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\" Name=\"List Table 6 Colorful\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\" Name=\"List Table 7 Colorful\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Mention\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Smart Hyperlink\"\/>\r\n <\/w:LatentStyles>\r\n<\/xml><![endif]--><!-- [if gte mso 10]>\r\n<style>\r\n \/* Style Definitions *\/\r\ntable.MsoNormalTable\r\n\t{mso-style-name:\"Table Normal\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n\tmso-style-priority:99;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0cm 5.4pt 0cm 5.4pt;\r\n\tmso-para-margin:0cm;\r\n\tmso-para-margin-bottom:.0001pt;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Calibri\",sans-serif;\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-fareast-language:EN-US;}\r\n<\/style>\r\n<![endif]--> <!--StartFragment--> <!--EndFragment--><\/p>\r\n<p><span lang=\"FI\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen. Huom! Tekstiilipesuri ei mahdu reppuun, mutta reppu on k&auml;tev&auml; laitteen irroitettaville osille.&nbsp;<br \/> <br \/> Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/p>\r\n<p><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5388556-000-01.pdf\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">K&auml;ytt&ouml;ohje<\/span><\/span><\/span><\/a><\/p>\r\n<p><a href=\"https:\/\/www.kaercher.com\/fi\/professional\/mattojen-ja-tekstiilien-puhdistuslaitteet\/painehuuhtelukoneet\/puzzi-8-1-c-11002250.html\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">Tuote valmistajan kotisivuilla<\/span><\/span><\/span><\/a><\/p>",
+                                        "location": "Vasemmalla seinustalla \/ On the left side",
+                                        "quantity": 1,
+                                        "status": "inactive",
+                                        "expiry_date": "2020-07-03",
+                                        "store_id": 7,
+                                        "category_id": 27,
+                                        "listing_id": 1,
+                                        "added_by": 1,
+                                        "created_at": "2018-04-25 19:50:40+0000",
+                                        "updated_at": "2023-06-29 08:39:37+0000",
+                                        "discount": "0",
+                                        "deleted_at": null,
+                                        "external_url": null,
+                                        "product_url": "tekstiilipesuri",
+                                        "free_rental": 0,
+                                        "shelf_number": null,
+                                        "place": "open",
+                                        "freebie": false,
+                                        "gift_card": null,
+                                        "used": 120,
+                                        "product_group_id": 112,
+                                        "available_quantity": 0,
+                                        "sub_locker_name": null,
+                                        "product_in_use": null
+                                    }
+                                }
+                            ],
+                            "prices": [
+                                {
+                                    "id": 1210,
+                                    "price": "29",
+                                    "currency": "eur",
+                                    "listing_price_id": 1,
+                                    "product_id": null,
+                                    "product_group_id": 112,
+                                    "listing_price_option": {
+                                        "id": 1,
+                                        "listing_id": 1,
+                                        "price_option_id": 1,
+                                        "created_at": "2018-01-16 14:41:51+0000",
+                                        "updated_at": "2018-01-16 14:41:51+0000",
+                                        "price_option": {
+                                            "id": 1,
+                                            "name": "day",
+                                            "added_by": 1,
+                                            "created_at": "2018-01-16 14:41:21+0000",
+                                            "updated_at": "2018-01-16 14:41:21+0000"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": 1211,
+                                    "price": "9.9",
+                                    "currency": "eur",
+                                    "listing_price_id": 20,
+                                    "product_id": null,
+                                    "product_group_id": 112,
+                                    "listing_price_option": {
+                                        "id": 20,
+                                        "listing_id": 1,
+                                        "price_option_id": 3,
+                                        "created_at": null,
+                                        "updated_at": null,
+                                        "price_option": {
+                                            "id": 3,
+                                            "name": "hour",
+                                            "added_by": 1,
+                                            "created_at": null,
+                                            "updated_at": null
+                                        }
+                                    }
+                                }
+                            ],
+                            "feedback": [],
+                            "serial_numbers": [
+                                {
+                                    "id": 199,
+                                    "serial_number": "Tekstiilipesuri-0",
+                                    "product_id": 368,
+                                    "product_group_id": 112
+                                },
+                                {
+                                    "id": 163,
+                                    "serial_number": "Tekstiilipesuri-0",
+                                    "product_id": 196,
+                                    "product_group_id": 112
+                                },
+                                {
+                                    "id": 179,
+                                    "serial_number": "Tekstiilipesuri-0",
+                                    "product_id": 22,
+                                    "product_group_id": 112
+                                }
+                            ],
+                            "product_tags": [
+                                {
+                                    "id": 397,
+                                    "tag_id": 17,
+                                    "product_id": null,
+                                    "created_at": 1583144672000,
+                                    "updated_at": 1583144672000,
+                                    "product_group_id": 112,
+                                    "tag": {
+                                        "id": 17,
+                                        "name": "cleaners",
+                                        "created_at": 1583138545000,
+                                        "updated_at": 1583138545000
+                                    }
+                                }
+                            ],
+                            "point": {
+                                "id": 4,
+                                "points": "1",
+                                "rplan_id": null,
+                                "product_id": null,
+                                "product_group_id": 112
+                            }
+                        },
+                        "store": {
+                            "id": 9,
+                            "name": "Kivist\u00f6",
+                            "latitude": "60.316042",
+                            "longitude": "24.849998",
+                            "location": "Topaasiaukiolla, Vantaa , Finland Topaasikujan (asemanpuoleisessa) p\u00e4\u00e4ss\u00e4."
+                        }
+                    }
+                }
+            ],
+            "loan_products": [
+                {
+                    "id": 11639,
+                    "cart_id": 9787,
+                    "product_id": 723,
+                    "unit_price": "9.9",
+                    "unit_discount": "0",
+                    "quantity": 1,
+                    "price": "0",
+                    "delivery_method": "pickup",
+                    "start_dt": "2025-01-28 14:30:00+00",
+                    "end_dt": "2025-01-28 15:30:00+00",
+                    "pickup_dt": null,
+                    "dropoff_dt": null,
+                    "status": "booked",
+                    "deleted_at": null,
+                    "product_price_id": 1211,
+                    "start_date": 1738074600000,
+                    "end_date": 1738078200000,
+                    "product_daily_price": 0,
+                    "product_hourly_price": 9.9,
+                    "product": {
+                        "id": 723,
+                        "name": "Tekstiilipesuri",
+                        "details": "<p style=\"color: #626262;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Tekstiilipesuri - K&auml;rcher Professional Puzzi 10\/1<\/span><\/p>\n<p style=\"color: #626262;\"><span id=\"docs-internal-guid-6e509c3a-2334-168b-9b2a-4d3e4231a9f9\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">K&auml;rcher Puzzi 10\/1 on s&auml;&auml;nn&ouml;lliseen ammattik&auml;ytt&ouml;&ouml;n mitoitettu tekstiilipesuri \/ painehuuhtelulaite. Tehokas ty&ouml;kalu mattojen, kangasverhoiltujen huonekalujen, auton istuimien ja sis&auml;verhoilujen puhdistukseen. Laite toimii verkkovirralla. <br \/><\/span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br class=\"kix-line-break\" \/><\/span><span style=\"font-size: 10pt; font-family: Arial; color: #2b2b2b; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Painehuuhtelu j&auml;tt&auml;&auml; pinnan raikkaan puhtaaksi, ja tehokkaan kuivauksen ansiosta kohde kuivuu nopeasti k&auml;ytt&ouml;valmiiksi. Lujarakenteinen, varmatoiminen kone ja j&auml;mer&auml;t pesuvarusteet kest&auml;v&auml;t p&auml;ivitt&auml;isess&auml; ammattik&auml;yt&ouml;ss&auml;. <\/span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Pumpun teho 40 W, j&auml;nnite 220 - <\/span><\/span><\/span><\/span><span id=\"docs-internal-guid-6e509c3a-2334-168b-9b2a-4d3e4231a9f9\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">240 V, paino 10,7 kg, mitat 71 cm x 33 cm x 42 cm.<br \/><\/span><\/span><\/span><\/span><\/p>\n<p style=\"color: #626262;\"><span id=\"docs-internal-guid-6e509c3a-2334-168b-9b2a-4d3e4231a9f9\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Sis&auml;lt&ouml;:<\/span><\/span><\/span><\/span><\/p>\n<ul style=\"color: #626262;\">\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Pesuri<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Imuputki k&auml;sikahvalla<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Imuletku integroidulla vedensy&ouml;t&ouml;ll&auml;<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Lattiasuulake kokolattiamatolle<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">K&auml;sisuulake huonekalujen ja pehmusteverhoilujen puhdistamiseen<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Rakosuutin<\/span><\/span><\/span><\/li>\n<li><span style=\"font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Ohjekirjat (2 kpl)<\/span><\/span><\/span><\/li>\n<\/ul>\n<p style=\"color: #626262;\"><span id=\"docs-internal-guid-6e509c3a-2334-168b-9b2a-4d3e4231a9f9\"><\/span><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen. Huom! Tekstiilipesuri ei mahdu reppuun, mutta reppu on k&auml;tev&auml; laitteen irroitettaville osille.&nbsp;<br \/><br \/><\/span><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/p>\n<p style=\"color: #626262;\"><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5366346-000-01.pdf\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">K&auml;ytt&ouml;ohje<\/span><\/a><\/p>\n<p style=\"color: #626262;\"><a href=\"https:\/\/www.kaercher.com\/fi\/professional\/mattojen-ja-tekstiilien-puhdistuslaitteet\/painehuuhtelukoneet\/puzzi-10-1-11001310.html\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Tuote valmistajan kotisivuilla<\/span><\/a><\/p>",
+                        "location": "Oikealla seinustalla \/ On the right side",
+                        "quantity": 1,
+                        "status": "active",
+                        "expiry_date": "2020-07-03",
+                        "store_id": 9,
+                        "category_id": 27,
+                        "listing_id": 1,
+                        "added_by": 106,
+                        "created_at": "2019-04-26 18:32:26+0000",
+                        "updated_at": "2025-01-21 10:14:21+0000",
+                        "discount": "0",
+                        "deleted_at": null,
+                        "external_url": null,
+                        "product_url": "tekstiilipesuri",
+                        "free_rental": 0,
+                        "shelf_number": null,
+                        "place": "open",
+                        "freebie": false,
+                        "gift_card": 1,
+                        "used": 435,
+                        "product_group_id": 112,
+                        "available_quantity": -28,
+                        "sub_locker_name": null,
+                        "product_in_use": null,
+                        "product_groups": {
+                            "id": 112,
+                            "name": "Tekstiilipesuri",
+                            "details": "<p>Tekstiilipesuri - K&auml;rcher Professional Puzzi 10\/1<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>K&auml;rcher Puzzi 10\/1 on s&auml;&auml;nn&ouml;lliseen ammattik&auml;ytt&ouml;&ouml;n mitoitettu tekstiilipesuri \/ painehuuhtelulaite. Tehokas ty&ouml;kalu mattojen, kangasverhoiltujen huonekalujen, auton istuimien ja sis&auml;verhoilujen puhdistukseen. Laite toimii verkkovirralla .<\/p>\r\n<p>Painehuuhtelu j&auml;tt&auml;&auml; pinnan raikkaan puhtaaksi, ja tehokkaan kuivauksen ansiosta kohde kuivuu nopeasti k&auml;ytt&ouml;valmiiksi. Lujarakenteinen, varmatoiminen kone ja j&auml;mer&auml;t pesuvarusteet kest&auml;v&auml;t p&auml;ivitt&auml;isess&auml; ammattik&auml;yt&ouml;ss&auml;<\/p>\r\n<p>Pumpun teho 40 W, j&auml;nnite 220 - 240 V, paino 10,7 kg, mitat 71 cm x 33 cm x 42 cm.<\/p>\r\n<p>Sis&auml;lt&ouml;:<\/p>\r\n<p>Pesuri<\/p>\r\n<p>Imuputki k&auml;sikahvalla<\/p>\r\n<p>max 2dl nestem&auml;aist&auml; pesuainetta sis&auml;ltyy vuokrahintaan.<\/p>\r\n<p>(Mattosuutin ja jatkoputki eiv&auml;t ole saatavilla Espoon keskuksessa)<\/p>\r\n<p>Imuletku integroidulla vedensy&ouml;t&ouml;ll&auml;<\/p>\r\n<p>Lattiasuulake kokolattiamatolle<\/p>\r\n<p>K&auml;sisuulake huonekalujen ja pehmusteverhoilujen puhdistamiseen<\/p>\r\n<p>Rakosuutin.<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen. Huom! Tekstiilipesuri ei mahdu reppuun, mutta reppu on k&auml;tev&auml; laitteen irroitettaville osille.<\/span><\/span><\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">(Mattosuutin ja jatkoputki eiv&auml;t ole saatavilla Espoon keskuksessa)<\/span><\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/span><\/p>\r\n<p><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5366346-000-01.pdf\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">K&auml;ytt&ouml;ohje<\/span><\/span><\/span><\/a><\/p>\r\n<p><a href=\"https:\/\/www.kaercher.com\/fi\/professional\/mattojen-ja-tekstiilien-puhdistuslaitteet\/painehuuhtelukoneet\/puzzi-10-1-11001310.html\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">Tuote valmistajan kotisivuilla<\/span><\/span><\/span><\/a><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">&nbsp;<\/span><\/span><\/p>",
+                            "status": "available",
+                            "expiry_date": "2026-07-03",
+                            "category_id": 45,
+                            "listing_id": 1,
+                            "added_by": 3,
+                            "product_url": null,
+                            "external_url": null,
+                            "gift_card": null,
+                            "freebie": false,
+                            "free_rental": 0,
+                            "used": 832,
+                            "deleted_at": null,
+                            "created_at": "2019-11-20 14:08:07+0000",
+                            "updated_at": "2025-01-21 10:14:21+0000",
+                            "user_manual": "https:\/\/drive.google.com\/file\/d\/18KRZrVhngY-qgQa0-srwDZbVBzurRN4Z\/view?usp=sharing",
+                            "separate": false,
+                            "availability_date": "2020-09-03 09:03:37+00",
+                            "quality": "high",
+                            "product_type": 0,
+                            "name_fi": null,
+                            "listingName": "Loan",
+                            "CategoryName": "muu",
+                            "rating": 0,
+                            "price_array": {
+                                "price_hourly": "9.9",
+                                "price_daily": "29",
+                                "price_purchase": null,
+                                "currency": "eur",
+                                "discount_price_hourly": 9.9,
+                                "discount_price_daily": 29,
+                                "discount_price_purchase": null
+                            },
+                            "product_serial_numbers": "Tekstiilipesuri-0,Tekstiilipesuri-0,Tekstiilipesuri-0",
+                            "tag_names": "cleaners",
+                            "product_point": "1",
+                            "sub_locker_name": null,
+                            "available_products": false,
+                            "api_url": "tekstiilipesuri-112",
+                            "in_stock": true,
+                            "store_names": "Lempalaa,Vuosaari Columbus,dummyAsoliiteri,ABC,Tampere,Vuosaari-old,Matinkyl\u00e4,Teurastamo Tukkutori,Lauttasaari Tavaralainaamo,Oulunkyl\u00e4,Kivist\u00f6",
+                            "prices": [
+                                {
+                                    "id": 1210,
+                                    "price": "29",
+                                    "currency": "eur",
+                                    "listing_price_id": 1,
+                                    "product_id": null,
+                                    "product_group_id": 112,
+                                    "listing_price_option": {
+                                        "id": 1,
+                                        "listing_id": 1,
+                                        "price_option_id": 1,
+                                        "created_at": "2018-01-16 14:41:51+0000",
+                                        "updated_at": "2018-01-16 14:41:51+0000",
+                                        "price_option": {
+                                            "id": 1,
+                                            "name": "day",
+                                            "added_by": 1,
+                                            "created_at": "2018-01-16 14:41:21+0000",
+                                            "updated_at": "2018-01-16 14:41:21+0000"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": 1211,
+                                    "price": "9.9",
+                                    "currency": "eur",
+                                    "listing_price_id": 20,
+                                    "product_id": null,
+                                    "product_group_id": 112,
+                                    "listing_price_option": {
+                                        "id": 20,
+                                        "listing_id": 1,
+                                        "price_option_id": 3,
+                                        "created_at": null,
+                                        "updated_at": null,
+                                        "price_option": {
+                                            "id": 3,
+                                            "name": "hour",
+                                            "added_by": 1,
+                                            "created_at": null,
+                                            "updated_at": null
+                                        }
+                                    }
+                                }
+                            ],
+                            "feedback": [],
+                            "serial_numbers": [
+                                {
+                                    "id": 199,
+                                    "serial_number": "Tekstiilipesuri-0",
+                                    "product_id": 368,
+                                    "product_group_id": 112
+                                },
+                                {
+                                    "id": 163,
+                                    "serial_number": "Tekstiilipesuri-0",
+                                    "product_id": 196,
+                                    "product_group_id": 112
+                                },
+                                {
+                                    "id": 179,
+                                    "serial_number": "Tekstiilipesuri-0",
+                                    "product_id": 22,
+                                    "product_group_id": 112
+                                }
+                            ],
+                            "product_tags": [
+                                {
+                                    "id": 397,
+                                    "tag_id": 17,
+                                    "product_id": null,
+                                    "created_at": 1583144672000,
+                                    "updated_at": 1583144672000,
+                                    "product_group_id": 112,
+                                    "tag": {
+                                        "id": 17,
+                                        "name": "cleaners",
+                                        "created_at": 1583138545000,
+                                        "updated_at": 1583138545000
+                                    }
+                                }
+                            ],
+                            "point": {
+                                "id": 4,
+                                "points": "1",
+                                "rplan_id": null,
+                                "product_id": null,
+                                "product_group_id": 112
+                            }
+                        }
+                    }
+                }
+            ],
+            "purchase_products": []
+        }
+    },
+    "status": "success",
+    "error": false
+}

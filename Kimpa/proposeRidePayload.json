@@ -1,0 +1,12 @@
+{
+    "cost": "<cost>",
+    "days": "<ridedays>",
+    "scheduleTime": "<rideTime>",
+    "rideId": <rideId>,
+    "routeDistance": "<distance>",
+    "streetAddress": "<streetAddress>",
+    "message": "<message>",
+    "requestedUserOrigin": <origin>,json
+    "requestedUserDestination":<destination>json,
+    "proposedSeats": <seats>
+}

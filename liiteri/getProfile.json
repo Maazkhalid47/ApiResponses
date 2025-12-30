@@ -1,0 +1,33 @@
+{
+    "success": {
+      "code": 200,
+      "data": {
+        "object": "user",
+        "id": "769cfcf2",
+        "name": "maaz",
+        "email": "maaz.khalid+testDriver2@progstream.com",
+        "phone": "00000",
+        "status": "active",
+        "emailVerified": false,
+        "phoneVerified": false,
+        "accessToken": null,
+        "refreshToken": null,
+        "role": 2,
+        "callMeAllowed": true,
+        "userProfile": true,
+        "vehicle": true,
+        "driverInfo": true,
+        "driverService": true,
+        "isOnline": null,
+        "driverPickUpRadius": 50,
+        "createdAt": "2025-01-09 15:18",
+        "updatedAt": "2025-01-09 15:19",
+        "defaultCard": false,
+        "defaultVehicleApproved": false,
+        "certificateApproved": false,
+        "isBankLinked": true
+      },
+      "message": "Success"
+    },
+    "error": null
+  }

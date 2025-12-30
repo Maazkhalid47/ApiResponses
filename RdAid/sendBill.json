@@ -1,0 +1,75 @@
+
+[
+{
+    "ride_id": "769cfd7c",
+    "payment_id": "769cfd78",
+    "additional_cost": [
+        {
+            "title": "Cutting",
+            "price": 20,
+            "description": "adasdas adadasda"
+        },
+        {
+            "title": "flowing",
+            "price": 50,
+            "description": "adasdas adadasda"
+        }
+    ]
+},
+
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "object": "bill-details",
+            "paymentId": "769cfd10",
+            "rideId": "769cfcaa",
+            "totalCost": 85.0,
+            "rideStartTime": "2024-10-17T14:23:55.878316Z",
+            "rideEndTime": "2024-10-17T14:34:14.424993Z",
+            "rideAdditionalCosts": [
+                {
+                    "object": "ride-additional-cost",
+                    "id": "769cfd74",
+                    "title": "Cutting",
+                    "price": 20.0,
+                    "description": "adasdas adadasda",
+                    "paymentId": "769cfd10",
+                    "rideId": "769cfcaa"
+                },
+                {
+                    "object": "ride-additional-cost",
+                    "id": "769cfd73",
+                    "title": "flowing",
+                    "price": 50.0,
+                    "description": "adasdas adadasda",
+                    "paymentId": "769cfd10",
+                    "rideId": "769cfcaa"
+                }
+            ],
+            "ridePickUpLocation": {
+                "object": "location",
+                "id": "769cfbcb",
+                "user_id": "769cfd69",
+                "latitude": 24.9236335,
+                "longitude": 67.0917843,
+                "country": null,
+                "state": "Sindh",
+                "city": "Karachi",
+                "streetAddress": "Office #, C 2 3rd Floor, Block 5 Gulshan-e-Iqbal, Karachi, Sindh, Pakistan",
+                "homeAddress": null,
+                "postalCode": null,
+                "apartment": null,
+                "modelId": "769cfcaa",
+                "modelType": "Ride",
+                "status": "active",
+                "createdAt": "2024-10-17 14:23",
+                "updatedAt": "2024-10-17 14:23"
+            },
+            "rideDestination": null
+        },
+        "message": "Bill send successfully to customer"
+    },
+    "error": null
+}
+]

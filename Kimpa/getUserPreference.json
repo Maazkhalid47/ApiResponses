@@ -1,0 +1,25 @@
+{
+  "success": {
+    "code": 200,
+    "data": {
+      "userPreference": {
+        "id": 1668,
+        "preferredContactMethod": 0,
+        "contactVisibility": 0,
+        "description": "Hell0, I am Maaz Khalid, I am an app dev",
+        "electricCar": false,
+        "userId": 1827,
+        "user": null,
+        "charityName": "",
+        "bankAccount": "",
+        "mobilePay": "",
+        "website": "",
+        "donationId": null,
+        "donation": null,
+        "createdAt": 1762929917640,
+        "updatedAt": 1762929917640
+      }
+    },
+    "message": "User profile"
+  }
+}

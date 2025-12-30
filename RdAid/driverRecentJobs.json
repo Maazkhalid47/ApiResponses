@@ -1,0 +1,63 @@
+{
+  "success": {
+      "code": 200,
+      "data": {
+          "totalRides": 18,
+          "totalEarning": 2445.0,
+          "recentJobs": [
+              {
+                  "customerName": "Customer1Maaz",
+                  "serviceName": "Fuel Delivery",
+                  "amount": 0
+              },
+              {
+                  "customerName": "Customer1Maaz",
+                  "serviceName": "Jump Start",
+                  "amount": 200.0
+              },
+              {
+                  "customerName": "Customer1Maaz",
+                  "serviceName": "Jump Start",
+                  "amount": 200.0
+              },
+              {
+                  "customerName": "Customer1Maaz",
+                  "serviceName": "Jump Start",
+                  "amount": 0
+              },
+              {
+                  "customerName": "Customer1Maaz",
+                  "serviceName": "Jump Start",
+                  "amount": 200.0
+              },
+              {
+                  "customerName": "Customer1Maaz",
+                  "serviceName": "Fuel Delivery",
+                  "amount": 15.0
+              },
+              {
+                  "customerName": "Customer1Maaz",
+                  "serviceName": "Jump Start",
+                  "amount": 200.0
+              },
+              {
+                  "customerName": "Customer1Maaz",
+                  "serviceName": "Jump Start",
+                  "amount": 200.0
+              },
+              {
+                  "customerName": "Customer1Maaz",
+                  "serviceName": "Fuel Delivery",
+                  "amount": 15.0
+              },
+              {
+                  "customerName": "Customer1Maaz",
+                  "serviceName": "Jump Start",
+                  "amount": 200.0
+              }
+          ]
+      },
+      "message": "Recent jobs displayed"
+  },
+  "error": null
+}

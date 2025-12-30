@@ -1,0 +1,9 @@
+
+{
+    "success": {
+        "code": 200,
+        "data": null,
+        "message": "User online status and location updated"
+    },
+    "error": null
+}

@@ -1,0 +1,7 @@
+{
+    "message": {
+        "object": "driver-arrived",
+        "rideStatus": 11,
+        "message": "Driver arrived to your location."
+    }
+}

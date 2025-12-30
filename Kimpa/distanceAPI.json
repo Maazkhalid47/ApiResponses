@@ -1,0 +1,26 @@
+{
+    "destination_addresses": [
+        "Itämerenkatu 25, 00180 Helsinki, Finland"
+    ],
+    "origin_addresses": [
+        "Tiilenlyöjänkuja 5, 01720 Vantaa, Finland"
+    ],
+    "rows": [
+        {
+            "elements": [
+                {
+                    "distance": {
+                        "text": "21.7 km",
+                        "value": 21705
+                    },
+                    "duration": {
+                        "text": "25 mins",
+                        "value": 1528
+                    },
+                    "status": "OK"
+                }
+            ]
+        }
+    ],
+    "status": "OK"
+}

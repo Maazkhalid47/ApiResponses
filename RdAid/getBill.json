@@ -1,0 +1,64 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "object": "bill-details",
+            "paymentId": "769cfd01",
+            "rideId": "769cfc82",
+            "totalCost": 212.0,
+            "rideStartTime": "2024-10-21T10:17:53.686064Z",
+            "rideEndTime": "2024-10-21T10:17:56.958173Z",
+            "rideAdditionalCosts": [
+                {
+                    "object": "ride-additional-cost",
+                    "id": "769cfd71",
+                    "title": "Aj",
+                    "price": 12.0,
+                    "description": "Haha",
+                    "paymentId": "769cfd01",
+                    "rideId": "769cfc82"
+                }
+            ],
+            "ridePickUpLocation": {
+                "object": "location",
+                "id": "769cfb88",
+                "user_id": "769cfd69",
+                "latitude": 24.9236335,
+                "longitude": 67.0917843,
+                "country": null,
+                "state": "Sindh",
+                "city": "Karachi",
+                "streetAddress": "Office #, C 2 3rd Floor, Block 5 Gulshan-e-Iqbal, Karachi, Sindh, Pakistan",
+                "homeAddress": null,
+                "postalCode": "testPostal",
+                "apartment": null,
+                "modelId": "769cfc82",
+                "modelType": "Ride",
+                "status": "active",
+                "createdAt": "2024-10-21 10:17",
+                "updatedAt": "2024-10-21 10:17"
+            },
+            "rideDestination": {
+                "object": "location",
+                "id": "769cfb87",
+                "user_id": "769cfd69",
+                "latitude": 24.9230625,
+                "longitude": 67.0933125,
+                "country": null,
+                "state": "Sindh",
+                "city": "Karachi",
+                "streetAddress": "W3FV+686 Eastern Apartment, Block 6 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+                "homeAddress": null,
+                "postalCode": "testDestinationPostal",
+                "apartment": null,
+                "modelId": "769cfc82",
+                "modelType": "Ride",
+                "status": "active",
+                "createdAt": "2024-10-21 10:17",
+                "updatedAt": "2024-10-21 10:17"
+            }
+        },
+        "message": "Bill details displayed."
+    },
+    "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "success": {
+    "code": 200,
+    "data": {
+      "email": null,
+      "phone": "1234567890",
+      "firstName": "Maaz",
+      "lastName": "17",
+      "description": "user description",
+      "contactVisibility": 1,
+      "image": null
+    },
+    "message": "Success"
+  }
+}

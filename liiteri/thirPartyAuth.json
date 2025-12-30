@@ -1,0 +1,72 @@
+{
+    "code": 201,
+    "data": {
+        "object": {
+            "id": 1,
+            "username": "usman",
+            "email": "maaz.khalid@progstream.com",
+            "phone": "+358452450901",
+            "user_type": "admin",
+            "uid": null,
+            "uid_from": null,
+            "account_from": "liiteri",
+            "status": "active",
+            "created_at": "2018-01-16 14:28:22+0000",
+            "updated_at": "2025-01-21 07:52:49+0000",
+            "stripe_id": "cus_CCDQ5nQsjflWRw",
+            "first_name": "Usman",
+            "last_name": null,
+            "email_verified": true,
+            "phone_verified": true,
+            "ssn_encrypted": false,
+            "terms_conditions": null,
+            "userRoles": [
+                "coreorient_user",
+                "store_owner",
+                "store_customer"
+            ],
+            "address": {
+                "id": 20,
+                "user_id": 1,
+                "address": "Loiskekuja 4C, 15",
+                "primary_address": 1,
+                "created_at": "2018-01-25 08:17:01+0000",
+                "updated_at": "2019-08-08 13:08:36+0000",
+                "zip_code": "001600",
+                "city": "Vantaa",
+                "state": null,
+                "country": "Finland",
+                "latitude": null,
+                "longitude": null,
+                "suite_number": null,
+                "deleted_at": null
+            },
+            "properties": {
+                "tupas": "verified",
+                "profile": "complete"
+            },
+            "user_referer": "NWU0ZTE2N2JjNGMwOGJkMjIxMGY3MGFhMTI0OThhYTE=",
+            "primary_address": {
+                "id": 20,
+                "user_id": 1,
+                "address": "Loiskekuja 4C, 15",
+                "primary_address": 1,
+                "created_at": "2018-01-25 08:17:01+0000",
+                "updated_at": "2019-08-08 13:08:36+0000",
+                "zip_code": "001600",
+                "city": "Vantaa",
+                "state": null,
+                "country": "Finland",
+                "latitude": null,
+                "longitude": null,
+                "suite_number": null,
+                "deleted_at": null
+            }
+        },
+        "token": {
+            "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjUwMzc0MjA5MmY3ZDY0MmFiNzZkZGU5ZjYxM2U2MmJhOTUzOGU4YWQzMDkxOWYyNTBkOTRkZjU1NDI4ZDI0MTA2MGEyMDMxYTk3OTI5Yjc0In0.eyJhdWQiOiIxMSIsImp0aSI6IjUwMzc0MjA5MmY3ZDY0MmFiNzZkZGU5ZjYxM2U2MmJhOTUzOGU4YWQzMDkxOWYyNTBkOTRkZjU1NDI4ZDI0MTA2MGEyMDMxYTk3OTI5Yjc0IiwiaWF0IjoxNzY0ODMxMzYzLCJuYmYiOjE3NjQ4MzEzNjMsImV4cCI6MTc5NjM2NzM2Mywic3ViIjoiMSIsInNjb3BlcyI6W119.Si5qIZnaq--hKGsBvMfMEPWlQK3l0KVTbbGUBWPyPGJYRLxFuIIJJEouPO2BZZ7yEdtLvUdjf-_Hj-l153CqRNR2q5wqR-M9WA69vz3DSlWYELsXFmnRStFdsi6UzyI-aKPMrke2Jq6QpSBhFLPYONO0DnT4GOA5sWcif7KXm6ZnKWsYtCjXv1eoQEen83ECul2RkVZ43nVl4R9R0fpGsdhHHugiL7wIzaHFCh3drSqsDxcq1Dk_bxofQtbjbboZw7_cJhOK0B2eyc52QhPZx0opeqyAWAqbjP1KqKi12ZJfe6AJfySFO3GPZAVKEiUx_NCHPoSqWFhGPlj4N0ZERsM--8sLAxJqU457bvY5hkVGkWnBdj2OyfUgfIXrM8-_WHgTevcwLPFHB9swSIKXnyzozQpxqSNv7D0oHmVWr7lIp_ZWZ47F6zGJeWcV1uYI51SNuS5Iclp_XtW5h8zNil0VxE_M35jrVMNoC_WDmWw5HH-oFK_qvauq78woej_2UR5X0xkC2Kr-HniNa7fU-AGrzZmN4emWFdLPiiGcIqcJ7y2RMc6iIm_-BGGE88eSsKfD2wmChabet-TS6KwZ1lo0seZe1WQ58AyOadOXOGKzZYo0WqE7jeEZvLjeDJQm5cCel5IMpWIeoBWDwbwny_IMhtbpkhJM6noF1GktmuU"
+        }
+    },
+    "status": "success",
+    "error": false
+}

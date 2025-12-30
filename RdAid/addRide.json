@@ -1,0 +1,46 @@
+{
+    "success": {
+        "code": 201,
+        "data": {
+            "rideId": "769cf5c6",
+            "service": {
+                "object": "service",
+                "id": "769cfd70",
+                "title": "Jump start",
+                "description": "qeqwe",
+                "durationInMin": 30,
+                "expirationDate": null,
+                "serviceFor": 0,
+                "driverCount": 25,
+                "addedBy": 498,
+                "updatedBy": null,
+                "status": "active",
+                "servicePrice": {
+                    "object": "servicePrice",
+                    "id": "769cfd70",
+                    "serviceId": "769cfd70",
+                    "paymentType": 1,
+                    "serviceCharges": 40.0,
+                    "distance": null,
+                    "chargesPerUnit": null,
+                    "chargesPerUnitAfterSlab": null,
+                    "adjustablePrice": true,
+                    "allowNightShift": true,
+                    "unit": "miles",
+                    "createdAt": "2025-11-10 08:43:01",
+                    "updatedAt": "2025-11-10 08:43:01"
+                },
+                "serviceIconUrl": null,
+                "driverOnline": 0,
+                "cancellationFeePercent": 10.0,
+                "createdAt": "2025-11-10 08:43:01",
+                "updatedAt": "2025-11-10 08:43:01"
+            },
+            "estimatedRideCost": 40.0,
+            "holdingAmount": 50.4,
+            "platformFee": 2.0
+        },
+        "message": "Ride created."
+    },
+    "error": null
+}

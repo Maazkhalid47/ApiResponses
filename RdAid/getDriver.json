@@ -1,0 +1,50 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "user": {
+                "name": "testProDriver1",
+                "phoneNo": "030303030",
+                "email": "maaz.khalid+testProDriver1@progstream.com"
+            },
+            "userprofile": {
+                "object": "user-profile",
+                "id": "769cfd5a",
+                "callMeAllowed": true,
+                "socialSecurityNumber": "null",
+                "taxId": "12121212",
+                "dateOfBirth": null,
+                "firstName": "testProDriver1",
+                "lastName": "maaz",
+                "gender": null,
+                "userProfileImg": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1730201562062.png",
+                "proofOfResidence": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1730201562367.png",
+                "createdAt": "2024-10-29 11:32",
+                "updatedAt": "2024-11-12 12:50"
+            },
+            "location": {
+                "object": "location",
+                "id": "769cfaed",
+                "user_id": "769cfd4f",
+                "latitude": null,
+                "longitude": null,
+                "country": null,
+                "state": "California",
+                "city": "Amboy",
+                "streetAddress": "test street",
+                "homeAddress": "test home",
+                "postalCode": "12121212121212121212",
+                "apartment": null,
+                "modelId": "769cfd5a",
+                "modelType": "UserProfile",
+                "status": "active",
+                "createdAt": "2024-10-29 11:32",
+                "updatedAt": "2024-11-12 12:50"
+            },
+            "ratingCount": 0,
+            "ratingAvg": 0
+        },
+        "message": "User profile displayed"
+    },
+    "error": null
+}

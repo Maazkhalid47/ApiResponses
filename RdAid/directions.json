@@ -1,0 +1,233 @@
+{
+    "geocoded_waypoints": [
+      {
+        "geocoder_status": "OK",
+        "place_id": "ChIJT5f0dDA_sz4R0VTJHSXBcuQ",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "geocoder_status": "OK",
+        "place_id": "ChIJWwVb8DQ_sz4R6_SBIQ1_jXw",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "routes": [
+      {
+        "bounds": {
+          "northeast": {
+            "lat": 24.9236835,
+            "lng": 67.0920263
+          },
+          "southwest": {
+            "lat": 24.9147539,
+            "lng": 67.0813428
+          }
+        },
+        "copyrights": "Map data ©2024",
+        "legs": [
+          {
+            "distance": {
+              "text": "2.0 km",
+              "value": 1962
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 434
+            },
+            "end_address": "8 Khayaban e Madinatul Uloom, Block 5 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+            "end_location": {
+              "lat": 24.9235102,
+              "lng": 67.0920263
+            },
+            "start_address": "Plot C 56, Block 13D-1 Block 13 D 1 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+            "start_location": {
+              "lat": 24.91554,
+              "lng": 67.0825807
+            },
+            "steps": [
+              {
+                "distance": {
+                  "text": "0.1 km",
+                  "value": 146
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 41
+                },
+                "end_location": {
+                  "lat": 24.9147587,
+                  "lng": 67.0814327
+                },
+                "html_instructions": "Head <b>southwest</b> on <b>Jamali Rd</b> toward <b>Shahid Afridi St</b><div style=\"font-size:0.9em\">Pass by hashpotato (on the left)</div>",
+                "polyline": {
+                  "points": "ciawCcamxKRV|@tAv@nAHLBD@B?B@J"
+                },
+                "start_location": {
+                  "lat": 24.91554,
+                  "lng": 67.0825807
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "0.2 km",
+                  "value": 217
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 49
+                },
+                "end_location": {
+                  "lat": 24.9166334,
+                  "lng": 67.0813889
+                },
+                "html_instructions": "Turn <b>right</b> at School of enablers early year to matric onto <b>Sahba Akhtar Rd</b><div style=\"font-size:0.9em\">Pass by Al-Hamd Academy (on the left)</div>",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "gdawC}ylxK@Ly@?iBASAU@y@@U@c@@OAC?K?G?A?CAGE"
+                },
+                "start_location": {
+                  "lat": 24.9147587,
+                  "lng": 67.0814327
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "0.9 km",
+                  "value": 924
+                },
+                "duration": {
+                  "text": "2 mins",
+                  "value": 124
+                },
+                "end_location": {
+                  "lat": 24.9220096,
+                  "lng": 67.0883693
+                },
+                "html_instructions": "Merge onto <b>Allama Shabbir Ahmed Usmani Rd</b><div style=\"font-size:0.9em\">Pass by Subhan Flowers (on the left)</div>",
+                "maneuver": "merge",
+                "polyline": {
+                  "points": "}oawCuylxKUc@y@qAcFgHgDyEeAyAeFeHmCsDo@{@W]uAmB"
+                },
+                "start_location": {
+                  "lat": 24.9166334,
+                  "lng": 67.0813889
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "0.2 km",
+                  "value": 162
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 45
+                },
+                "end_location": {
+                  "lat": 24.9208664,
+                  "lng": 67.08935559999999
+                },
+                "html_instructions": "Turn <b>right</b> at Agha Hasan Juice Centre onto <b>Sardar Ali Sabri Rd</b><div style=\"font-size:0.9em\">Pass by National Savings Centre (on the right)</div>",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "qqbwCienxKLQxAgALKx@q@r@m@"
+                },
+                "start_location": {
+                  "lat": 24.9220096,
+                  "lng": 67.0883693
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "0.2 km",
+                  "value": 157
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 48
+                },
+                "end_location": {
+                  "lat": 24.9217263,
+                  "lng": 67.09058519999999
+                },
+                "html_instructions": "Turn <b>left</b> at JAK GLOBAL<div style=\"font-size:0.9em\">Pass by Imran Tyre shop (on the left)</div>",
+                "maneuver": "turn-left",
+                "polyline": {
+                  "points": "mjbwCoknxK}@wAm@cASYk@_A"
+                },
+                "start_location": {
+                  "lat": 24.9208664,
+                  "lng": 67.08935559999999
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "94 m",
+                  "value": 94
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 42
+                },
+                "end_location": {
+                  "lat": 24.9224043,
+                  "lng": 67.0900308
+                },
+                "html_instructions": "Turn <b>left</b> at Xpress Service Station toward <b>1st St</b><div style=\"font-size:0.9em\">Pass by Mona Plaza (on the left)</div>",
+                "maneuver": "turn-left",
+                "polyline": {
+                  "points": "yobwCesnxKu@j@iA|@ED"
+                },
+                "start_location": {
+                  "lat": 24.9217263,
+                  "lng": 67.09058519999999
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "0.3 km",
+                  "value": 262
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 85
+                },
+                "end_location": {
+                  "lat": 24.9235102,
+                  "lng": 67.0920263
+                },
+                "html_instructions": "Turn <b>right</b> at NY Technologies onto <b>1st St</b><div style=\"font-size:0.9em\">Pass by Tawakkal cool. Point (on the left)</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "_tbwCuonxKQYm@aAaA{As@gAQWA@s@kAAA?A?C?A?A?C@C@A\\W"
+                },
+                "start_location": {
+                  "lat": 24.9224043,
+                  "lng": 67.0900308
+                },
+                "travel_mode": "DRIVING"
+              }
+            ],
+            "traffic_speed_entry": [],
+            "via_waypoint": []
+          }
+        ],
+        "overview_polyline": {
+          "points": "ciawCcamxKrCjEFX@Ly@?}BCiCFg@AEAGEUc@y@qAcFgHmFsH{LsPuAmBLQfBsAlB_BkB{C_AyA_ChBEDQYoB}CeA_BA@s@kAAC?EBK\\W"
+        },
+        "summary": "Allama Shabbir Ahmed Usmani Rd",
+        "warnings": [],
+        "waypoint_order": []
+      }
+    ],
+    "status": "OK"
+  }

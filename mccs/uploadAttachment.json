@@ -1,0 +1,22 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "id": 51,
+            "modelId": "39",
+            "modelType": "CHATS",
+            "url": "https://progstream.s3.amazonaws.com/mccs-ps/dev/file_1748963306.png",
+            "fileName": "Vector-removebg-preview",
+            "fileSize": 32303,
+            "fileType": "image",
+            "fileExtension": "png",
+            "attachmentType": "IMAGE",
+            "visibility": "PUBLIC",
+            "status": "ACTIVE",
+            "createdAt": 1748963308,
+            "updatedAt": 1748963308,
+            "userId": 39
+        },
+        "message": "Attachment uploaded"
+    }
+}

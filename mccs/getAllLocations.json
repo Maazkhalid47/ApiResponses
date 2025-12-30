@@ -1,0 +1,58 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "count": 1,
+            "next": null,
+            "previous": null,
+            "results": [
+                {
+                    "id": 2,
+                    "latitude": 24.9323526,
+                    "longitude": 67.0872638,
+                    "country": "PK",
+                    "state": "Sindh",
+                    "city": "Karachi",
+                    "streetAddress": "LA-2/B, Block 21Ø Main Rashid Minhas Rd, opp. UBL Sports ComplexØ FB Indus-Area Block 21 Block 21 Gulberg Town, Karachi, Pakistan",
+                    "homeAddress": null,
+                    "postalCode": "000000",
+                    "modelId": 26,
+                    "modelType": "USER",
+                    "locationType": null,
+                    "status": "ACTIVE",
+                    "userId": 26,
+                    "createdAt": 1746603865,
+                    "updatedAt": 1746603865,
+                    "equipments": [
+                        {
+                            "id": 17,
+                            "truckNumber": "truck1",
+                            "name": null,
+                            "equipmentType": "TRUCK",
+                            "status": "ACTIVE",
+                            "locationId": 2,
+                            "userId": 26,
+                            "createdAt": 1746620719,
+                            "updatedAt": 1746620719
+                        },
+                        {
+                            "id": 18,
+                            "truckNumber": "truck2",
+                            "name": null,
+                            "equipmentType": "TRUCK",
+                            "status": "ACTIVE",
+                            "locationId": 2,
+                            "userId": 26,
+                            "createdAt": 1746620719,
+                            "updatedAt": 1746620719
+                        }
+                    ]
+                }
+            ],
+            "page": 1,
+            "page_size": 10,
+            "item_count": 1
+        },
+        "message": "Locations fetched successfully"
+    }
+}

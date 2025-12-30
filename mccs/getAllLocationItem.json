@@ -1,0 +1,42 @@
+{
+    "id": 2,
+    "latitude": 24.9323526,
+    "longitude": 67.0872638,
+    "country": "PK",
+    "state": "Sindh",
+    "city": "Karachi",
+    "streetAddress": "LA-2/B, Block 21، Main Rashid Minhas Rd, opp. UBL Sports Complex، FB Indus-Area Block 21 Block 21 Gulberg Town, Karachi, Pakistan",
+    "homeAddress": null,
+    "postalCode": "000000",
+    "modelId": 26,
+    "modelType": "USER",
+    "locationType": null,
+    "status": "ACTIVE",
+    "userId": 26,
+    "createdAt": 1746603865,
+    "updatedAt": 1746603865,
+    "equipments": [
+        {
+            "id": 9,
+            "truckNumber": "eee",
+            "name": null,
+            "equipmentType": "TRUCK",
+            "status": "ACTIVE",
+            "locationId": 2,
+            "userId": 26,
+            "createdAt": 1746615288,
+            "updatedAt": 1746615288
+        },
+        {
+            "id": 10,
+            "truckNumber": "hell",
+            "name": null,
+            "equipmentType": "TRUCK",
+            "status": "ACTIVE",
+            "locationId": 2,
+            "userId": 26,
+            "createdAt": 1746615288,
+            "updatedAt": 1746615288
+        }
+    ]
+}   

@@ -1,0 +1,109 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "vehicledetails": {
+                "object": "vehicle",
+                "id": "769cfab1",
+                "userId": "769cfb65",
+                "ownerName": "Maaz",
+                "make": "KENWORTH",
+                "model": "W990",
+                "year": "2020",
+                "color": null,
+                "fuelType": null,
+                "tireSize": null,
+                "identificationNumber": "1NK1X4EX6LJ933220",
+                "registrationNumber": "1122",
+                "stateOfRegistration": "Florida",
+                "licensePlateNo": null,
+                "expirationDate": "2025-12-24",
+                "towTruck": false,
+                "default": true,
+                "status": "pending",
+                "createdAt": "2025-12-23 15:06:22",
+                "updatedAt": "2025-12-24 08:27:42"
+            },
+            "vehicleinsurance": {
+                "object": "insurance-info",
+                "id": "769cfc1b",
+                "userId": "769cfb65",
+                "vehicleId": "769cfab1",
+                "insuranceProvider": "hqhahah",
+                "policyNo": "jajajsjs",
+                "nameOnPolicy": "Maaz",
+                "expirationDateOfPolicy": "2025-12-23",
+                "createdAt": "2025-12-23T15:06:22.855918Z",
+                "updatedAt": "2025-12-24T08:27:42.918183Z"
+            },
+            "attachments": [
+                {
+                    "object": "attachment",
+                    "id": "769cef15",
+                    "user_id": "769cfb65",
+                    "modelId": "769cfab1",
+                    "modelType": "Vehicle",
+                    "fileType": 1,
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1766564864264.jpg",
+                    "fileName": "1766563915611188.jpg",
+                    "fileSize": "89701",
+                    "visibility": "public-read",
+                    "status": "pending",
+                    "attachmentType": "vehicle-front",
+                    "createdAt": "2025-12-24T08:27:45.546686Z",
+                    "updatedAt": "2025-12-24T08:27:45.546708Z"
+                },
+                {
+                    "object": "attachment",
+                    "id": "769cef14",
+                    "user_id": "769cfb65",
+                    "modelId": "769cfab1",
+                    "modelType": "Vehicle",
+                    "fileType": 1,
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1766564866418.jpg",
+                    "fileName": "1766563918420934.jpg",
+                    "fileSize": "89701",
+                    "visibility": "public-read",
+                    "status": "pending",
+                    "attachmentType": "vehicle-back-side",
+                    "createdAt": "2025-12-24T08:27:47.715111Z",
+                    "updatedAt": "2025-12-24T08:27:47.715136Z"
+                },
+                {
+                    "object": "attachment",
+                    "id": "769cef13",
+                    "user_id": "769cfb65",
+                    "modelId": "769cfab1",
+                    "modelType": "Vehicle",
+                    "fileType": 1,
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1766564868559.jpg",
+                    "fileName": "1766563922078407.jpg",
+                    "fileSize": "89701",
+                    "visibility": "public-read",
+                    "status": "pending",
+                    "attachmentType": "vehicle-left-side",
+                    "createdAt": "2025-12-24T08:27:49.846557Z",
+                    "updatedAt": "2025-12-24T08:27:49.846588Z"
+                },
+                {
+                    "object": "attachment",
+                    "id": "769cef12",
+                    "user_id": "769cfb65",
+                    "modelId": "769cfab1",
+                    "modelType": "Vehicle",
+                    "fileType": 1,
+                    "url": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1766564870714.jpg",
+                    "fileName": "1766563930050232.jpg",
+                    "fileSize": "89701",
+                    "visibility": "public-read",
+                    "status": "pending",
+                    "attachmentType": "vehicle-right-side",
+                    "createdAt": "2025-12-24T08:27:52.009821Z",
+                    "updatedAt": "2025-12-24T08:27:52.009849Z"
+                }
+            ]
+        },
+        "message": "Vehicle details displayed."
+    },
+    "error": null
+}

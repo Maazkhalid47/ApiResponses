@@ -1,0 +1,42 @@
+{
+  "success": {
+    "code": 200,
+    "data": {
+      "object": "user",
+      "id": "769cfb65",
+      "name": "Maaz",
+      "email": "maaz.khalid+23@progstream.com",
+      "phone": "+10000000001",
+      "status": "active",
+      "emailVerified": false,
+      "phoneVerified": true,
+      "accessToken": null,
+      "refreshToken": null,
+      "role": 2,
+      "callMeAllowed": true,
+      "userProfile": true,
+      "vehicle": true,
+      "driverInfo": true,
+      "driverService": true,
+      "isOnline": null,
+      "driverPickUpRadius": 50,
+      "createdAt": "2025-12-15 06:30:14",
+      "updatedAt": "2025-12-24 11:42:22",
+      "defaultCard": true,
+      "defaultVehicleApproved": true,
+      "certificateApproved": false,
+      "isBankLinked": true,
+      "proDriverInfo": false,
+      "driverProfile": true,
+      "driverVehicle": true,
+      "proDriverVehicle": false,
+      "unitPreference": 1802,
+      "referralCode": "1FBE20",
+      "photo": null,
+      "customerWalletAmount": 0,
+      "requestedRole": null
+    },
+    "message": "Success"
+  },
+  "error": null
+}

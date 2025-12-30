@@ -1,0 +1,19 @@
+{
+  "success" : {
+    "code" : 200,
+    "data" : {
+      "id" : 79,
+      "model" : "test model",
+      "registrationNumber" : "test registration no",
+      "description" : "test description ",
+      "electricCar" : true,
+      "userId" : 260,
+      "status" : 1,
+      "user" : null,
+      "image" : null,
+      "createdAt" : 1763465382407,
+      "updatedAt" : 1763465382407
+    },
+    "message" : "Car details retrieved"
+  }
+}

@@ -1,0 +1,119 @@
+{
+    "success": {
+        "code": 200,
+        "data": {
+            "object": "ride-details",
+            "id": "769cfc9e",
+            "rideStatus": 9,
+            "createdAt": "2024-10-18 13:42",
+            "rideCost": 0,
+            "serviceName": null,
+            "customerDetails": {
+                "id": "769cfd69",
+                "name": "MaazCustomer1",
+                "email": "maaz.khalid+customer1@progstream.com",
+                "phone": "12345678909",
+                "profileImage": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1727708862582.png",
+                "ratingCount": 0,
+                "ratingAvg": 0
+            },
+            "serviceDetails": {
+                "object": "service",
+                "id": "769cfd7d",
+                "title": "Fuel Delivery",
+                "description": "Fuel delivery services",
+                "durationInMin": 5,
+                "expirationDate": "2024-10-31",
+                "serviceFor": 1,
+                "driverCount": 5,
+                "status": "active",
+                "servicePrice": {
+                    "object": "servicePrice",
+                    "id": "769cfd7d",
+                    "serviceId": "769cfd7d",
+                    "paymentType": 1,
+                    "serviceCharges": 15.0,
+                    "distance": null,
+                    "chargesPerUnit": null,
+                    "chargesPerUnitAfterSlab": null,
+                    "adjustablePrice": true,
+                    "allowNightShift": true,
+                    "unit": "miles",
+                    "createdAt": "2024-10-03 06:56",
+                    "updatedAt": "2024-10-03 07:08"
+                },
+                "serviceIconUrl": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1727939323364.jpg",
+                "driverOnline": 0,
+                "createdAt": "2024-10-03 06:56",
+                "updatedAt": "2024-10-03 06:56"
+            },
+            "vehicleDetails": {
+                "object": "vehicle",
+                "id": "769cfd77",
+                "userId": "769cfd69",
+                "make": "mazda",
+                "model": "Mazda6",
+                "year": "1232",
+                "color": "asdadw",
+                "fuelType": "Gas",
+                "tireSize": "R12",
+                "identificationNumber": null,
+                "registrationNumber": null,
+                "stateOfRegistration": null,
+                "licensePlateNo": "HPB1234",
+                "expirationDate": null,
+                "towTruck": null,
+                "status": "active",
+                "createdAt": "2024-09-30 15:09",
+                "updatedAt": "2024-09-30 15:09",
+                "attachmentUrl": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1727708948196.PNG"
+            },
+            "pickUpLocation": {
+                "object": "location",
+                "id": "769cfbbb",
+                "user_id": "769cfd69",
+                "latitude": 24.9236335,
+                "longitude": 67.0917843,
+                "country": null,
+                "state": "Sindh",
+                "city": "Karachi",
+                "streetAddress": "Office #, C 2 3rd Floor, Block 5 Gulshan-e-Iqbal, Karachi, Sindh, Pakistan",
+                "homeAddress": null,
+                "postalCode": null,
+                "apartment": null,
+                "modelId": "769cfc9e",
+                "modelType": "Ride",
+                "status": "active",
+                "createdAt": "2024-10-18 13:42",
+                "updatedAt": "2024-10-18 13:42"
+            },
+            "userAnswers": [
+                {
+                    "question": "Are you alive?",
+                    "answer": "no"
+                },
+                {
+                    "question": "are any tires flat,are any tires flat?",
+                    "answer": "no"
+                },
+                {
+                    "question": "are you injuredare you injured??",
+                    "answer": "no"
+                },
+                {
+                    "question": "wad?",
+                    "answer": "no"
+                },
+                {
+                    "question": "Do you need anything else?",
+                    "answer": "No we don't  need anything"
+                }
+            ],
+            "driverDetails": null,
+            "estimatedRideCost": 15.0,
+            "customerArrivalTime": "1 min"
+        },
+        "message": "Request sent to driver successfully"
+    },
+    "error": null
+}

@@ -1,0 +1,38 @@
+{
+    "statusCode": 200,
+    "message": "Success",
+    "data": {
+        "id": 97,
+        "firstName": "maaz",
+        "lastName": "khalid",
+        "email": "maaz.khalid+tourist6@progstream.com",
+        "status": "ACTIVE",
+        "role": "TOURIST",
+        "formStep": "COMPLETED",
+        "createdAt": 1752753887619,
+        "updatedAt": 1752753887619,
+        "accessToken": {
+            "token": "eyJhbGciOiJIUzUxMiJ9.eyJ1dWlkIjoiNWFlZmFmOWYtNzI3OC00YWQ1LTgwMjgtNmRiYzU1OGY0MjNlIiwiaXNzIjoiYW50cm9waWthIiwiYXVkIjpbImFudHJvcGlrYS1jdXN0b21lcnMiXSwic3ViIjoibWFhei5raGFsaWQrdG91cmlzdDZAcHJvZ3N0cmVhbS5jb20iLCJpYXQiOjE3NTI4MjI3MTksImV4cCI6MTc1MjgyNjMxOX0.OVYoj3gg9Mj9auJAN-KYV94_T2NSzehXZKuA7VTIfghADqp9mHnNmvhZiI2ucWXWOu0kzhVWtY3wimp8q6MtWw",
+            "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJ1dWlkIjoiNWFlZmFmOWYtNzI3OC00YWQ1LTgwMjgtNmRiYzU1OGY0MjNlIiwiaXNzIjoiYW50cm9waWthIiwiYXVkIjpbImFudHJvcGlrYS1jdXN0b21lcnMiXSwic3ViIjoibWFhei5raGFsaWQrdG91cmlzdDZAcHJvZ3N0cmVhbS5jb20iLCJpYXQiOjE3NTI4MjI3MTksImV4cCI6MTc1MzY5MDMxOX0.bNTyGSLBAM2W2tysOlANM4y9jdLx1Sal1gcEjKg3gK7e0_59WnUpQlx1e3aHRUS-DyuBE3xQAB7PD-cXy094EA",
+            "tokenExpiry": 1752826319147,
+            "refreshTokenExpiry": 1753690319147
+        },
+        "profile": null,
+        "guideInfo": null,
+        "ratingAverage": null,
+        "ratingCount": null,
+        "profileImage": null,
+        "licenseImage": null,
+        "successfulTours": 0,
+        "isFavorite": false,
+        "stripeId": "cus_ShF2ThudR7ltiD",
+        "reviewedBy": null,
+        "guideToursCount": null,
+        "guideLocationsCount": null,
+        "guideTotalEarning": null,
+        "guideLastMonthEarning": null,
+        "touristBookingCount": null,
+        "guideTripsCount": null
+    },
+    "errors": []
+}

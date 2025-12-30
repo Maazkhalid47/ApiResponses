@@ -1,0 +1,1346 @@
+{
+    "code": 200,
+    "data": {
+        "objects": {
+            "current_page": 1,
+            "data": [
+                {
+                    "id": 68,
+                    "reference_id": "LIT-00068",
+                    "total_price_payable": "5",
+                    "payment_status": "paid",
+                    "payment_method": "stripe",
+                    "status": "undelivered",
+                    "order_type": "Loan",
+                    "user_id": 148,
+                    "cart_id": 61,
+                    "created_at": 1735284886000,
+                    "updated_at": "2024-12-27 08:45:01+0000",
+                    "store_location": "Tampere",
+                    "user": {
+                        "id": 148,
+                        "user_key": "7235a71d8b9a428b754d4fb7badea8f0",
+                        "display_name": null,
+                        "about_me": null,
+                        "language": "en",
+                        "test_account": false,
+                        "store_id": 4,
+                        "terms_accepted": false,
+                        "fullname": "waleed ",
+                        "discount_percent": 0,
+                        "user": {
+                            "id": 234,
+                            "username": null,
+                            "email": "waleed+116@progstream.com",
+                            "phone": "98765432",
+                            "user_type": "user",
+                            "uid": null,
+                            "uid_from": null,
+                            "account_from": "liiteri",
+                            "status": "active",
+                            "created_at": "2024-11-29 11:43:48+0000",
+                            "updated_at": "2024-12-27 07:13:09+0000",
+                            "stripe_id": "cus_ROKiKApxLMT6N2",
+                            "first_name": "waleed",
+                            "last_name": null,
+                            "email_verified": true,
+                            "phone_verified": false,
+                            "ssn_encrypted": false,
+                            "terms_conditions": null,
+                            "userRoles": [
+                                "coreorient_user",
+                                "store_customer"
+                            ],
+                            "properties": {
+                                "tupas": "verified",
+                                "profile": "complete"
+                            },
+                            "user_referer": "NzIzNWE3MWQ4YjlhNDI4Yjc1NGQ0ZmI3YmFkZWE4ZjA=",
+                            "yit_address": "",
+                            "yit_group": []
+                        }
+                    },
+                    "cart": {
+                        "id": 61,
+                        "session_id": "2019c2c0de31ecec6c004f7f85f89668",
+                        "reference_number": null,
+                        "user_id": 148,
+                        "status": "undelivered",
+                        "total_price": "5",
+                        "created_at": "2024-12-18 20:52:45+0000",
+                        "updated_at": "2024-12-27 08:45:01+0000",
+                        "store_id": null,
+                        "total_loan_price": 5,
+                        "total_purchase_price": 0,
+                        "store_location": "Tampere",
+                        "product_name": "Test item",
+                        "cart_products": [
+                            {
+                                "id": 165,
+                                "cart_id": 61,
+                                "product_id": 1,
+                                "unit_price": "5",
+                                "unit_discount": "0",
+                                "quantity": 1,
+                                "price": "5",
+                                "delivery_method": "pickup",
+                                "start_dt": "2024-12-27 07:45:00+00",
+                                "end_dt": "2024-12-27 08:45:00+00",
+                                "pickup_dt": null,
+                                "dropoff_dt": null,
+                                "status": "undelivered",
+                                "deleted_at": null,
+                                "product_price_id": 2,
+                                "start_date": 1735285500000,
+                                "end_date": 1735289100000,
+                                "product_daily_price": 0,
+                                "product_hourly_price": 5,
+                                "product": {
+                                    "id": 1,
+                                    "name": null,
+                                    "details": null,
+                                    "location": "ss",
+                                    "quantity": 1,
+                                    "status": "active",
+                                    "expiry_date": null,
+                                    "store_id": 4,
+                                    "category_id": null,
+                                    "listing_id": null,
+                                    "added_by": 1,
+                                    "created_at": "2024-08-23 13:38:24+0000",
+                                    "updated_at": "2024-12-27 07:34:49+0000",
+                                    "discount": "0",
+                                    "deleted_at": null,
+                                    "external_url": null,
+                                    "product_url": null,
+                                    "free_rental": 0,
+                                    "shelf_number": "1",
+                                    "place": "shelf",
+                                    "freebie": false,
+                                    "gift_card": null,
+                                    "used": 36,
+                                    "product_group_id": 1,
+                                    "available_quantity": -33,
+                                    "sub_locker_name": null,
+                                    "product_in_use": null,
+                                    "product_groups": {
+                                        "id": 1,
+                                        "name": "Test item",
+                                        "details": "<p>fsfsfsdfsfd<\/p>",
+                                        "status": "available",
+                                        "expiry_date": "2027-08-22",
+                                        "category_id": 4,
+                                        "listing_id": 3,
+                                        "added_by": 1,
+                                        "product_url": null,
+                                        "external_url": null,
+                                        "gift_card": null,
+                                        "freebie": false,
+                                        "free_rental": 0,
+                                        "used": 36,
+                                        "deleted_at": null,
+                                        "created_at": "2024-08-23 13:38:24+0000",
+                                        "updated_at": "2024-12-27 07:34:49+0000",
+                                        "user_manual": null,
+                                        "separate": false,
+                                        "availability_date": null,
+                                        "quality": "high",
+                                        "product_type": 0,
+                                        "name_fi": "Testilaite",
+                                        "listingName": "Loan",
+                                        "CategoryName": "Oscilloscope",
+                                        "rating": 0,
+                                        "price_array": {
+                                            "price_hourly": "5",
+                                            "price_daily": "10",
+                                            "price_purchase": null,
+                                            "currency": "eur",
+                                            "discount_price_hourly": 5,
+                                            "discount_price_daily": 10,
+                                            "discount_price_purchase": null
+                                        },
+                                        "product_serial_numbers": "Test item-0",
+                                        "tag_names": "",
+                                        "product_point": null,
+                                        "sub_locker_name": null,
+                                        "available_products": false,
+                                        "api_url": "test-item-1",
+                                        "in_stock": true,
+                                        "store_names": "test2,Tampere",
+                                        "images": [
+                                            {
+                                                "id": 1,
+                                                "name": "IkuJ7KgxTbVms6dSAMyCjFySpGykhdSHhgHoSaUn.png",
+                                                "image_url": "https:\/\/s3-eu-central-1.amazonaws.com\/liiteri-stage-dev\/development\/products\/1",
+                                                "show": 1,
+                                                "product_id": null,
+                                                "product_group_id": 1
+                                            }
+                                        ],
+                                        "prices": [
+                                            {
+                                                "id": 1,
+                                                "price": "10",
+                                                "currency": "eur",
+                                                "listing_price_id": 1,
+                                                "product_id": null,
+                                                "product_group_id": 1,
+                                                "listing_price_option": {
+                                                    "id": 1,
+                                                    "listing_id": 3,
+                                                    "price_option_id": 1,
+                                                    "created_at": "2024-08-23 13:37:12+0000",
+                                                    "updated_at": "2024-08-23 13:37:12+0000",
+                                                    "price_option": {
+                                                        "id": 1,
+                                                        "name": "day",
+                                                        "added_by": 1,
+                                                        "created_at": "2024-08-23 13:34:54+0000",
+                                                        "updated_at": "2024-08-23 13:34:54+0000"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "price": "5",
+                                                "currency": "eur",
+                                                "listing_price_id": 2,
+                                                "product_id": null,
+                                                "product_group_id": 1,
+                                                "listing_price_option": {
+                                                    "id": 2,
+                                                    "listing_id": 3,
+                                                    "price_option_id": 3,
+                                                    "created_at": "2024-08-23 13:37:12+0000",
+                                                    "updated_at": "2024-08-23 13:37:12+0000",
+                                                    "price_option": {
+                                                        "id": 3,
+                                                        "name": "hour",
+                                                        "added_by": 1,
+                                                        "created_at": "2024-08-23 13:34:54+0000",
+                                                        "updated_at": "2024-08-23 13:34:54+0000"
+                                                    }
+                                                }
+                                            }
+                                        ],
+                                        "feedback": [],
+                                        "serial_numbers": [
+                                            {
+                                                "id": 2,
+                                                "serial_number": "Test item-0",
+                                                "product_id": null,
+                                                "product_group_id": 1
+                                            }
+                                        ],
+                                        "product_tags": [
+                                            {
+                                                "id": 1,
+                                                "tag_id": 1,
+                                                "product_id": null,
+                                                "created_at": 1724420306000,
+                                                "updated_at": 1724420306000,
+                                                "product_group_id": 1,
+                                                "tag": {
+                                                    "id": 1,
+                                                    "name": "",
+                                                    "created_at": 1724420306000,
+                                                    "updated_at": 1724420306000
+                                                }
+                                            }
+                                        ],
+                                        "point": null
+                                    },
+                                    "store": {
+                                        "id": 4,
+                                        "name": "Tampere",
+                                        "latitude": null,
+                                        "longitude": null,
+                                        "location": null
+                                    }
+                                }
+                            }
+                        ],
+                        "loan_products": [
+                            {
+                                "id": 165,
+                                "cart_id": 61,
+                                "product_id": 1,
+                                "unit_price": "5",
+                                "unit_discount": "0",
+                                "quantity": 1,
+                                "price": "5",
+                                "delivery_method": "pickup",
+                                "start_dt": "2024-12-27 07:45:00+00",
+                                "end_dt": "2024-12-27 08:45:00+00",
+                                "pickup_dt": null,
+                                "dropoff_dt": null,
+                                "status": "undelivered",
+                                "deleted_at": null,
+                                "product_price_id": 2,
+                                "start_date": 1735285500000,
+                                "end_date": 1735289100000,
+                                "product_daily_price": 0,
+                                "product_hourly_price": 5,
+                                "product": {
+                                    "id": 1,
+                                    "name": null,
+                                    "details": null,
+                                    "location": "ss",
+                                    "quantity": 1,
+                                    "status": "active",
+                                    "expiry_date": null,
+                                    "store_id": 4,
+                                    "category_id": null,
+                                    "listing_id": null,
+                                    "added_by": 1,
+                                    "created_at": "2024-08-23 13:38:24+0000",
+                                    "updated_at": "2024-12-27 07:34:49+0000",
+                                    "discount": "0",
+                                    "deleted_at": null,
+                                    "external_url": null,
+                                    "product_url": null,
+                                    "free_rental": 0,
+                                    "shelf_number": "1",
+                                    "place": "shelf",
+                                    "freebie": false,
+                                    "gift_card": null,
+                                    "used": 36,
+                                    "product_group_id": 1,
+                                    "available_quantity": -33,
+                                    "sub_locker_name": null,
+                                    "product_in_use": null,
+                                    "product_groups": {
+                                        "id": 1,
+                                        "name": "Test item",
+                                        "details": "<p>fsfsfsdfsfd<\/p>",
+                                        "status": "available",
+                                        "expiry_date": "2027-08-22",
+                                        "category_id": 4,
+                                        "listing_id": 3,
+                                        "added_by": 1,
+                                        "product_url": null,
+                                        "external_url": null,
+                                        "gift_card": null,
+                                        "freebie": false,
+                                        "free_rental": 0,
+                                        "used": 36,
+                                        "deleted_at": null,
+                                        "created_at": "2024-08-23 13:38:24+0000",
+                                        "updated_at": "2024-12-27 07:34:49+0000",
+                                        "user_manual": null,
+                                        "separate": false,
+                                        "availability_date": null,
+                                        "quality": "high",
+                                        "product_type": 0,
+                                        "name_fi": "Testilaite",
+                                        "listingName": "Loan",
+                                        "CategoryName": "Oscilloscope",
+                                        "rating": 0,
+                                        "price_array": {
+                                            "price_hourly": "5",
+                                            "price_daily": "10",
+                                            "price_purchase": null,
+                                            "currency": "eur",
+                                            "discount_price_hourly": 5,
+                                            "discount_price_daily": 10,
+                                            "discount_price_purchase": null
+                                        },
+                                        "product_serial_numbers": "Test item-0",
+                                        "tag_names": "",
+                                        "product_point": null,
+                                        "sub_locker_name": null,
+                                        "available_products": false,
+                                        "api_url": "test-item-1",
+                                        "in_stock": true,
+                                        "store_names": "test2,Tampere",
+                                        "prices": [
+                                            {
+                                                "id": 1,
+                                                "price": "10",
+                                                "currency": "eur",
+                                                "listing_price_id": 1,
+                                                "product_id": null,
+                                                "product_group_id": 1,
+                                                "listing_price_option": {
+                                                    "id": 1,
+                                                    "listing_id": 3,
+                                                    "price_option_id": 1,
+                                                    "created_at": "2024-08-23 13:37:12+0000",
+                                                    "updated_at": "2024-08-23 13:37:12+0000",
+                                                    "price_option": {
+                                                        "id": 1,
+                                                        "name": "day",
+                                                        "added_by": 1,
+                                                        "created_at": "2024-08-23 13:34:54+0000",
+                                                        "updated_at": "2024-08-23 13:34:54+0000"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "price": "5",
+                                                "currency": "eur",
+                                                "listing_price_id": 2,
+                                                "product_id": null,
+                                                "product_group_id": 1,
+                                                "listing_price_option": {
+                                                    "id": 2,
+                                                    "listing_id": 3,
+                                                    "price_option_id": 3,
+                                                    "created_at": "2024-08-23 13:37:12+0000",
+                                                    "updated_at": "2024-08-23 13:37:12+0000",
+                                                    "price_option": {
+                                                        "id": 3,
+                                                        "name": "hour",
+                                                        "added_by": 1,
+                                                        "created_at": "2024-08-23 13:34:54+0000",
+                                                        "updated_at": "2024-08-23 13:34:54+0000"
+                                                    }
+                                                }
+                                            }
+                                        ],
+                                        "feedback": [],
+                                        "serial_numbers": [
+                                            {
+                                                "id": 2,
+                                                "serial_number": "Test item-0",
+                                                "product_id": null,
+                                                "product_group_id": 1
+                                            }
+                                        ],
+                                        "product_tags": [
+                                            {
+                                                "id": 1,
+                                                "tag_id": 1,
+                                                "product_id": null,
+                                                "created_at": 1724420306000,
+                                                "updated_at": 1724420306000,
+                                                "product_group_id": 1,
+                                                "tag": {
+                                                    "id": 1,
+                                                    "name": "",
+                                                    "created_at": 1724420306000,
+                                                    "updated_at": 1724420306000
+                                                }
+                                            }
+                                        ],
+                                        "point": null
+                                    }
+                                }
+                            }
+                        ],
+                        "purchase_products": []
+                    }
+                },
+                {
+                    "id": 67,
+                    "reference_id": "LIT-00067",
+                    "total_price_payable": "0",
+                    "payment_status": "paid",
+                    "payment_method": "stripe",
+                    "status": "undelivered",
+                    "order_type": "Loan",
+                    "user_id": 148,
+                    "cart_id": 106,
+                    "created_at": 1735283615000,
+                    "updated_at": "2024-12-27 08:15:01+0000",
+                    "store_location": "Tampere",
+                    "user": {
+                        "id": 148,
+                        "user_key": "7235a71d8b9a428b754d4fb7badea8f0",
+                        "display_name": null,
+                        "about_me": null,
+                        "language": "en",
+                        "test_account": false,
+                        "store_id": 4,
+                        "terms_accepted": false,
+                        "fullname": "waleed ",
+                        "discount_percent": 0,
+                        "user": {
+                            "id": 234,
+                            "username": null,
+                            "email": "waleed+116@progstream.com",
+                            "phone": "98765432",
+                            "user_type": "user",
+                            "uid": null,
+                            "uid_from": null,
+                            "account_from": "liiteri",
+                            "status": "active",
+                            "created_at": "2024-11-29 11:43:48+0000",
+                            "updated_at": "2024-12-27 07:13:09+0000",
+                            "stripe_id": "cus_ROKiKApxLMT6N2",
+                            "first_name": "waleed",
+                            "last_name": null,
+                            "email_verified": true,
+                            "phone_verified": false,
+                            "ssn_encrypted": false,
+                            "terms_conditions": null,
+                            "userRoles": [
+                                "coreorient_user",
+                                "store_customer"
+                            ],
+                            "properties": {
+                                "tupas": "verified",
+                                "profile": "complete"
+                            },
+                            "user_referer": "NzIzNWE3MWQ4YjlhNDI4Yjc1NGQ0ZmI3YmFkZWE4ZjA=",
+                            "yit_address": "",
+                            "yit_group": []
+                        }
+                    },
+                    "cart": {
+                        "id": 106,
+                        "session_id": "da058f23046f16bc064009f57274cd71",
+                        "reference_number": null,
+                        "user_id": 148,
+                        "status": "undelivered",
+                        "total_price": "0",
+                        "created_at": "2024-12-24 07:12:20+0000",
+                        "updated_at": "2024-12-27 08:15:01+0000",
+                        "store_id": null,
+                        "total_loan_price": 0,
+                        "total_purchase_price": 0,
+                        "store_location": "Tampere",
+                        "product_name": "Test item by Maaz",
+                        "cart_products": [
+                            {
+                                "id": 164,
+                                "cart_id": 106,
+                                "product_id": 6,
+                                "unit_price": "15",
+                                "unit_discount": "0",
+                                "quantity": 1,
+                                "price": "0",
+                                "delivery_method": "pickup",
+                                "start_dt": "2024-12-27 07:15:00+00",
+                                "end_dt": "2024-12-27 08:15:00+00",
+                                "pickup_dt": null,
+                                "dropoff_dt": null,
+                                "status": "undelivered",
+                                "deleted_at": null,
+                                "product_price_id": 8,
+                                "start_date": 1735283700000,
+                                "end_date": 1735287300000,
+                                "product_daily_price": 0,
+                                "product_hourly_price": 15,
+                                "product": {
+                                    "id": 6,
+                                    "name": null,
+                                    "details": null,
+                                    "location": "asdasd",
+                                    "quantity": 1,
+                                    "status": "active",
+                                    "expiry_date": null,
+                                    "store_id": 4,
+                                    "category_id": null,
+                                    "listing_id": null,
+                                    "added_by": 1,
+                                    "created_at": "2024-12-09 14:21:11+0000",
+                                    "updated_at": "2024-12-27 07:13:36+0000",
+                                    "discount": "0",
+                                    "deleted_at": null,
+                                    "external_url": null,
+                                    "product_url": null,
+                                    "free_rental": 0,
+                                    "shelf_number": "1",
+                                    "place": "open",
+                                    "freebie": false,
+                                    "gift_card": null,
+                                    "used": 16,
+                                    "product_group_id": 4,
+                                    "available_quantity": -12,
+                                    "sub_locker_name": null,
+                                    "product_in_use": null,
+                                    "product_groups": {
+                                        "id": 4,
+                                        "name": "Test item by Maaz",
+                                        "details": "<p>This item is for testing purposes only&nbsp;<\/p>",
+                                        "status": "available",
+                                        "expiry_date": "2025-01-01",
+                                        "category_id": 3,
+                                        "listing_id": 3,
+                                        "added_by": 1,
+                                        "product_url": null,
+                                        "external_url": null,
+                                        "gift_card": null,
+                                        "freebie": true,
+                                        "free_rental": 0,
+                                        "used": 16,
+                                        "deleted_at": null,
+                                        "created_at": "2024-12-09 14:16:56+0000",
+                                        "updated_at": "2024-12-27 07:13:36+0000",
+                                        "user_manual": "please dont buy this",
+                                        "separate": false,
+                                        "availability_date": null,
+                                        "quality": "high",
+                                        "product_type": 0,
+                                        "name_fi": "Test item by Maaz",
+                                        "listingName": "Loan",
+                                        "CategoryName": "Signal Analyzer",
+                                        "rating": 0,
+                                        "price_array": {
+                                            "price_hourly": "15",
+                                            "price_daily": "20",
+                                            "price_purchase": null,
+                                            "currency": "eur",
+                                            "discount_price_hourly": 15,
+                                            "discount_price_daily": 20,
+                                            "discount_price_purchase": null
+                                        },
+                                        "product_serial_numbers": "Test item by Maaz-0",
+                                        "tag_names": "signal,analyzer",
+                                        "product_point": "1",
+                                        "sub_locker_name": null,
+                                        "available_products": false,
+                                        "api_url": "test-item-by-maaz-4",
+                                        "in_stock": true,
+                                        "store_names": "Test1 Liiteri,store 3,Tampere",
+                                        "images": [
+                                            {
+                                                "id": 4,
+                                                "name": "0JDrRLk2eUEhIcb4DZb6rYC44LJWtAv8t6bHg2RI.jpeg",
+                                                "image_url": "https:\/\/s3-eu-central-1.amazonaws.com\/liiteri-stage-dev\/development\/products\/4",
+                                                "show": 1,
+                                                "product_id": null,
+                                                "product_group_id": 4
+                                            }
+                                        ],
+                                        "prices": [
+                                            {
+                                                "id": 7,
+                                                "price": "20",
+                                                "currency": "eur",
+                                                "listing_price_id": 1,
+                                                "product_id": null,
+                                                "product_group_id": 4,
+                                                "listing_price_option": {
+                                                    "id": 1,
+                                                    "listing_id": 3,
+                                                    "price_option_id": 1,
+                                                    "created_at": "2024-08-23 13:37:12+0000",
+                                                    "updated_at": "2024-08-23 13:37:12+0000",
+                                                    "price_option": {
+                                                        "id": 1,
+                                                        "name": "day",
+                                                        "added_by": 1,
+                                                        "created_at": "2024-08-23 13:34:54+0000",
+                                                        "updated_at": "2024-08-23 13:34:54+0000"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "id": 8,
+                                                "price": "15",
+                                                "currency": "eur",
+                                                "listing_price_id": 2,
+                                                "product_id": null,
+                                                "product_group_id": 4,
+                                                "listing_price_option": {
+                                                    "id": 2,
+                                                    "listing_id": 3,
+                                                    "price_option_id": 3,
+                                                    "created_at": "2024-08-23 13:37:12+0000",
+                                                    "updated_at": "2024-08-23 13:37:12+0000",
+                                                    "price_option": {
+                                                        "id": 3,
+                                                        "name": "hour",
+                                                        "added_by": 1,
+                                                        "created_at": "2024-08-23 13:34:54+0000",
+                                                        "updated_at": "2024-08-23 13:34:54+0000"
+                                                    }
+                                                }
+                                            }
+                                        ],
+                                        "feedback": [],
+                                        "serial_numbers": [
+                                            {
+                                                "id": 5,
+                                                "serial_number": "Test item by Maaz-0",
+                                                "product_id": null,
+                                                "product_group_id": 4
+                                            }
+                                        ],
+                                        "product_tags": [
+                                            {
+                                                "id": 4,
+                                                "tag_id": 2,
+                                                "product_id": null,
+                                                "created_at": 1733753818000,
+                                                "updated_at": 1733753818000,
+                                                "product_group_id": 4,
+                                                "tag": {
+                                                    "id": 2,
+                                                    "name": "signal",
+                                                    "created_at": 1733753818000,
+                                                    "updated_at": 1733753818000
+                                                }
+                                            },
+                                            {
+                                                "id": 5,
+                                                "tag_id": 3,
+                                                "product_id": null,
+                                                "created_at": 1733753818000,
+                                                "updated_at": 1733753818000,
+                                                "product_group_id": 4,
+                                                "tag": {
+                                                    "id": 3,
+                                                    "name": "analyzer",
+                                                    "created_at": 1733753818000,
+                                                    "updated_at": 1733753818000
+                                                }
+                                            }
+                                        ],
+                                        "point": {
+                                            "id": 3,
+                                            "points": "1",
+                                            "rplan_id": null,
+                                            "product_id": null,
+                                            "product_group_id": 4
+                                        }
+                                    },
+                                    "store": {
+                                        "id": 4,
+                                        "name": "Tampere",
+                                        "latitude": null,
+                                        "longitude": null,
+                                        "location": null
+                                    }
+                                }
+                            }
+                        ],
+                        "loan_products": [
+                            {
+                                "id": 164,
+                                "cart_id": 106,
+                                "product_id": 6,
+                                "unit_price": "15",
+                                "unit_discount": "0",
+                                "quantity": 1,
+                                "price": "0",
+                                "delivery_method": "pickup",
+                                "start_dt": "2024-12-27 07:15:00+00",
+                                "end_dt": "2024-12-27 08:15:00+00",
+                                "pickup_dt": null,
+                                "dropoff_dt": null,
+                                "status": "undelivered",
+                                "deleted_at": null,
+                                "product_price_id": 8,
+                                "start_date": 1735283700000,
+                                "end_date": 1735287300000,
+                                "product_daily_price": 0,
+                                "product_hourly_price": 15,
+                                "product": {
+                                    "id": 6,
+                                    "name": null,
+                                    "details": null,
+                                    "location": "asdasd",
+                                    "quantity": 1,
+                                    "status": "active",
+                                    "expiry_date": null,
+                                    "store_id": 4,
+                                    "category_id": null,
+                                    "listing_id": null,
+                                    "added_by": 1,
+                                    "created_at": "2024-12-09 14:21:11+0000",
+                                    "updated_at": "2024-12-27 07:13:36+0000",
+                                    "discount": "0",
+                                    "deleted_at": null,
+                                    "external_url": null,
+                                    "product_url": null,
+                                    "free_rental": 0,
+                                    "shelf_number": "1",
+                                    "place": "open",
+                                    "freebie": false,
+                                    "gift_card": null,
+                                    "used": 16,
+                                    "product_group_id": 4,
+                                    "available_quantity": -12,
+                                    "sub_locker_name": null,
+                                    "product_in_use": null,
+                                    "product_groups": {
+                                        "id": 4,
+                                        "name": "Test item by Maaz",
+                                        "details": "<p>This item is for testing purposes only&nbsp;<\/p>",
+                                        "status": "available",
+                                        "expiry_date": "2025-01-01",
+                                        "category_id": 3,
+                                        "listing_id": 3,
+                                        "added_by": 1,
+                                        "product_url": null,
+                                        "external_url": null,
+                                        "gift_card": null,
+                                        "freebie": true,
+                                        "free_rental": 0,
+                                        "used": 16,
+                                        "deleted_at": null,
+                                        "created_at": "2024-12-09 14:16:56+0000",
+                                        "updated_at": "2024-12-27 07:13:36+0000",
+                                        "user_manual": "please dont buy this",
+                                        "separate": false,
+                                        "availability_date": null,
+                                        "quality": "high",
+                                        "product_type": 0,
+                                        "name_fi": "Test item by Maaz",
+                                        "listingName": "Loan",
+                                        "CategoryName": "Signal Analyzer",
+                                        "rating": 0,
+                                        "price_array": {
+                                            "price_hourly": "15",
+                                            "price_daily": "20",
+                                            "price_purchase": null,
+                                            "currency": "eur",
+                                            "discount_price_hourly": 15,
+                                            "discount_price_daily": 20,
+                                            "discount_price_purchase": null
+                                        },
+                                        "product_serial_numbers": "Test item by Maaz-0",
+                                        "tag_names": "signal,analyzer",
+                                        "product_point": "1",
+                                        "sub_locker_name": null,
+                                        "available_products": false,
+                                        "api_url": "test-item-by-maaz-4",
+                                        "in_stock": true,
+                                        "store_names": "Test1 Liiteri,store 3,Tampere",
+                                        "prices": [
+                                            {
+                                                "id": 7,
+                                                "price": "20",
+                                                "currency": "eur",
+                                                "listing_price_id": 1,
+                                                "product_id": null,
+                                                "product_group_id": 4,
+                                                "listing_price_option": {
+                                                    "id": 1,
+                                                    "listing_id": 3,
+                                                    "price_option_id": 1,
+                                                    "created_at": "2024-08-23 13:37:12+0000",
+                                                    "updated_at": "2024-08-23 13:37:12+0000",
+                                                    "price_option": {
+                                                        "id": 1,
+                                                        "name": "day",
+                                                        "added_by": 1,
+                                                        "created_at": "2024-08-23 13:34:54+0000",
+                                                        "updated_at": "2024-08-23 13:34:54+0000"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "id": 8,
+                                                "price": "15",
+                                                "currency": "eur",
+                                                "listing_price_id": 2,
+                                                "product_id": null,
+                                                "product_group_id": 4,
+                                                "listing_price_option": {
+                                                    "id": 2,
+                                                    "listing_id": 3,
+                                                    "price_option_id": 3,
+                                                    "created_at": "2024-08-23 13:37:12+0000",
+                                                    "updated_at": "2024-08-23 13:37:12+0000",
+                                                    "price_option": {
+                                                        "id": 3,
+                                                        "name": "hour",
+                                                        "added_by": 1,
+                                                        "created_at": "2024-08-23 13:34:54+0000",
+                                                        "updated_at": "2024-08-23 13:34:54+0000"
+                                                    }
+                                                }
+                                            }
+                                        ],
+                                        "feedback": [],
+                                        "serial_numbers": [
+                                            {
+                                                "id": 5,
+                                                "serial_number": "Test item by Maaz-0",
+                                                "product_id": null,
+                                                "product_group_id": 4
+                                            }
+                                        ],
+                                        "product_tags": [
+                                            {
+                                                "id": 4,
+                                                "tag_id": 2,
+                                                "product_id": null,
+                                                "created_at": 1733753818000,
+                                                "updated_at": 1733753818000,
+                                                "product_group_id": 4,
+                                                "tag": {
+                                                    "id": 2,
+                                                    "name": "signal",
+                                                    "created_at": 1733753818000,
+                                                    "updated_at": 1733753818000
+                                                }
+                                            },
+                                            {
+                                                "id": 5,
+                                                "tag_id": 3,
+                                                "product_id": null,
+                                                "created_at": 1733753818000,
+                                                "updated_at": 1733753818000,
+                                                "product_group_id": 4,
+                                                "tag": {
+                                                    "id": 3,
+                                                    "name": "analyzer",
+                                                    "created_at": 1733753818000,
+                                                    "updated_at": 1733753818000
+                                                }
+                                            }
+                                        ],
+                                        "point": {
+                                            "id": 3,
+                                            "points": "1",
+                                            "rplan_id": null,
+                                            "product_id": null,
+                                            "product_group_id": 4
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "purchase_products": []
+                    }
+                },
+                {
+                    "id": 49,
+                    "reference_id": "LIT-00049",
+                    "total_price_payable": "5",
+                    "payment_status": "paid",
+                    "payment_method": "stripe",
+                    "status": "undelivered",
+                    "order_type": "Loan",
+                    "user_id": 148,
+                    "cart_id": 107,
+                    "created_at": 1735024368000,
+                    "updated_at": "2024-12-24 10:17:30+0000",
+                    "store_location": "Tampere",
+                    "user": {
+                        "id": 148,
+                        "user_key": "7235a71d8b9a428b754d4fb7badea8f0",
+                        "display_name": null,
+                        "about_me": null,
+                        "language": "en",
+                        "test_account": false,
+                        "store_id": 4,
+                        "terms_accepted": false,
+                        "fullname": "waleed ",
+                        "discount_percent": 0,
+                        "user": {
+                            "id": 234,
+                            "username": null,
+                            "email": "waleed+116@progstream.com",
+                            "phone": "98765432",
+                            "user_type": "user",
+                            "uid": null,
+                            "uid_from": null,
+                            "account_from": "liiteri",
+                            "status": "active",
+                            "created_at": "2024-11-29 11:43:48+0000",
+                            "updated_at": "2024-12-27 07:13:09+0000",
+                            "stripe_id": "cus_ROKiKApxLMT6N2",
+                            "first_name": "waleed",
+                            "last_name": null,
+                            "email_verified": true,
+                            "phone_verified": false,
+                            "ssn_encrypted": false,
+                            "terms_conditions": null,
+                            "userRoles": [
+                                "coreorient_user",
+                                "store_customer"
+                            ],
+                            "properties": {
+                                "tupas": "verified",
+                                "profile": "complete"
+                            },
+                            "user_referer": "NzIzNWE3MWQ4YjlhNDI4Yjc1NGQ0ZmI3YmFkZWE4ZjA=",
+                            "yit_address": "",
+                            "yit_group": []
+                        }
+                    },
+                    "cart": {
+                        "id": 107,
+                        "session_id": "12f1386f69d54505953b3241b7dc8581",
+                        "reference_number": null,
+                        "user_id": 148,
+                        "status": "undelivered",
+                        "total_price": "5",
+                        "created_at": "2024-12-24 07:12:32+0000",
+                        "updated_at": "2024-12-24 10:17:30+0000",
+                        "store_id": null,
+                        "total_loan_price": 5,
+                        "total_purchase_price": 0,
+                        "store_location": "Tampere",
+                        "product_name": "Test item",
+                        "cart_products": [
+                            {
+                                "id": 146,
+                                "cart_id": 107,
+                                "product_id": 1,
+                                "unit_price": "5",
+                                "unit_discount": "0",
+                                "quantity": 1,
+                                "price": "5",
+                                "delivery_method": "pickup",
+                                "start_dt": "2024-12-24 07:30:00+00",
+                                "end_dt": "2024-12-24 08:30:00+00",
+                                "pickup_dt": null,
+                                "dropoff_dt": null,
+                                "status": "undelivered",
+                                "deleted_at": null,
+                                "product_price_id": 2,
+                                "start_date": 1735025400000,
+                                "end_date": 1735029000000,
+                                "product_daily_price": 0,
+                                "product_hourly_price": 5,
+                                "product": {
+                                    "id": 1,
+                                    "name": null,
+                                    "details": null,
+                                    "location": "ss",
+                                    "quantity": 1,
+                                    "status": "active",
+                                    "expiry_date": null,
+                                    "store_id": 4,
+                                    "category_id": null,
+                                    "listing_id": null,
+                                    "added_by": 1,
+                                    "created_at": "2024-08-23 13:38:24+0000",
+                                    "updated_at": "2024-12-27 07:34:49+0000",
+                                    "discount": "0",
+                                    "deleted_at": null,
+                                    "external_url": null,
+                                    "product_url": null,
+                                    "free_rental": 0,
+                                    "shelf_number": "1",
+                                    "place": "shelf",
+                                    "freebie": false,
+                                    "gift_card": null,
+                                    "used": 36,
+                                    "product_group_id": 1,
+                                    "available_quantity": -33,
+                                    "sub_locker_name": null,
+                                    "product_in_use": null,
+                                    "product_groups": {
+                                        "id": 1,
+                                        "name": "Test item",
+                                        "details": "<p>fsfsfsdfsfd<\/p>",
+                                        "status": "available",
+                                        "expiry_date": "2027-08-22",
+                                        "category_id": 4,
+                                        "listing_id": 3,
+                                        "added_by": 1,
+                                        "product_url": null,
+                                        "external_url": null,
+                                        "gift_card": null,
+                                        "freebie": false,
+                                        "free_rental": 0,
+                                        "used": 36,
+                                        "deleted_at": null,
+                                        "created_at": "2024-08-23 13:38:24+0000",
+                                        "updated_at": "2024-12-27 07:34:49+0000",
+                                        "user_manual": null,
+                                        "separate": false,
+                                        "availability_date": null,
+                                        "quality": "high",
+                                        "product_type": 0,
+                                        "name_fi": "Testilaite",
+                                        "listingName": "Loan",
+                                        "CategoryName": "Oscilloscope",
+                                        "rating": 0,
+                                        "price_array": {
+                                            "price_hourly": "5",
+                                            "price_daily": "10",
+                                            "price_purchase": null,
+                                            "currency": "eur",
+                                            "discount_price_hourly": 5,
+                                            "discount_price_daily": 10,
+                                            "discount_price_purchase": null
+                                        },
+                                        "product_serial_numbers": "Test item-0",
+                                        "tag_names": "",
+                                        "product_point": null,
+                                        "sub_locker_name": null,
+                                        "available_products": false,
+                                        "api_url": "test-item-1",
+                                        "in_stock": true,
+                                        "store_names": "test2,Tampere",
+                                        "images": [
+                                            {
+                                                "id": 1,
+                                                "name": "IkuJ7KgxTbVms6dSAMyCjFySpGykhdSHhgHoSaUn.png",
+                                                "image_url": "https:\/\/s3-eu-central-1.amazonaws.com\/liiteri-stage-dev\/development\/products\/1",
+                                                "show": 1,
+                                                "product_id": null,
+                                                "product_group_id": 1
+                                            }
+                                        ],
+                                        "prices": [
+                                            {
+                                                "id": 1,
+                                                "price": "10",
+                                                "currency": "eur",
+                                                "listing_price_id": 1,
+                                                "product_id": null,
+                                                "product_group_id": 1,
+                                                "listing_price_option": {
+                                                    "id": 1,
+                                                    "listing_id": 3,
+                                                    "price_option_id": 1,
+                                                    "created_at": "2024-08-23 13:37:12+0000",
+                                                    "updated_at": "2024-08-23 13:37:12+0000",
+                                                    "price_option": {
+                                                        "id": 1,
+                                                        "name": "day",
+                                                        "added_by": 1,
+                                                        "created_at": "2024-08-23 13:34:54+0000",
+                                                        "updated_at": "2024-08-23 13:34:54+0000"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "price": "5",
+                                                "currency": "eur",
+                                                "listing_price_id": 2,
+                                                "product_id": null,
+                                                "product_group_id": 1,
+                                                "listing_price_option": {
+                                                    "id": 2,
+                                                    "listing_id": 3,
+                                                    "price_option_id": 3,
+                                                    "created_at": "2024-08-23 13:37:12+0000",
+                                                    "updated_at": "2024-08-23 13:37:12+0000",
+                                                    "price_option": {
+                                                        "id": 3,
+                                                        "name": "hour",
+                                                        "added_by": 1,
+                                                        "created_at": "2024-08-23 13:34:54+0000",
+                                                        "updated_at": "2024-08-23 13:34:54+0000"
+                                                    }
+                                                }
+                                            }
+                                        ],
+                                        "feedback": [],
+                                        "serial_numbers": [
+                                            {
+                                                "id": 2,
+                                                "serial_number": "Test item-0",
+                                                "product_id": null,
+                                                "product_group_id": 1
+                                            }
+                                        ],
+                                        "product_tags": [
+                                            {
+                                                "id": 1,
+                                                "tag_id": 1,
+                                                "product_id": null,
+                                                "created_at": 1724420306000,
+                                                "updated_at": 1724420306000,
+                                                "product_group_id": 1,
+                                                "tag": {
+                                                    "id": 1,
+                                                    "name": "",
+                                                    "created_at": 1724420306000,
+                                                    "updated_at": 1724420306000
+                                                }
+                                            }
+                                        ],
+                                        "point": null
+                                    },
+                                    "store": {
+                                        "id": 4,
+                                        "name": "Tampere",
+                                        "latitude": null,
+                                        "longitude": null,
+                                        "location": null
+                                    }
+                                }
+                            }
+                        ],
+                        "loan_products": [
+                            {
+                                "id": 146,
+                                "cart_id": 107,
+                                "product_id": 1,
+                                "unit_price": "5",
+                                "unit_discount": "0",
+                                "quantity": 1,
+                                "price": "5",
+                                "delivery_method": "pickup",
+                                "start_dt": "2024-12-24 07:30:00+00",
+                                "end_dt": "2024-12-24 08:30:00+00",
+                                "pickup_dt": null,
+                                "dropoff_dt": null,
+                                "status": "undelivered",
+                                "deleted_at": null,
+                                "product_price_id": 2,
+                                "start_date": 1735025400000,
+                                "end_date": 1735029000000,
+                                "product_daily_price": 0,
+                                "product_hourly_price": 5,
+                                "product": {
+                                    "id": 1,
+                                    "name": null,
+                                    "details": null,
+                                    "location": "ss",
+                                    "quantity": 1,
+                                    "status": "active",
+                                    "expiry_date": null,
+                                    "store_id": 4,
+                                    "category_id": null,
+                                    "listing_id": null,
+                                    "added_by": 1,
+                                    "created_at": "2024-08-23 13:38:24+0000",
+                                    "updated_at": "2024-12-27 07:34:49+0000",
+                                    "discount": "0",
+                                    "deleted_at": null,
+                                    "external_url": null,
+                                    "product_url": null,
+                                    "free_rental": 0,
+                                    "shelf_number": "1",
+                                    "place": "shelf",
+                                    "freebie": false,
+                                    "gift_card": null,
+                                    "used": 36,
+                                    "product_group_id": 1,
+                                    "available_quantity": -33,
+                                    "sub_locker_name": null,
+                                    "product_in_use": null,
+                                    "product_groups": {
+                                        "id": 1,
+                                        "name": "Test item",
+                                        "details": "<p>fsfsfsdfsfd<\/p>",
+                                        "status": "available",
+                                        "expiry_date": "2027-08-22",
+                                        "category_id": 4,
+                                        "listing_id": 3,
+                                        "added_by": 1,
+                                        "product_url": null,
+                                        "external_url": null,
+                                        "gift_card": null,
+                                        "freebie": false,
+                                        "free_rental": 0,
+                                        "used": 36,
+                                        "deleted_at": null,
+                                        "created_at": "2024-08-23 13:38:24+0000",
+                                        "updated_at": "2024-12-27 07:34:49+0000",
+                                        "user_manual": null,
+                                        "separate": false,
+                                        "availability_date": null,
+                                        "quality": "high",
+                                        "product_type": 0,
+                                        "name_fi": "Testilaite",
+                                        "listingName": "Loan",
+                                        "CategoryName": "Oscilloscope",
+                                        "rating": 0,
+                                        "price_array": {
+                                            "price_hourly": "5",
+                                            "price_daily": "10",
+                                            "price_purchase": null,
+                                            "currency": "eur",
+                                            "discount_price_hourly": 5,
+                                            "discount_price_daily": 10,
+                                            "discount_price_purchase": null
+                                        },
+                                        "product_serial_numbers": "Test item-0",
+                                        "tag_names": "",
+                                        "product_point": null,
+                                        "sub_locker_name": null,
+                                        "available_products": false,
+                                        "api_url": "test-item-1",
+                                        "in_stock": true,
+                                        "store_names": "test2,Tampere",
+                                        "prices": [
+                                            {
+                                                "id": 1,
+                                                "price": "10",
+                                                "currency": "eur",
+                                                "listing_price_id": 1,
+                                                "product_id": null,
+                                                "product_group_id": 1,
+                                                "listing_price_option": {
+                                                    "id": 1,
+                                                    "listing_id": 3,
+                                                    "price_option_id": 1,
+                                                    "created_at": "2024-08-23 13:37:12+0000",
+                                                    "updated_at": "2024-08-23 13:37:12+0000",
+                                                    "price_option": {
+                                                        "id": 1,
+                                                        "name": "day",
+                                                        "added_by": 1,
+                                                        "created_at": "2024-08-23 13:34:54+0000",
+                                                        "updated_at": "2024-08-23 13:34:54+0000"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "price": "5",
+                                                "currency": "eur",
+                                                "listing_price_id": 2,
+                                                "product_id": null,
+                                                "product_group_id": 1,
+                                                "listing_price_option": {
+                                                    "id": 2,
+                                                    "listing_id": 3,
+                                                    "price_option_id": 3,
+                                                    "created_at": "2024-08-23 13:37:12+0000",
+                                                    "updated_at": "2024-08-23 13:37:12+0000",
+                                                    "price_option": {
+                                                        "id": 3,
+                                                        "name": "hour",
+                                                        "added_by": 1,
+                                                        "created_at": "2024-08-23 13:34:54+0000",
+                                                        "updated_at": "2024-08-23 13:34:54+0000"
+                                                    }
+                                                }
+                                            }
+                                        ],
+                                        "feedback": [],
+                                        "serial_numbers": [
+                                            {
+                                                "id": 2,
+                                                "serial_number": "Test item-0",
+                                                "product_id": null,
+                                                "product_group_id": 1
+                                            }
+                                        ],
+                                        "product_tags": [
+                                            {
+                                                "id": 1,
+                                                "tag_id": 1,
+                                                "product_id": null,
+                                                "created_at": 1724420306000,
+                                                "updated_at": 1724420306000,
+                                                "product_group_id": 1,
+                                                "tag": {
+                                                    "id": 1,
+                                                    "name": "",
+                                                    "created_at": 1724420306000,
+                                                    "updated_at": 1724420306000
+                                                }
+                                            }
+                                        ],
+                                        "point": null
+                                    }
+                                }
+                            }
+                        ],
+                        "purchase_products": []
+                    }
+                }
+            ],
+            "first_page_url": "http:\/\/dev-api.liiteri.net\/api\/en\/orders?q=%2Fapi%2Fen%2Forders%2F&page=1",
+            "from": 1,
+            "last_page": 1,
+            "last_page_url": "http:\/\/dev-api.liiteri.net\/api\/en\/orders?q=%2Fapi%2Fen%2Forders%2F&page=1",
+            "next_page_url": null,
+            "path": "http:\/\/dev-api.liiteri.net\/api\/en\/orders",
+            "per_page": "20",
+            "prev_page_url": null,
+            "to": 3,
+            "total": 3
+        }
+    },
+    "status": "success",
+    "error": false
+}

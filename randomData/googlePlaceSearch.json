@@ -1,0 +1,41 @@
+{
+  "predictions": [
+    {
+      "description": "Mikkeli, Finland",
+      "matched_substrings": [
+        {
+          "length": 7,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJYQeJGnehmkYRhxFMgKNgjm4",
+      "reference": "ChIJYQeJGnehmkYRhxFMgKNgjm4",
+      "structured_formatting": {
+        "main_text": "Mikkeli",
+        "main_text_matched_substrings": [
+          {
+            "length": 7,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Finland"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Mikkeli"
+        },
+        {
+          "offset": 9,
+          "value": "Finland"
+        }
+      ],
+      "types": [
+        "geocode",
+        "locality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

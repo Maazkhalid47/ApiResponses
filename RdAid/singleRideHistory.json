@@ -1,0 +1,137 @@
+{
+    "object": "ride-details",
+    "id": "769cfc13",
+    "rideStatus": 3,
+    "createdAt": "2024-10-31 15:09",
+    "rideCost": 200,
+    "serviceName": "Jump Start",
+    "paymentStatus": false,
+    "rideRating": 5,
+    "customerDetails": {
+        "id": "769cfd4d",
+        "name": "Customer1 Maaz",
+        "email": "maaz.khalid+customer1@progstream.com",
+        "phone": "03030303030",
+        "profileImage": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1730296151890.jpg",
+        "ratingCount": 0,
+        "ratingAvg": 0
+    },
+    "serviceDetails": {
+        "object": "service",
+        "id": "769cfd7f",
+        "title": "Jump Start",
+        "description": "test jump start",
+        "durationInMin": 3,
+        "expirationDate": "2024-12-12",
+        "serviceFor": 0,
+        "driverCount": 6,
+        "status": "active",
+        "servicePrice": {
+            "object": "servicePrice",
+            "id": "769cfd7f",
+            "serviceId": "769cfd7f",
+            "paymentType": 0,
+            "serviceCharges": 200,
+            "distance": 50,
+            "chargesPerUnit": 10,
+            "chargesPerUnitAfterSlab": 20,
+            "adjustablePrice": true,
+            "allowNightShift": false,
+            "unit": "miles",
+            "createdAt": "2024-09-06 06:58",
+            "updatedAt": "2024-10-11 06:56"
+        },
+        "serviceIconUrl": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1725607539235.png",
+        "driverOnline": 0,
+        "createdAt": "2024-09-06 06:58",
+        "updatedAt": "2024-09-06 06:58"
+    },
+    "vehicleDetails": {
+        "object": "vehicle",
+        "id": "769cfd56",
+        "userId": "769cfd4d",
+        "make": "Chrysler",
+        "model": "Aspen",
+        "year": "2021",
+        "color": "red",
+        "fuelType": "Gas",
+        "tireSize": "R14",
+        "identificationNumber": null,
+        "registrationNumber": null,
+        "stateOfRegistration": null,
+        "licensePlateNo": "llm231",
+        "expirationDate": null,
+        "towTruck": null,
+        "status": "active",
+        "createdAt": "2024-10-30 13:50",
+        "updatedAt": "2024-10-30 13:50",
+        "attachmentUrl": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1730296206794.png"
+    },
+    "pickUpLocation": {
+        "object": "location",
+        "id": "769cfac4",
+        "user_id": "769cfd4d",
+        "latitude": 24.9236335,
+        "longitude": 67.0917843,
+        "country": null,
+        "state": "Sindh",
+        "city": "Karachi",
+        "streetAddress": "Office #, C 2 3rd Floor, Block 5 Gulshan-e-Iqbal, Karachi, Sindh, Pakistan",
+        "homeAddress": null,
+        "postalCode": "testPostal",
+        "apartment": null,
+        "modelId": "769cfc13",
+        "modelType": "Ride",
+        "status": "active",
+        "createdAt": "2024-10-31 15:09",
+        "updatedAt": "2024-10-31 15:09"
+    },
+    "destination": {
+        "object": "location",
+        "id": "769cfac3",
+        "user_id": "769cfd4d",
+        "latitude": 24.9471959,
+        "longitude": 67.053907,
+        "country": null,
+        "state": "Sindh",
+        "city": "Karachi",
+        "streetAddress": "Marhaba Heights, Block M North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+        "homeAddress": null,
+        "postalCode": "testDestinationPostal",
+        "apartment": null,
+        "modelId": "769cfc13",
+        "modelType": "Ride",
+        "status": "active",
+        "createdAt": "2024-10-31 15:09",
+        "updatedAt": "2024-10-31 15:09"
+    },
+    "userAnswers": [
+        {
+            "question": "Are you alive?",
+            "answer": "yes"
+        },
+        {
+            "question": "are any tires flat,are any tires flat?",
+            "answer": "no"
+        },
+        {
+            "question": "are you injuredare you injured??",
+            "answer": "no"
+        },
+        {
+            "question": "wad?",
+            "answer": "no"
+        }
+    ],
+    "driverDetails": {
+        "id": "769cfd50",
+        "name": "testDriver1 maaz",
+        "email": "maaz.khalid+testDriver1@progstream.com",
+        "phone": "090078601",
+        "profileImage": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1730201014758.png",
+        "ratingCount": 6,
+        "ratingAvg": 4.3
+    },
+    "estimatedRideCost": 0,
+    "customerArrivalTime": 0
+}
