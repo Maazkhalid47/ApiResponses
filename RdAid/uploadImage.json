@@ -1,0 +1,24 @@
+{
+  "success": {
+    "code": 201,
+    "data": {
+      "object": "attachment",
+      "id": "769cfcf8",
+      "user_id": "769cfd3e",
+      "modelId": "769cfd64",
+      "modelType": "Vehicle",
+      "fileType": 3,
+      "url": "https://rdaid-production.s3.amazonaws.com/rdaid/prod/file_1767205637855.png",
+      "fileName": "1767205619177927.png",
+      "fileSize": "375751",
+      "visibility": "public-read",
+      "status": "pending",
+      "attachmentType": "vehicle",
+      "createdAt": "2025-12-31T18:27:17.977701Z",
+      "updatedAt": "2025-12-31T18:27:17.977719Z",
+      "rejectedReason": null
+    },
+    "message": "Image uploaded successfully."
+  },
+  "error": null
+}
