@@ -1,50 +1,50 @@
 {
-    "success": {
-        "code": 200,
-        "data": {
-            "user": {
-                "name": "customer2",
-                "phoneNo": "090078601",
-                "email": "maaz.khalid+customer3@progstream.com"
-            },
-            "userprofile": {
-                "object": "user-profile",
-                "id": "769cfd4a",
-                "callMeAllowed": true,
-                "socialSecurityNumber": null,
-                "taxId": null,
-                "dateOfBirth": null,
-                "firstName": "customer2",
-                "lastName": "maaz",
-                "gender": null,
-                "userProfileImg": "https://progstream.s3.amazonaws.com/rdaid/dev/file_1731504048078.jpg",
-                "proofOfResidence": null,
-                "createdAt": "2024-11-13 12:45",
-                "updatedAt": "2024-11-13 13:20"
-            },
-            "location": {
-                "object": "location",
-                "id": "769cfa29",
-                "user_id": "769cfd3e",
-                "latitude": null,
-                "longitude": null,
-                "country": null,
-                "state": "Connecticut",
-                "city": "Bantam",
-                "streetAddress": null,
-                "homeAddress": null,
-                "postalCode": null,
-                "apartment": null,
-                "modelId": "769cfd4a",
-                "modelType": "UserProfile",
-                "status": "active",
-                "createdAt": "2024-11-13 12:45",
-                "updatedAt": "2024-11-13 13:20"
-            },
-            "ratingCount": 0,
-            "ratingAvg": 0
-        },
-        "message": "User profile displayed"
+  "success": {
+    "code": 200,
+    "data": {
+      "user": {
+        "name": "Maaz",
+        "phoneNo": "+10000000001",
+        "email": "maaz.khalid+2@progstream.com"
+      },
+      "userprofile": {
+        "object": "user-profile",
+        "id": "769cfd49",
+        "callMeAllowed": true,
+        "socialSecurityNumber": null,
+        "taxId": "12-345678",
+        "dateOfBirth": null,
+        "firstName": "Maaz",
+        "lastName": "Khalid",
+        "gender": null,
+        "userProfileImg": "https://rdaid-production.s3.amazonaws.com/rdaid/prod/file_1767188542108.jpg",
+        "proofOfResidence": "https://rdaid-production.s3.amazonaws.com/rdaid/prod/file_1767187846418.jpg",
+        "createdAt": "2025-12-31 13:30:52",
+        "updatedAt": "2025-12-31 13:42:20"
+      },
+      "location": {
+        "object": "location",
+        "id": "769cfd07",
+        "user_id": "769cfd48",
+        "latitude": null,
+        "longitude": null,
+        "country": null,
+        "state": "Connecticut",
+        "city": "Bantam",
+        "streetAddress": "test",
+        "homeAddress": null,
+        "postalCode": "123456",
+        "apartment": null,
+        "modelId": "769cfd49",
+        "modelType": "UserProfile",
+        "status": "active",
+        "createdAt": "2025-12-31 13:30:52",
+        "updatedAt": "2025-12-31 13:42:20"
+      },
+      "ratingCount": 0,
+      "ratingAvg": 0
     },
-    "error": null
+    "message": "User profile displayed."
+  },
+  "error": null
 }
