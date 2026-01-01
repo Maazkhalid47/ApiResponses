@@ -34,7 +34,7 @@
       "referralCode": "C63BB4",
       "photo": null,
       "customerWalletAmount": 0,
-      "requestedRole": {
+      "requestedRole":  {
         "object": "role_request",
         "id": "769cfd6f",
         "userId": "769cfd48",
