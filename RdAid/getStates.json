@@ -1,0 +1,321 @@
+{
+    "success": {
+        "code": 200,
+        "data": [
+            {
+                "object": "us-state",
+                "id": "769cfd7f",
+                "stateCode": "AL",
+                "stateName": "Alabama"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd7e",
+                "stateCode": "AK",
+                "stateName": "Alaska"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd7d",
+                "stateCode": "AZ",
+                "stateName": "Arizona"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd7c",
+                "stateCode": "AR",
+                "stateName": "Arkansas"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd7b",
+                "stateCode": "CA",
+                "stateName": "California"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd7a",
+                "stateCode": "CO",
+                "stateName": "Colorado"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd79",
+                "stateCode": "CT",
+                "stateName": "Connecticut"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd78",
+                "stateCode": "DE",
+                "stateName": "Delaware"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd77",
+                "stateCode": "DC",
+                "stateName": "District of Columbia"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd76",
+                "stateCode": "FL",
+                "stateName": "Florida"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd75",
+                "stateCode": "GA",
+                "stateName": "Georgia"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd74",
+                "stateCode": "HI",
+                "stateName": "Hawaii"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd73",
+                "stateCode": "ID",
+                "stateName": "Idaho"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd72",
+                "stateCode": "IL",
+                "stateName": "Illinois"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd71",
+                "stateCode": "IN",
+                "stateName": "Indiana"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd70",
+                "stateCode": "IA",
+                "stateName": "Iowa"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd6f",
+                "stateCode": "KS",
+                "stateName": "Kansas"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd6e",
+                "stateCode": "KY",
+                "stateName": "Kentucky"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd6d",
+                "stateCode": "LA",
+                "stateName": "Louisiana"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd6c",
+                "stateCode": "ME",
+                "stateName": "Maine"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd6b",
+                "stateCode": "MD",
+                "stateName": "Maryland"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd6a",
+                "stateCode": "MA",
+                "stateName": "Massachusetts"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd69",
+                "stateCode": "MI",
+                "stateName": "Michigan"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd68",
+                "stateCode": "MN",
+                "stateName": "Minnesota"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd67",
+                "stateCode": "MS",
+                "stateName": "Mississippi"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd66",
+                "stateCode": "MO",
+                "stateName": "Missouri"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd65",
+                "stateCode": "MT",
+                "stateName": "Montana"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd64",
+                "stateCode": "NE",
+                "stateName": "Nebraska"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd63",
+                "stateCode": "NV",
+                "stateName": "Nevada"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd62",
+                "stateCode": "NH",
+                "stateName": "New Hampshire"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd61",
+                "stateCode": "NJ",
+                "stateName": "New Jersey"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd60",
+                "stateCode": "NM",
+                "stateName": "New Mexico"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd5f",
+                "stateCode": "NY",
+                "stateName": "New York"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd5e",
+                "stateCode": "NC",
+                "stateName": "North Carolina"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd5d",
+                "stateCode": "ND",
+                "stateName": "North Dakota"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd5c",
+                "stateCode": "OH",
+                "stateName": "Ohio"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd5b",
+                "stateCode": "OK",
+                "stateName": "Oklahoma"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd5a",
+                "stateCode": "OR",
+                "stateName": "Oregon"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd59",
+                "stateCode": "PA",
+                "stateName": "Pennsylvania"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd58",
+                "stateCode": "PR",
+                "stateName": "Puerto Rico"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd57",
+                "stateCode": "RI",
+                "stateName": "Rhode Island"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd56",
+                "stateCode": "SC",
+                "stateName": "South Carolina"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd55",
+                "stateCode": "SD",
+                "stateName": "South Dakota"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd54",
+                "stateCode": "TN",
+                "stateName": "Tennessee"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd53",
+                "stateCode": "TX",
+                "stateName": "Texas"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd52",
+                "stateCode": "UT",
+                "stateName": "Utah"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd51",
+                "stateCode": "VT",
+                "stateName": "Vermont"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd50",
+                "stateCode": "VA",
+                "stateName": "Virginia"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd4f",
+                "stateCode": "WA",
+                "stateName": "Washington"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd4e",
+                "stateCode": "WV",
+                "stateName": "West Virginia"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd4d",
+                "stateCode": "WI",
+                "stateName": "Wisconsin"
+            },
+            {
+                "object": "us-state",
+                "id": "769cfd4c",
+                "stateCode": "WY",
+                "stateName": "Wyoming"
+            }
+        ],
+        "message": "Success"
+    },
+    "error": null
+}
