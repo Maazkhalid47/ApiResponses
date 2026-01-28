@@ -1,0 +1,16 @@
+{
+    "success": {
+        "code": 201,
+        "data": {
+            "object": "user-role",
+            "id": "769cfb7c",
+            "user_id": "769cfb55",
+            "role": "customer",
+            "previousRole": "customer",
+            "createdAt": "2026-01-27T14:39:18.619240Z",
+            "updatedAt": "2026-01-28T08:25:32.960694Z"
+        },
+        "message": "Role created."
+    },
+    "error": null
+}
