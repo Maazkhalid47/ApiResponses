@@ -1,390 +1,1012 @@
 {
-    "code": 200,
+    "code": "200",
     "data": {
-        "objects": [
-            {
-                "id": 166,
-                "cart_id": 60,
-                "product_id": 1,
-                "unit_price": "5",
-                "unit_discount": "0",
-                "quantity": 1,
-                "price": "5",
-                "delivery_method": "pickup",
-                "start_dt": "2024-12-27 10:30:00+00",
-                "end_dt": "2024-12-27 11:30:00+00",
-                "pickup_dt": null,
-                "dropoff_dt": null,
-                "status": "confirmed",
-                "deleted_at": null,
-                "product_price_id": 2,
-                "order_id": 69,
-                "start_date": 1735295400000,
-                "end_date": 1735299000000,
-                "product_daily_price": 0,
-                "product_hourly_price": 5,
-                "product": {
-                    "id": 1,
-                    "name": null,
-                    "details": null,
-                    "location": "ss",
-                    "quantity": 1,
-                    "status": "active",
-                    "expiry_date": null,
-                    "store_id": 4,
-                    "category_id": null,
-                    "listing_id": null,
-                    "added_by": 1,
-                    "created_at": "2024-08-23 13:38:24+0000",
-                    "updated_at": "2024-12-27 10:27:18+0000",
-                    "discount": "0",
-                    "deleted_at": null,
-                    "external_url": null,
+        "objects": {
+            "current_page": 1,
+            "data": [
+                {
+                    "id": 112,
+                    "name": "Tekstiilipesuri",
+                    "details": "<p>Tekstiilipesuri - K&auml;rcher Professional Puzzi 10\/1<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>K&auml;rcher Puzzi 10\/1 on s&auml;&auml;nn&ouml;lliseen ammattik&auml;ytt&ouml;&ouml;n mitoitettu tekstiilipesuri \/ painehuuhtelulaite. Tehokas ty&ouml;kalu mattojen, kangasverhoiltujen huonekalujen, auton istuimien ja sis&auml;verhoilujen puhdistukseen. Laite toimii verkkovirralla .<\/p>\r\n<p>Painehuuhtelu j&auml;tt&auml;&auml; pinnan raikkaan puhtaaksi, ja tehokkaan kuivauksen ansiosta kohde kuivuu nopeasti k&auml;ytt&ouml;valmiiksi. Lujarakenteinen, varmatoiminen kone ja j&auml;mer&auml;t pesuvarusteet kest&auml;v&auml;t p&auml;ivitt&auml;isess&auml; ammattik&auml;yt&ouml;ss&auml;<\/p>\r\n<p>Pumpun teho 40 W, j&auml;nnite 220 - 240 V, paino 10,7 kg, mitat 71 cm x 33 cm x 42 cm.<\/p>\r\n<p>Sis&auml;lt&ouml;:<\/p>\r\n<p>Pesuri<\/p>\r\n<p>Imuputki k&auml;sikahvalla<\/p>\r\n<p>max 2dl nestem&auml;aist&auml; pesuainetta sis&auml;ltyy vuokrahintaan.<\/p>\r\n<p>(Mattosuutin ja jatkoputki eiv&auml;t ole saatavilla Espoon keskuksessa)<\/p>\r\n<p>Imuletku integroidulla vedensy&ouml;t&ouml;ll&auml;<\/p>\r\n<p>Lattiasuulake kokolattiamatolle<\/p>\r\n<p>K&auml;sisuulake huonekalujen ja pehmusteverhoilujen puhdistamiseen<\/p>\r\n<p>Rakosuutin.<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen. Huom! Tekstiilipesuri ei mahdu reppuun, mutta reppu on k&auml;tev&auml; laitteen irroitettaville osille.<\/span><\/span><\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">(Mattosuutin ja jatkoputki eiv&auml;t ole saatavilla Espoon keskuksessa)<\/span><\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/span><\/p>\r\n<p><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5366346-000-01.pdf\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">K&auml;ytt&ouml;ohje<\/span><\/span><\/span><\/a><\/p>\r\n<p><a href=\"https:\/\/www.kaercher.com\/fi\/professional\/mattojen-ja-tekstiilien-puhdistuslaitteet\/painehuuhtelukoneet\/puzzi-10-1-11001310.html\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">Tuote valmistajan kotisivuilla<\/span><\/span><\/span><\/a><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">&nbsp;<\/span><\/span><\/p>",
+                    "status": "available",
+                    "expiry_date": "2026-07-03",
+                    "category_id": 45,
+                    "listing_id": 1,
+                    "added_by": 3,
                     "product_url": null,
-                    "free_rental": 0,
-                    "shelf_number": "1",
-                    "place": "shelf",
-                    "freebie": false,
-                    "gift_card": null,
-                    "used": 38,
-                    "product_group_id": 1,
-                    "available_quantity": -35,
-                    "sub_locker_name": null,
-                    "product_in_use": {
-                        "id": 70,
-                        "reference_id": "LIT-00070",
-                        "total_price_payable": "5",
-                        "payment_status": "paid",
-                        "payment_method": "stripe",
-                        "status": "confirmed",
-                        "order_type": "Loan",
-                        "user_id": 148,
-                        "cart_id": 125,
-                        "created_at": 1735295235000,
-                        "updated_at": "2024-12-27 10:27:17+0000",
-                        "store_location": "Tampere"
-                    },
-                    "product_groups": {
-                        "id": 1,
-                        "name": "Test item",
-                        "details": "<p>fsfsfsdfsfd</p>",
-                        "status": "available",
-                        "expiry_date": "2027-08-22",
-                        "category_id": 4,
-                        "listing_id": 3,
-                        "added_by": 1,
-                        "product_url": null,
-                        "external_url": null,
-                        "gift_card": null,
-                        "freebie": false,
-                        "free_rental": 0,
-                        "used": 38,
-                        "deleted_at": null,
-                        "created_at": "2024-08-23 13:38:24+0000",
-                        "updated_at": "2024-12-27 10:27:18+0000",
-                        "user_manual": null,
-                        "separate": false,
-                        "availability_date": null,
-                        "quality": "high",
-                        "product_type": 0,
-                        "name_fi": "Testilaite",
-                        "listingName": "Loan",
-                        "CategoryName": "Oscilloscope",
-                        "rating": 0,
-                        "price_array": {
-                            "price_hourly": "5",
-                            "price_daily": "10",
-                            "price_purchase": null,
-                            "currency": "eur",
-                            "discount_price_hourly": 5,
-                            "discount_price_daily": 10,
-                            "discount_price_purchase": null
-                        },
-                        "product_serial_numbers": "Test item-0",
-                        "tag_names": "",
-                        "product_point": null,
-                        "sub_locker_name": null,
-                        "available_products": false,
-                        "api_url": "test-item-1",
-                        "in_stock": true,
-                        "store_names": "test2,Tampere",
-                        "images": [
-                            {
-                                "id": 1,
-                                "name": "IkuJ7KgxTbVms6dSAMyCjFySpGykhdSHhgHoSaUn.png",
-                                "image_url": "https://s3-eu-central-1.amazonaws.com/liiteri-stage-dev/development/products/1",
-                                "show": 1,
-                                "product_id": null,
-                                "product_group_id": 1
-                            }
-                        ],
-                        "prices": [
-                            {
-                                "id": 1,
-                                "price": "10",
-                                "currency": "eur",
-                                "listing_price_id": 1,
-                                "product_id": null,
-                                "product_group_id": 1,
-                                "listing_price_option": {
-                                    "id": 1,
-                                    "listing_id": 3,
-                                    "price_option_id": 1,
-                                    "created_at": "2024-08-23 13:37:12+0000",
-                                    "updated_at": "2024-08-23 13:37:12+0000",
-                                    "price_option": {
-                                        "id": 1,
-                                        "name": "day",
-                                        "added_by": 1,
-                                        "created_at": "2024-08-23 13:34:54+0000",
-                                        "updated_at": "2024-08-23 13:34:54+0000"
-                                    }
-                                }
-                            },
-                            {
-                                "id": 2,
-                                "price": "5",
-                                "currency": "eur",
-                                "listing_price_id": 2,
-                                "product_id": null,
-                                "product_group_id": 1,
-                                "listing_price_option": {
-                                    "id": 2,
-                                    "listing_id": 3,
-                                    "price_option_id": 3,
-                                    "created_at": "2024-08-23 13:37:12+0000",
-                                    "updated_at": "2024-08-23 13:37:12+0000",
-                                    "price_option": {
-                                        "id": 3,
-                                        "name": "hour",
-                                        "added_by": 1,
-                                        "created_at": "2024-08-23 13:34:54+0000",
-                                        "updated_at": "2024-08-23 13:34:54+0000"
-                                    }
-                                }
-                            }
-                        ],
-                        "feedback": [],
-                        "serial_numbers": [
-                            {
-                                "id": 2,
-                                "serial_number": "Test item-0",
-                                "product_id": null,
-                                "product_group_id": 1
-                            }
-                        ],
-                        "product_tags": [
-                            {
-                                "id": 1,
-                                "tag_id": 1,
-                                "product_id": null,
-                                "created_at": 1724420306000,
-                                "updated_at": 1724420306000,
-                                "product_group_id": 1,
-                                "tag": {
-                                    "id": 1,
-                                    "name": "",
-                                    "created_at": 1724420306000,
-                                    "updated_at": 1724420306000
-                                }
-                            }
-                        ],
-                        "point": null
-                    }
-                }
-            },
-            {
-                "id": 167,
-                "cart_id": 125,
-                "product_id": 1,
-                "unit_price": "5",
-                "unit_discount": "0",
-                "quantity": 1,
-                "price": "5",
-                "delivery_method": "pickup",
-                "start_dt": "2024-12-27 11:45:00+00",
-                "end_dt": "2024-12-27 12:45:00+00",
-                "pickup_dt": null,
-                "dropoff_dt": null,
-                "status": "confirmed",
-                "deleted_at": null,
-                "product_price_id": 2,
-                "order_id": 70,
-                "start_date": 1735299900000,
-                "end_date": 1735303500000,
-                "product_daily_price": 0,
-                "product_hourly_price": 5,
-                "product": {
-                    "id": 1,
-                    "name": null,
-                    "details": null,
-                    "location": "ss",
-                    "quantity": 1,
-                    "status": "active",
-                    "expiry_date": null,
-                    "store_id": 4,
-                    "category_id": null,
-                    "listing_id": null,
-                    "added_by": 1,
-                    "created_at": "2024-08-23 13:38:24+0000",
-                    "updated_at": "2024-12-27 10:27:18+0000",
-                    "discount": "0",
-                    "deleted_at": null,
                     "external_url": null,
-                    "product_url": null,
-                    "free_rental": 0,
-                    "shelf_number": "1",
-                    "place": "shelf",
-                    "freebie": false,
                     "gift_card": null,
-                    "used": 38,
-                    "product_group_id": 1,
-                    "available_quantity": -35,
-                    "sub_locker_name": null,
-                    "product_in_use": {
-                        "id": 70,
-                        "reference_id": "LIT-00070",
-                        "total_price_payable": "5",
-                        "payment_status": "paid",
-                        "payment_method": "stripe",
-                        "status": "confirmed",
-                        "order_type": "Loan",
-                        "user_id": 148,
-                        "cart_id": 125,
-                        "created_at": 1735295235000,
-                        "updated_at": "2024-12-27 10:27:17+0000",
-                        "store_location": "Tampere"
+                    "freebie": false,
+                    "free_rental": 0,
+                    "used": 840,
+                    "deleted_at": null,
+                    "created_at": "2019-11-20 14:08:07+0000",
+                    "updated_at": "2026-01-19 20:11:00+0000",
+                    "user_manual": "https:\/\/drive.google.com\/file\/d\/18KRZrVhngY-qgQa0-srwDZbVBzurRN4Z\/view?usp=sharing",
+                    "separate": false,
+                    "availability_date": "2020-09-03 09:03:37+00",
+                    "quality": "",
+                    "product_type": 0,
+                    "name_fi": "Tekstiilipesuri",
+                    "listingName": "Loan",
+                    "CategoryName": "muu",
+                    "rating": 0,
+                    "price_array": {
+                        "price_hourly": "9.9",
+                        "price_daily": "29",
+                        "price_purchase": null,
+                        "currency": "eur",
+                        "discount_price_hourly": 0,
+                        "discount_price_daily": 0,
+                        "discount_price_purchase": null
                     },
-                    "product_groups": {
-                        "id": 1,
-                        "name": "Test item",
-                        "details": "<p>fsfsfsdfsfd</p>",
-                        "status": "available",
-                        "expiry_date": "2027-08-22",
-                        "category_id": 4,
-                        "listing_id": 3,
-                        "added_by": 1,
-                        "product_url": null,
-                        "external_url": null,
-                        "gift_card": null,
-                        "freebie": false,
-                        "free_rental": 0,
-                        "used": 38,
-                        "deleted_at": null,
-                        "created_at": "2024-08-23 13:38:24+0000",
-                        "updated_at": "2024-12-27 10:27:18+0000",
-                        "user_manual": null,
-                        "separate": false,
-                        "availability_date": null,
-                        "quality": "high",
-                        "product_type": 0,
-                        "name_fi": "Testilaite",
-                        "listingName": "Loan",
-                        "CategoryName": "Oscilloscope",
-                        "rating": 0,
-                        "price_array": {
-                            "price_hourly": "5",
-                            "price_daily": "10",
-                            "price_purchase": null,
-                            "currency": "eur",
-                            "discount_price_hourly": 5,
-                            "discount_price_daily": 10,
-                            "discount_price_purchase": null
+                    "product_serial_numbers": "",
+                    "tag_names": "cleaners",
+                    "product_point": "1",
+                    "sub_locker_name": null,
+                    "available_products": false,
+                    "api_url": "tekstiilipesuri-112",
+                    "in_stock": true,
+                    "store_names": "Lempalaa,dummyAsoliiteri,ABC,Tampere,Vuosaari-old,Teurastamo Tukkutori,Lauttasaari Tavaralainaamo,Oulunkyl\u00e4,Kivist\u00f6,Matinkyl\u00e4,Vuosaari Columbus,Lepp\u00e4vaara",
+                    "images": [
+                        {
+                            "id": 687,
+                            "name": "MHsoUOf9CU8WQx7G88EFK4Y8WKYzegF9Dlk6nxMP.png",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 723,
+                            "product_group_id": 112
                         },
-                        "product_serial_numbers": "Test item-0",
-                        "tag_names": "",
-                        "product_point": null,
-                        "sub_locker_name": null,
-                        "available_products": false,
-                        "api_url": "test-item-1",
-                        "in_stock": true,
-                        "store_names": "test2,Tampere",
-                        "images": [
-                            {
+                        {
+                            "id": 638,
+                            "name": "pxVUhiUhna8BMvn629EUm2VlcoDnwTAwVt9pptG5.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 663,
+                            "product_group_id": 112
+                        },
+                        {
+                            "id": 375,
+                            "name": "cYJ8USh619v1L9NNULnCYwrS6tQMrXnVov9nq6KJ.png",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 368,
+                            "product_group_id": 112
+                        }
+                    ],
+                    "serial_numbers": [],
+                    "feedback": [],
+                    "prices": [
+                        {
+                            "id": 1210,
+                            "price": "29",
+                            "currency": "eur",
+                            "listing_price_id": 1,
+                            "product_id": null,
+                            "product_group_id": 112,
+                            "listing_price_option": {
                                 "id": 1,
-                                "name": "IkuJ7KgxTbVms6dSAMyCjFySpGykhdSHhgHoSaUn.png",
-                                "image_url": "https://s3-eu-central-1.amazonaws.com/liiteri-stage-dev/development/products/1",
-                                "show": 1,
-                                "product_id": null,
-                                "product_group_id": 1
-                            }
-                        ],
-                        "prices": [
-                            {
-                                "id": 1,
-                                "price": "10",
-                                "currency": "eur",
-                                "listing_price_id": 1,
-                                "product_id": null,
-                                "product_group_id": 1,
-                                "listing_price_option": {
+                                "listing_id": 1,
+                                "price_option_id": 1,
+                                "created_at": "2018-01-16 14:41:51+0000",
+                                "updated_at": "2018-01-16 14:41:51+0000",
+                                "price_option": {
                                     "id": 1,
-                                    "listing_id": 3,
-                                    "price_option_id": 1,
-                                    "created_at": "2024-08-23 13:37:12+0000",
-                                    "updated_at": "2024-08-23 13:37:12+0000",
-                                    "price_option": {
-                                        "id": 1,
-                                        "name": "day",
-                                        "added_by": 1,
-                                        "created_at": "2024-08-23 13:34:54+0000",
-                                        "updated_at": "2024-08-23 13:34:54+0000"
-                                    }
-                                }
-                            },
-                            {
-                                "id": 2,
-                                "price": "5",
-                                "currency": "eur",
-                                "listing_price_id": 2,
-                                "product_id": null,
-                                "product_group_id": 1,
-                                "listing_price_option": {
-                                    "id": 2,
-                                    "listing_id": 3,
-                                    "price_option_id": 3,
-                                    "created_at": "2024-08-23 13:37:12+0000",
-                                    "updated_at": "2024-08-23 13:37:12+0000",
-                                    "price_option": {
-                                        "id": 3,
-                                        "name": "hour",
-                                        "added_by": 1,
-                                        "created_at": "2024-08-23 13:34:54+0000",
-                                        "updated_at": "2024-08-23 13:34:54+0000"
-                                    }
+                                    "name": "day",
+                                    "added_by": 1,
+                                    "created_at": "2018-01-16 14:41:21+0000",
+                                    "updated_at": "2018-01-16 14:41:21+0000"
                                 }
                             }
-                        ],
-                        "feedback": [],
-                        "serial_numbers": [
-                            {
-                                "id": 2,
-                                "serial_number": "Test item-0",
-                                "product_id": null,
-                                "product_group_id": 1
-                            }
-                        ],
-                        "product_tags": [
-                            {
-                                "id": 1,
-                                "tag_id": 1,
-                                "product_id": null,
-                                "created_at": 1724420306000,
-                                "updated_at": 1724420306000,
-                                "product_group_id": 1,
-                                "tag": {
-                                    "id": 1,
-                                    "name": "",
-                                    "created_at": 1724420306000,
-                                    "updated_at": 1724420306000
+                        },
+                        {
+                            "id": 1211,
+                            "price": "9.9",
+                            "currency": "eur",
+                            "listing_price_id": 20,
+                            "product_id": null,
+                            "product_group_id": 112,
+                            "listing_price_option": {
+                                "id": 20,
+                                "listing_id": 1,
+                                "price_option_id": 3,
+                                "created_at": null,
+                                "updated_at": null,
+                                "price_option": {
+                                    "id": 3,
+                                    "name": "hour",
+                                    "added_by": 1,
+                                    "created_at": null,
+                                    "updated_at": null
                                 }
                             }
-                        ],
-                        "point": null
+                        }
+                    ],
+                    "product_tags": [
+                        {
+                            "id": 397,
+                            "tag_id": 17,
+                            "product_id": null,
+                            "created_at": 1583144672000,
+                            "updated_at": 1583144672000,
+                            "product_group_id": 112,
+                            "tag": {
+                                "id": 17,
+                                "name": "cleaners",
+                                "created_at": 1583138545000,
+                                "updated_at": 1583138545000
+                            }
+                        }
+                    ],
+                    "point": {
+                        "id": 4,
+                        "points": "1",
+                        "rplan_id": null,
+                        "product_id": null,
+                        "product_group_id": 112
                     }
+                },
+                {
+                    "id": 107,
+                    "name": "Power drill",
+                    "details": "<p><span id=\"docs-internal-guid-6e509c3a-233a-f6f6-6e9a-061b3fb2be12\"><span style=\"font-size: 12pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Akkuporavasara - <\/span><\/span><span style=\"background-color: #ffffff; color: #000000; font-family: Arial; font-size: 16px; white-space: pre-wrap;\">W&uuml;rth<\/span><span style=\"color: #000000; font-family: Arial; font-size: 12pt; white-space: pre-wrap;\">&nbsp;H 18-MA Compact<\/span><\/p>\r\n<p><span style=\"font-size: 12pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 12pt; white-space: pre-wrap;\">Kompakti poravasara betonin, kiven ja tiilen poraukseen sek&auml; kevytpiikkaukseen. Ter&auml;koko 6&ndash;10 mm. Paino akun kanssa 2,6 kg. Energiatehokas hiiliharjaton moottori. Tehokas 4,0 Ah:n litiumionivara-akku. Pitk&auml; ty&ouml;skentelyaika yhdell&auml; latauksella. Akkuvarauksen ilmaisin n&auml;ytt&auml;&auml;, paljonko akkua on j&auml;ljell&auml;. LED-valo valaisee ty&ouml;alueen. Nimellisj&auml;nnite 18 V\/DC. &nbsp;Kierrosluku v&auml;hint.\/enint. 0-1400 r\/min. Iskuluku v&auml;hint.\/enint. 0-4550 r\/min. Iskuenergia 1.7 J.<br \/><\/span><\/span><\/span><br \/><span style=\"font-size: 12pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 12pt; white-space: pre-wrap;\">Sis&auml;lt&ouml;:<\/span><\/span><\/span><\/p>\r\n<ul>\r\n<li><span style=\"font-size: 12pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 12pt; white-space: pre-wrap;\">Akkuporavasara <\/span><\/span><\/span><\/li>\r\n<li><span style=\"font-size: 12pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 12pt; white-space: pre-wrap;\">Vaihtoakku (2 kpl)<\/span><\/span><\/span><\/li>\r\n<li><span style=\"font-size: 12pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 12pt; white-space: pre-wrap;\">Akkulaturi<\/span><\/span><\/span><\/li>\r\n<li><span style=\"font-size: 12pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 12pt; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 12pt; white-space: pre-wrap;\">W&uuml;rth iskuporanter&auml;sarja (7-osainen)<\/span><\/span><br \/><\/span><\/span><\/span><\/li>\r\n<li><span style=\"font-size: 12pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 12pt; white-space: pre-wrap;\">Ohjekirjat 2 kpl (akkuporavasara + laturi)<\/span><\/span><\/span><\/li>\r\n<li><span style=\"font-size: 12pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Arial;\"><span style=\"font-size: 12pt; white-space: pre-wrap;\">Kuljetuslaatikko <\/span><\/span><\/span><\/li>\r\n<\/ul>\r\n<p>Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen.&nbsp;<\/p>\r\n<p><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"25slj-0-0\"><br \/><\/span><\/span><\/span><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/span><\/span><\/p>\r\n<p><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\"><a style=\"background-color: #ffffff; color: #23527c; outline: 0px; font-family: 'Source Sans Pro', helvetica, sans-serif; letter-spacing: normal;\" href=\"https:\/\/eshop.wurth.fi\/is-bin\/INTERSHOP.enfinity\/WFS\/3106-B1-Site\/fi_FI\/-\/EUR\/ViewCatalog-Browse?CatalogCategoryRef=31065001020107%40WuerthGroup-Wuerth-3106&amp;CatalogCategoryID=kNUKD92d2usAAAFePJM7AN1F&amp;CampaignName=SR001&amp;SelectedFilterAttribut=%255B%255D\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\">Tuote valmistajan kotisivuilla<\/span><\/a><\/span><\/span><\/span><\/p>",
+                    "status": "available",
+                    "expiry_date": "2028-12-30",
+                    "category_id": 45,
+                    "listing_id": 1,
+                    "added_by": 3,
+                    "product_url": null,
+                    "external_url": null,
+                    "gift_card": null,
+                    "freebie": false,
+                    "free_rental": 0,
+                    "used": 469,
+                    "deleted_at": null,
+                    "created_at": "2019-11-20 14:08:07+0000",
+                    "updated_at": "2025-03-25 10:06:09+0000",
+                    "user_manual": "https:\/\/drive.google.com\/file\/d\/1wAqAttXfPRC3UwJfvoO784vEm92HuMwY\/view?usp=sharing",
+                    "separate": false,
+                    "availability_date": null,
+                    "quality": "",
+                    "product_type": 0,
+                    "name_fi": "Poravasara",
+                    "listingName": "Loan",
+                    "CategoryName": "muu",
+                    "rating": 0,
+                    "price_array": {
+                        "price_hourly": "9.9",
+                        "price_daily": "29",
+                        "price_purchase": null,
+                        "currency": "eur",
+                        "discount_price_hourly": 0,
+                        "discount_price_daily": 0,
+                        "discount_price_purchase": null
+                    },
+                    "product_serial_numbers": "",
+                    "tag_names": "power tools,powertools",
+                    "product_point": null,
+                    "sub_locker_name": null,
+                    "available_products": false,
+                    "api_url": "power-drill-107",
+                    "in_stock": true,
+                    "store_names": "otaniemi,Lempalaa,Vuosaari Columbus,Vuosaari-old,ABC,Oulunkyl\u00e4,Teurastamo Tukkutori,dummyAsoliiteri,Kivist\u00f6,Lauttasaari Tavaralainaamo,Tampere,Matinkyl\u00e4",
+                    "images": [
+                        {
+                            "id": 414,
+                            "name": "vZU2sS2O1KX2HbfFtTWiHnfOLkUDmNQEDZuakLHU.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 438,
+                            "product_group_id": 107
+                        },
+                        {
+                            "id": 38,
+                            "name": "vZU2sS2O1KX2HbfFtTWiHnfOLkUDmNQEDZuakLHU.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 73,
+                            "product_group_id": 107
+                        },
+                        {
+                            "id": 332,
+                            "name": "vZU2sS2O1KX2HbfFtTWiHnfOLkUDmNQEDZuakLHU.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 365,
+                            "product_group_id": 107
+                        },
+                        {
+                            "id": 485,
+                            "name": "vZU2sS2O1KX2HbfFtTWiHnfOLkUDmNQEDZuakLHU.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 521,
+                            "product_group_id": 107
+                        },
+                        {
+                            "id": 680,
+                            "name": "BiDshnh3cI0kKT1jnJB7JgCksF1Mm3qLZFktecHw.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 3,
+                            "product_group_id": 107
+                        },
+                        {
+                            "id": 287,
+                            "name": "vZU2sS2O1KX2HbfFtTWiHnfOLkUDmNQEDZuakLHU.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 320,
+                            "product_group_id": 107
+                        }
+                    ],
+                    "serial_numbers": [],
+                    "feedback": [],
+                    "prices": [
+                        {
+                            "id": 1200,
+                            "price": "29",
+                            "currency": "eur",
+                            "listing_price_id": 1,
+                            "product_id": null,
+                            "product_group_id": 107,
+                            "listing_price_option": {
+                                "id": 1,
+                                "listing_id": 1,
+                                "price_option_id": 1,
+                                "created_at": "2018-01-16 14:41:51+0000",
+                                "updated_at": "2018-01-16 14:41:51+0000",
+                                "price_option": {
+                                    "id": 1,
+                                    "name": "day",
+                                    "added_by": 1,
+                                    "created_at": "2018-01-16 14:41:21+0000",
+                                    "updated_at": "2018-01-16 14:41:21+0000"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1201,
+                            "price": "9.9",
+                            "currency": "eur",
+                            "listing_price_id": 20,
+                            "product_id": null,
+                            "product_group_id": 107,
+                            "listing_price_option": {
+                                "id": 20,
+                                "listing_id": 1,
+                                "price_option_id": 3,
+                                "created_at": null,
+                                "updated_at": null,
+                                "price_option": {
+                                    "id": 3,
+                                    "name": "hour",
+                                    "added_by": 1,
+                                    "created_at": null,
+                                    "updated_at": null
+                                }
+                            }
+                        }
+                    ],
+                    "product_tags": [
+                        {
+                            "id": 323,
+                            "tag_id": 8,
+                            "product_id": null,
+                            "created_at": 1578918438000,
+                            "updated_at": 1578918438000,
+                            "product_group_id": 107,
+                            "tag": {
+                                "id": 8,
+                                "name": "power tools",
+                                "created_at": 1578918368000,
+                                "updated_at": 1578918368000
+                            }
+                        },
+                        {
+                            "id": 324,
+                            "tag_id": 9,
+                            "product_id": null,
+                            "created_at": 1578918438000,
+                            "updated_at": 1578918438000,
+                            "product_group_id": 107,
+                            "tag": {
+                                "id": 9,
+                                "name": "powertools",
+                                "created_at": 1578918368000,
+                                "updated_at": 1578918368000
+                            }
+                        }
+                    ],
+                    "point": null
+                },
+                {
+                    "id": 118,
+                    "name": "A-tikkaat 4-askelmaa",
+                    "details": "<p>4-askelmaiset ty&ouml;tikkaat.&nbsp; Sis&auml;lt&auml;&auml; ty&ouml;kalukaukalon\/maaliastian pidikkeen, max. kuorma 10 kg. Tikkaiden paino n. 7kg<\/p>",
+                    "status": "available",
+                    "expiry_date": "2028-12-30",
+                    "category_id": 45,
+                    "listing_id": 1,
+                    "added_by": 8,
+                    "product_url": null,
+                    "external_url": null,
+                    "gift_card": null,
+                    "freebie": false,
+                    "free_rental": 0,
+                    "used": 364,
+                    "deleted_at": null,
+                    "created_at": "2019-11-20 14:08:08+0000",
+                    "updated_at": "2025-01-31 12:48:03+0000",
+                    "user_manual": "https:\/\/drive.google.com\/file\/d\/1gonHSDYzwVGVBaQDz3rNOUoFEBb_EdAb\/view",
+                    "separate": false,
+                    "availability_date": null,
+                    "quality": "",
+                    "product_type": 0,
+                    "name_fi": "A-tikkaat",
+                    "listingName": "Loan",
+                    "CategoryName": "muu",
+                    "rating": 0,
+                    "price_array": {
+                        "price_hourly": "1",
+                        "price_daily": "5",
+                        "price_purchase": null,
+                        "currency": "eur",
+                        "discount_price_hourly": 0,
+                        "discount_price_daily": 0,
+                        "discount_price_purchase": null
+                    },
+                    "product_serial_numbers": "",
+                    "tag_names": "others",
+                    "product_point": null,
+                    "sub_locker_name": null,
+                    "available_products": false,
+                    "api_url": "a-tikkaat-4-askelmaa-118",
+                    "in_stock": true,
+                    "store_names": "Teurastamo Tukkutori,Lempalaa,Oulunkyl\u00e4,Vuosaari-old,Matinkyl\u00e4,Tampere,Lauttasaari Tavaralainaamo,Kivist\u00f6",
+                    "images": [
+                        {
+                            "id": 569,
+                            "name": "Bf7ztVc2KoMri2jAI7vTIUxKpTNThlqGsP6o65oT.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 599,
+                            "product_group_id": 118
+                        }
+                    ],
+                    "serial_numbers": [],
+                    "feedback": [],
+                    "prices": [
+                        {
+                            "id": 592,
+                            "price": "5",
+                            "currency": "eur",
+                            "listing_price_id": 1,
+                            "product_id": 599,
+                            "product_group_id": 118,
+                            "listing_price_option": {
+                                "id": 1,
+                                "listing_id": 1,
+                                "price_option_id": 1,
+                                "created_at": "2018-01-16 14:41:51+0000",
+                                "updated_at": "2018-01-16 14:41:51+0000",
+                                "price_option": {
+                                    "id": 1,
+                                    "name": "day",
+                                    "added_by": 1,
+                                    "created_at": "2018-01-16 14:41:21+0000",
+                                    "updated_at": "2018-01-16 14:41:21+0000"
+                                }
+                            }
+                        },
+                        {
+                            "id": 608,
+                            "price": "1",
+                            "currency": "eur",
+                            "listing_price_id": 20,
+                            "product_id": 599,
+                            "product_group_id": 118,
+                            "listing_price_option": {
+                                "id": 20,
+                                "listing_id": 1,
+                                "price_option_id": 3,
+                                "created_at": null,
+                                "updated_at": null,
+                                "price_option": {
+                                    "id": 3,
+                                    "name": "hour",
+                                    "added_by": 1,
+                                    "created_at": null,
+                                    "updated_at": null
+                                }
+                            }
+                        }
+                    ],
+                    "product_tags": [
+                        {
+                            "id": 624,
+                            "tag_id": 16,
+                            "product_id": null,
+                            "created_at": 1725313186000,
+                            "updated_at": 1725313186000,
+                            "product_group_id": 118,
+                            "tag": {
+                                "id": 16,
+                                "name": "others",
+                                "created_at": 1578919125000,
+                                "updated_at": 1578919125000
+                            }
+                        }
+                    ],
+                    "point": null
+                },
+                {
+                    "id": 62,
+                    "name": "Akkuruuvinv\u00e4\u00e4nnin",
+                    "details": "<p style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">Akkuiskuruuvinv&auml;&auml;nnin -&nbsp;W&uuml;rth ASS 12-A&nbsp;<\/p>\r\n<p style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">Kevyt W&uuml;rth 12 V: n ruuviv&auml;&auml;nnin. Nimellisj&auml;nnite 12 V\/DC, Kierrosluku v&auml;hint.\/enint. 0-2600 r\/min, Iskuluku v&auml;hint.\/enint. 0-3100 r\/min, Max. v&auml;&auml;nt&ouml;momentti 105 Nm, Soveltuu M4&ndash;M12 ruuveille. Kiinnitystapa 1\/4 tuuman sis&auml;inen kuusiokanta. Tuotteen paino ladattavan akun kanssa 0.96 kg.<\/p>\r\n<p style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">Sis&auml;lt&ouml;:<\/p>\r\n<ul style=\"margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">\r\n<li>Akkuiskuruuvinv&auml;&auml;nnin<\/li>\r\n<li>Vaihtoakku (2 kpl)<\/li>\r\n<li>Akkulaturi<\/li>\r\n<li>V&ouml;lkel poranter&auml;sarja (19 osainen)<\/li>\r\n<li>W&uuml;rth ruuvausk&auml;rkisarja (30 osaa + ruuvausk&auml;rjenpidike)<\/li>\r\n<li>Ohjekirjat 2 kpl (akkuiskuruuvinv&auml;&auml;nnin + laturi)<\/li>\r\n<li>Kuljetuslaatikko<\/li>\r\n<\/ul>\r\n<p style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\"><span lang=\"FI\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen.<br \/><br \/><\/span><span lang=\"FI\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/p>\r\n<p style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\"><a style=\"color: #337ab7; text-decoration-line: none;\" href=\"https:\/\/eshop.wurth.fi\/is-bin\/INTERSHOP.enfinity\/WFS\/3106-B1-Site\/fi_FI\/-\/EUR\/ViewCatalog-Browse?CatalogCategoryRef=31065001030711%40WuerthGroup-Wuerth-3106&amp;CatalogCategoryID=MJcKD92dJWEAAAFe.Z87AN1F&amp;SelectedFilterAttribut=%255B%255D\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\">Tuote valmistajan kotisivuilla<\/span><\/a><\/p>",
+                    "status": "available",
+                    "expiry_date": "2028-12-30",
+                    "category_id": 45,
+                    "listing_id": 1,
+                    "added_by": 3,
+                    "product_url": null,
+                    "external_url": null,
+                    "gift_card": null,
+                    "freebie": false,
+                    "free_rental": 0,
+                    "used": 356,
+                    "deleted_at": null,
+                    "created_at": "2019-11-20 14:08:04+0000",
+                    "updated_at": "2025-01-27 15:25:16+0000",
+                    "user_manual": "https:\/\/drive.google.com\/file\/d\/1wAqAttXfPRC3UwJfvoO784vEm92HuMwY\/view?usp=sharing",
+                    "separate": false,
+                    "availability_date": null,
+                    "quality": "",
+                    "product_type": 0,
+                    "name_fi": null,
+                    "listingName": "Loan",
+                    "CategoryName": "muu",
+                    "rating": 0,
+                    "price_array": {
+                        "price_hourly": "5",
+                        "price_daily": "22",
+                        "price_purchase": null,
+                        "currency": "eur",
+                        "discount_price_hourly": 0,
+                        "discount_price_daily": 0,
+                        "discount_price_purchase": null
+                    },
+                    "product_serial_numbers": "",
+                    "tag_names": "power tools,powertools,powertool",
+                    "product_point": "1",
+                    "sub_locker_name": null,
+                    "available_products": false,
+                    "api_url": "akkuruuvinv----nnin-62",
+                    "in_stock": true,
+                    "store_names": "ABC,Teurastamo Tukkutori,dummyAsoliiteri,otaniemi,Tampere,Lempalaa,Oulunkyl\u00e4,Vuosaari-old,Lauttasaari Tavaralainaamo,Matinkyl\u00e4,Vuosaari Columbus,Kivist\u00f6",
+                    "images": [
+                        {
+                            "id": 66,
+                            "name": "3B7rOm2zRPvQNX1upEeK4dn16gcgCZFZBV9cS8Ka.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 101,
+                            "product_group_id": 62
+                        },
+                        {
+                            "id": 318,
+                            "name": "3B7rOm2zRPvQNX1upEeK4dn16gcgCZFZBV9cS8Ka.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 351,
+                            "product_group_id": 62
+                        },
+                        {
+                            "id": 443,
+                            "name": "3B7rOm2zRPvQNX1upEeK4dn16gcgCZFZBV9cS8Ka.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 467,
+                            "product_group_id": 62
+                        },
+                        {
+                            "id": 510,
+                            "name": "3B7rOm2zRPvQNX1upEeK4dn16gcgCZFZBV9cS8Ka.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 546,
+                            "product_group_id": 62
+                        },
+                        {
+                            "id": 647,
+                            "name": "9eKzpOGFS9LnPMiE6I9hdlfNEXMpXeXXRanklvqq.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 685,
+                            "product_group_id": 62
+                        }
+                    ],
+                    "serial_numbers": [],
+                    "feedback": [],
+                    "prices": [
+                        {
+                            "id": 1202,
+                            "price": "5",
+                            "currency": "eur",
+                            "listing_price_id": 20,
+                            "product_id": null,
+                            "product_group_id": 62,
+                            "listing_price_option": {
+                                "id": 20,
+                                "listing_id": 1,
+                                "price_option_id": 3,
+                                "created_at": null,
+                                "updated_at": null,
+                                "price_option": {
+                                    "id": 3,
+                                    "name": "hour",
+                                    "added_by": 1,
+                                    "created_at": null,
+                                    "updated_at": null
+                                }
+                            }
+                        },
+                        {
+                            "id": 66,
+                            "price": "22",
+                            "currency": "eur",
+                            "listing_price_id": 1,
+                            "product_id": 101,
+                            "product_group_id": 62,
+                            "listing_price_option": {
+                                "id": 1,
+                                "listing_id": 1,
+                                "price_option_id": 1,
+                                "created_at": "2018-01-16 14:41:51+0000",
+                                "updated_at": "2018-01-16 14:41:51+0000",
+                                "price_option": {
+                                    "id": 1,
+                                    "name": "day",
+                                    "added_by": 1,
+                                    "created_at": "2018-01-16 14:41:21+0000",
+                                    "updated_at": "2018-01-16 14:41:21+0000"
+                                }
+                            }
+                        }
+                    ],
+                    "product_tags": [
+                        {
+                            "id": 321,
+                            "tag_id": 8,
+                            "product_id": null,
+                            "created_at": 1578918368000,
+                            "updated_at": 1578918368000,
+                            "product_group_id": 62,
+                            "tag": {
+                                "id": 8,
+                                "name": "power tools",
+                                "created_at": 1578918368000,
+                                "updated_at": 1578918368000
+                            }
+                        },
+                        {
+                            "id": 322,
+                            "tag_id": 9,
+                            "product_id": null,
+                            "created_at": 1578918368000,
+                            "updated_at": 1578918368000,
+                            "product_group_id": 62,
+                            "tag": {
+                                "id": 9,
+                                "name": "powertools",
+                                "created_at": 1578918368000,
+                                "updated_at": 1578918368000
+                            }
+                        },
+                        {
+                            "id": 345,
+                            "tag_id": 18,
+                            "product_id": null,
+                            "created_at": 1583142174000,
+                            "updated_at": 1583142174000,
+                            "product_group_id": 62,
+                            "tag": {
+                                "id": 18,
+                                "name": "powertool",
+                                "created_at": 1583142174000,
+                                "updated_at": 1583142174000
+                            }
+                        }
+                    ],
+                    "point": {
+                        "id": 1,
+                        "points": "1",
+                        "rplan_id": null,
+                        "product_id": 546,
+                        "product_group_id": 62
+                    }
+                },
+                {
+                    "id": 97,
+                    "name": "H\u00f6yrypuhdistin",
+                    "details": "<p><!-- [if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n  <o:AllowPNG\/>\r\n  <o:PixelsPerInch>96<\/o:PixelsPerInch>\r\n <\/o:OfficeDocumentSettings>\r\n<\/xml><![endif]--> <!-- [if gte mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:View>Normal<\/w:View>\r\n  <w:Zoom>0<\/w:Zoom>\r\n  <w:TrackMoves\/>\r\n  <w:TrackFormatting\/>\r\n  <w:PunctuationKerning\/>\r\n  <w:ValidateAgainstSchemas\/>\r\n  <w:SaveIfXMLInvalid>false<\/w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false<\/w:IgnoreMixedContent>\r\n  <w:AlwaysShowPlaceholderText>false<\/w:AlwaysShowPlaceholderText>\r\n  <w:DoNotPromoteQF\/>\r\n  <w:LidThemeOther>EN-GB<\/w:LidThemeOther>\r\n  <w:LidThemeAsian>X-NONE<\/w:LidThemeAsian>\r\n  <w:LidThemeComplexScript>X-NONE<\/w:LidThemeComplexScript>\r\n  <w:Compatibility>\r\n   <w:BreakWrappedTables\/>\r\n   <w:SnapToGridInCell\/>\r\n   <w:WrapTextWithPunct\/>\r\n   <w:UseAsianBreakRules\/>\r\n   <w:DontGrowAutofit\/>\r\n   <w:SplitPgBreakAndParaMark\/>\r\n   <w:EnableOpenTypeKerning\/>\r\n   <w:DontFlipMirrorIndents\/>\r\n   <w:OverrideTableStyleHps\/>\r\n  <\/w:Compatibility>\r\n  <m:mathPr>\r\n   <m:mathFont m:val=\"Cambria Math\"\/>\r\n   <m:brkBin m:val=\"before\"\/>\r\n   <m:brkBinSub m:val=\"&#45;-\"\/>\r\n   <m:smallFrac m:val=\"off\"\/>\r\n   <m:dispDef\/>\r\n   <m:lMargin m:val=\"0\"\/>\r\n   <m:rMargin m:val=\"0\"\/>\r\n   <m:defJc m:val=\"centerGroup\"\/>\r\n   <m:wrapIndent m:val=\"1440\"\/>\r\n   <m:intLim m:val=\"subSup\"\/>\r\n   <m:naryLim m:val=\"undOvr\"\/>\r\n  <\/m:mathPr><\/w:WordDocument>\r\n<\/xml><![endif]--><!-- [if gte mso 9]><xml>\r\n <w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"false\"\r\n  DefSemiHidden=\"false\" DefQFormat=\"false\" DefPriority=\"99\"\r\n  LatentStyleCount=\"382\">\r\n  <w:LsdException Locked=\"false\" Priority=\"0\" QFormat=\"true\" Name=\"Normal\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 7\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 8\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 9\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 7\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 8\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 9\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 7\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 8\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 9\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal Indent\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footnote text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"header\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footer\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index heading\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"35\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"caption\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"table of figures\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"envelope address\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"envelope return\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footnote reference\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation reference\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"line number\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"page number\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"endnote reference\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"endnote text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"table of authorities\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"macro\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"toa heading\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"10\" QFormat=\"true\" Name=\"Title\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Closing\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Signature\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"Default Paragraph Font\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Message Header\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"11\" QFormat=\"true\" Name=\"Subtitle\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Salutation\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Date\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text First Indent\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text First Indent 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Heading\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Block Text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Hyperlink\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"FollowedHyperlink\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"22\" QFormat=\"true\" Name=\"Strong\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"20\" QFormat=\"true\" Name=\"Emphasis\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Document Map\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Plain Text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"E-mail Signature\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Top of Form\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Bottom of Form\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal (Web)\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Acronym\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Address\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Cite\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Code\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Definition\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Keyboard\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Preformatted\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Sample\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Typewriter\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Variable\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal Table\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation subject\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"No List\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 7\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 8\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 7\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 8\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Contemporary\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Elegant\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Professional\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Subtle 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Subtle 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Balloon Text\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"Table Grid\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Theme\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 7\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 8\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 9\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" Name=\"Placeholder Text\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" QFormat=\"true\" Name=\"No Spacing\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" Name=\"Revision\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"34\" QFormat=\"true\"\r\n   Name=\"List Paragraph\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"29\" QFormat=\"true\" Name=\"Quote\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"30\" QFormat=\"true\"\r\n   Name=\"Intense Quote\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"19\" QFormat=\"true\"\r\n   Name=\"Subtle Emphasis\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"21\" QFormat=\"true\"\r\n   Name=\"Intense Emphasis\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"31\" QFormat=\"true\"\r\n   Name=\"Subtle Reference\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"32\" QFormat=\"true\"\r\n   Name=\"Intense Reference\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"33\" QFormat=\"true\" Name=\"Book Title\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"37\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"Bibliography\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"TOC Heading\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"41\" Name=\"Plain Table 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"42\" Name=\"Plain Table 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"43\" Name=\"Plain Table 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"44\" Name=\"Plain Table 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"45\" Name=\"Plain Table 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"40\" Name=\"Grid Table Light\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\" Name=\"Grid Table 1 Light\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\" Name=\"Grid Table 6 Colorful\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\" Name=\"Grid Table 7 Colorful\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\" Name=\"List Table 1 Light\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\" Name=\"List Table 6 Colorful\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\" Name=\"List Table 7 Colorful\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Mention\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Smart Hyperlink\"\/>\r\n <\/w:LatentStyles>\r\n<\/xml><![endif]--><!-- [if gte mso 10]>\r\n<style>\r\n \/* Style Definitions *\/\r\ntable.MsoNormalTable\r\n\t{mso-style-name:\"Table Normal\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n\tmso-style-priority:99;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0cm 5.4pt 0cm 5.4pt;\r\n\tmso-para-margin:0cm;\r\n\tmso-para-margin-bottom:.0001pt;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Calibri\",sans-serif;\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-fareast-language:EN-US;}\r\n<\/style>\r\n<![endif]--> <!--StartFragment--> <!--EndFragment--><\/p>\r\n<p class=\"MsoNormal\">H&ouml;yrypuhdistin - K&auml;rcher SC 4<\/p>\r\n<p class=\"MsoNormal\"><span lang=\"FI\" style=\"font-size: 16.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #2b2b2b; background: white; mso-ansi-language: FI; mso-fareast-language: EN-GB;\">K&auml;rcherin h&ouml;yrypuhdistin SC 4 on aktiivisen k&auml;ytt&auml;j&auml;n tehopuhdistin monipuolisilla ominaisuuksilla. Laitteessa on kaksiportainen h&ouml;yrysuihkun voimakkuuden s&auml;&auml;t&ouml;, k&auml;yt&auml;nn&ouml;lliset s&auml;ilytyspaikat varusteille ja nivelletty Comfort-lattiasuutin, joka kohentaa k&auml;ytt&ouml;mukavuutta ja puhdistustulosta lattioita puhdistettaessa. Suuttimen kekseli&auml;&auml;n rakenteen ansiosta puhdistusliinan vaihtaminen on nopeaa, siisti&auml; ja vaivatonta. H&ouml;yrypesuri puhdistaa kodin kovat pinnat hygieenisesti ilman kemikaaleja ja poistaa 99,99% kotioloissa tavanomaisista bakteereista. H&ouml;yry irrottaa pinttyneen ja rasvaisen lian vaivattomasti ja saavuttaa my&ouml;s hankalat raot, kulmat ja katveet, joihin muutoin on hankala yletty&auml;. Monipuolisten varusteiden avulla on mahdollista puhdistaa tehokkaasti esim. laattapinnat, kaakelisaumat, vesihanat, pesualtaat, liesitasot, rosteripinnat jne. Kaksoiss&auml;ili&ouml; pikat&auml;yt&ouml;ll&auml; mahdollistaa veden lis&auml;&auml;misen lennosta ty&ouml;skentelyn lomassa ilman aikaa viev&auml;&auml; odottelua.<br \/><\/span><\/p>\r\n<p class=\"MsoNormal\" style=\"background: white;\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Sis&auml;lt&ouml;:<\/span><\/p>\r\n<ul>\r\n<li class=\"MsoNormal\" style=\"background: white;\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">H&ouml;yrypuhdistin<\/span><\/li>\r\n<li class=\"MsoNormal\" style=\"background: white;\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">H&ouml;yryletku ja -pistooli<\/span><\/li>\r\n<li class=\"MsoNormal\" style=\"background: white;\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Jatkoputki (2 kpl)<\/span><\/li>\r\n<li class=\"MsoNormal\" style=\"background: white;\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Pistesuihkusuutin<\/span><\/li>\r\n<li class=\"MsoNormal\" style=\"background: white;\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">K&auml;sisuutin<\/span><\/li>\r\n<li class=\"MsoNormal\" style=\"background: white;\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Lattiasuutin<\/span><\/li>\r\n<li class=\"MsoNormal\" style=\"background: white;\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Ohjekirjat (2 kpl)<\/span><\/li>\r\n<\/ul>\r\n<p style=\"padding-left: 30px;\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Pest&auml;v&auml;t v&auml;lineet:<\/span><\/p>\r\n<ul>\r\n<li><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Pieni py&ouml;r&ouml;harja pistesuihkusuuttimelle (2 kpl)<\/span><\/li>\r\n<li><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Froteep&auml;&auml;llyste k&auml;sisuuttimelle (2 kpl)<\/span><\/li>\r\n<li><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Mikrokuitulattialiina lattiasuuttimelle (2 kpl)<\/span><\/li>\r\n<\/ul>\r\n<p class=\"MsoNormal\" style=\"background: white;\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen. H&ouml;yrypesuri mahtuu reppuun.<\/span><\/p>\r\n<p class=\"MsoNormal\"><!-- [if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n  <o:AllowPNG\/>\r\n  <o:PixelsPerInch>96<\/o:PixelsPerInch>\r\n <\/o:OfficeDocumentSettings>\r\n<\/xml><![endif]--> <!-- [if gte mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:View>Normal<\/w:View>\r\n  <w:Zoom>0<\/w:Zoom>\r\n  <w:TrackMoves\/>\r\n  <w:TrackFormatting\/>\r\n  <w:PunctuationKerning\/>\r\n  <w:ValidateAgainstSchemas\/>\r\n  <w:SaveIfXMLInvalid>false<\/w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false<\/w:IgnoreMixedContent>\r\n  <w:AlwaysShowPlaceholderText>false<\/w:AlwaysShowPlaceholderText>\r\n  <w:DoNotPromoteQF\/>\r\n  <w:LidThemeOther>EN-GB<\/w:LidThemeOther>\r\n  <w:LidThemeAsian>X-NONE<\/w:LidThemeAsian>\r\n  <w:LidThemeComplexScript>X-NONE<\/w:LidThemeComplexScript>\r\n  <w:Compatibility>\r\n   <w:BreakWrappedTables\/>\r\n   <w:SnapToGridInCell\/>\r\n   <w:WrapTextWithPunct\/>\r\n   <w:UseAsianBreakRules\/>\r\n   <w:DontGrowAutofit\/>\r\n   <w:SplitPgBreakAndParaMark\/>\r\n   <w:EnableOpenTypeKerning\/>\r\n   <w:DontFlipMirrorIndents\/>\r\n   <w:OverrideTableStyleHps\/>\r\n  <\/w:Compatibility>\r\n  <m:mathPr>\r\n   <m:mathFont m:val=\"Cambria Math\"\/>\r\n   <m:brkBin m:val=\"before\"\/>\r\n   <m:brkBinSub m:val=\"&#45;-\"\/>\r\n   <m:smallFrac m:val=\"off\"\/>\r\n   <m:dispDef\/>\r\n   <m:lMargin m:val=\"0\"\/>\r\n   <m:rMargin m:val=\"0\"\/>\r\n   <m:defJc m:val=\"centerGroup\"\/>\r\n   <m:wrapIndent m:val=\"1440\"\/>\r\n   <m:intLim m:val=\"subSup\"\/>\r\n   <m:naryLim m:val=\"undOvr\"\/>\r\n  <\/m:mathPr><\/w:WordDocument>\r\n<\/xml><![endif]--><!-- [if gte mso 9]><xml>\r\n <w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"false\"\r\n  DefSemiHidden=\"false\" DefQFormat=\"false\" DefPriority=\"99\"\r\n  LatentStyleCount=\"382\">\r\n  <w:LsdException Locked=\"false\" Priority=\"0\" QFormat=\"true\" Name=\"Normal\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 7\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 8\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 9\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 7\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 8\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 9\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 7\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 8\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 9\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal Indent\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footnote text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"header\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footer\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index heading\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"35\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"caption\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"table of figures\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"envelope address\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"envelope return\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footnote reference\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation reference\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"line number\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"page number\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"endnote reference\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"endnote text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"table of authorities\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"macro\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"toa heading\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"10\" QFormat=\"true\" Name=\"Title\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Closing\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Signature\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"Default Paragraph Font\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Message Header\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"11\" QFormat=\"true\" Name=\"Subtitle\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Salutation\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Date\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text First Indent\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text First Indent 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Heading\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Block Text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Hyperlink\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"FollowedHyperlink\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"22\" QFormat=\"true\" Name=\"Strong\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"20\" QFormat=\"true\" Name=\"Emphasis\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Document Map\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Plain Text\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"E-mail Signature\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Top of Form\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Bottom of Form\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal (Web)\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Acronym\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Address\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Cite\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Code\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Definition\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Keyboard\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Preformatted\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Sample\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Typewriter\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Variable\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal Table\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation subject\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"No List\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 7\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 8\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 7\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 8\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Contemporary\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Elegant\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Professional\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Subtle 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Subtle 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Balloon Text\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"Table Grid\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Theme\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 2\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 3\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 4\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 5\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 7\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 8\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 9\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" Name=\"Placeholder Text\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" QFormat=\"true\" Name=\"No Spacing\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" Name=\"Revision\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"34\" QFormat=\"true\"\r\n   Name=\"List Paragraph\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"29\" QFormat=\"true\" Name=\"Quote\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"30\" QFormat=\"true\"\r\n   Name=\"Intense Quote\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"19\" QFormat=\"true\"\r\n   Name=\"Subtle Emphasis\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"21\" QFormat=\"true\"\r\n   Name=\"Intense Emphasis\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"31\" QFormat=\"true\"\r\n   Name=\"Subtle Reference\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"32\" QFormat=\"true\"\r\n   Name=\"Intense Reference\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"33\" QFormat=\"true\" Name=\"Book Title\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"37\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"Bibliography\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"TOC Heading\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"41\" Name=\"Plain Table 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"42\" Name=\"Plain Table 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"43\" Name=\"Plain Table 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"44\" Name=\"Plain Table 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"45\" Name=\"Plain Table 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"40\" Name=\"Grid Table Light\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\" Name=\"Grid Table 1 Light\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\" Name=\"Grid Table 6 Colorful\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\" Name=\"Grid Table 7 Colorful\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\" Name=\"List Table 1 Light\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\" Name=\"List Table 6 Colorful\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\" Name=\"List Table 7 Colorful\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 1\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 2\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 3\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 4\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 5\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 6\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Mention\"\/>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Smart Hyperlink\"\/>\r\n <\/w:LatentStyles>\r\n<\/xml><![endif]--><!-- [if gte mso 10]>\r\n<style>\r\n \/* Style Definitions *\/\r\ntable.MsoNormalTable\r\n\t{mso-style-name:\"Table Normal\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n\tmso-style-priority:99;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0cm 5.4pt 0cm 5.4pt;\r\n\tmso-para-margin:0cm;\r\n\tmso-para-margin-bottom:.0001pt;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Calibri\",sans-serif;\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-fareast-language:EN-US;}\r\n<\/style>\r\n<![endif]--> <!--StartFragment--> <span data-offset-key=\"1i2qj-0-0\"> <!--EndFragment--><\/span><\/p>\r\n<p class=\"MsoNormal\" style=\"background: white;\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/span><\/span><\/p>\r\n<p class=\"MsoNormal\" style=\"background: white;\"><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5544725-000-00.pdf\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">K&auml;ytt&ouml;ohje<\/span><\/span><\/span><\/a><\/p>\r\n<p class=\"MsoNormal\" style=\"background: white;\"><a href=\"https:\/\/www.kaercher.com\/fi\/home-garden\/hoeyrypuhdistimet\/sc-4-yellow-eu-15124500.html\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">Tuote valmistajan kotisivuilla<\/span><\/span><\/span><\/a><\/p>",
+                    "status": "available",
+                    "expiry_date": "2028-12-30",
+                    "category_id": 45,
+                    "listing_id": 1,
+                    "added_by": 3,
+                    "product_url": null,
+                    "external_url": null,
+                    "gift_card": null,
+                    "freebie": false,
+                    "free_rental": 0,
+                    "used": 329,
+                    "deleted_at": null,
+                    "created_at": "2019-11-20 14:08:06+0000",
+                    "updated_at": "2025-03-25 08:13:52+0000",
+                    "user_manual": "https:\/\/drive.google.com\/file\/d\/1TWQghUGTw0BTGgt-UUQ17nP49yDO0r3K\/view?usp=sharing",
+                    "separate": false,
+                    "availability_date": null,
+                    "quality": "",
+                    "product_type": 0,
+                    "name_fi": null,
+                    "listingName": "Loan",
+                    "CategoryName": "muu",
+                    "rating": 0,
+                    "price_array": {
+                        "price_hourly": "8",
+                        "price_daily": "29",
+                        "price_purchase": null,
+                        "currency": "eur",
+                        "discount_price_hourly": 0,
+                        "discount_price_daily": 0,
+                        "discount_price_purchase": null
+                    },
+                    "product_serial_numbers": "H\u00f6yrypuhdistin-0,H\u00f6yrypuhdistin-0,H\u00f6yrypuhdistin-0",
+                    "tag_names": "cleaners",
+                    "product_point": null,
+                    "sub_locker_name": null,
+                    "available_products": false,
+                    "api_url": "h--yrypuhdistin-97",
+                    "in_stock": true,
+                    "store_names": "dummyAsoliiteri,Vuosaari Columbus,ABC,Vuosaari-old,Tampere,Matinkyl\u00e4,Lauttasaari Tavaralainaamo,otaniemi,Teurastamo Tukkutori,Lempalaa,Oulunkyl\u00e4,Kivist\u00f6",
+                    "images": [
+                        {
+                            "id": 312,
+                            "name": "LqPEWcrXCLb0Pmf4JvmBh9WIdxL2QSK38FlOqRUk.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 345,
+                            "product_group_id": 97
+                        },
+                        {
+                            "id": 191,
+                            "name": "XDgtouUYqS8uTKJEjigN7gVrCdUdONvQTDTcwizE.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 227,
+                            "product_group_id": 97
+                        },
+                        {
+                            "id": 437,
+                            "name": "LqPEWcrXCLb0Pmf4JvmBh9WIdxL2QSK38FlOqRUk.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 461,
+                            "product_group_id": 97
+                        },
+                        {
+                            "id": 178,
+                            "name": "h5Lbh49bYGIQoIgHaQF47nSSnDmoE5qtB9ELzVXl.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 214,
+                            "product_group_id": 97
+                        },
+                        {
+                            "id": 179,
+                            "name": "LqPEWcrXCLb0Pmf4JvmBh9WIdxL2QSK38FlOqRUk.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 215,
+                            "product_group_id": 97
+                        },
+                        {
+                            "id": 697,
+                            "name": "XNb6ttf5UMsnoTHre9Go7u5gKBYSz4yrS4ak2dLU.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 664,
+                            "product_group_id": 97
+                        },
+                        {
+                            "id": 357,
+                            "name": "LqPEWcrXCLb0Pmf4JvmBh9WIdxL2QSK38FlOqRUk.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 390,
+                            "product_group_id": 97
+                        },
+                        {
+                            "id": 684,
+                            "name": "VePKU6f0XolLmQMIoi40kns1SRt47DMzxnpTMLwV.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 722,
+                            "product_group_id": 97
+                        }
+                    ],
+                    "serial_numbers": [
+                        {
+                            "id": 144,
+                            "serial_number": "H\u00f6yrypuhdistin-0",
+                            "product_id": 214,
+                            "product_group_id": 97
+                        },
+                        {
+                            "id": 154,
+                            "serial_number": "H\u00f6yrypuhdistin-0",
+                            "product_id": 215,
+                            "product_group_id": 97
+                        },
+                        {
+                            "id": 187,
+                            "serial_number": "H\u00f6yrypuhdistin-0",
+                            "product_id": 390,
+                            "product_group_id": 97
+                        }
+                    ],
+                    "feedback": [],
+                    "prices": [
+                        {
+                            "id": 1207,
+                            "price": "8",
+                            "currency": "eur",
+                            "listing_price_id": 20,
+                            "product_id": null,
+                            "product_group_id": 97,
+                            "listing_price_option": {
+                                "id": 20,
+                                "listing_id": 1,
+                                "price_option_id": 3,
+                                "created_at": null,
+                                "updated_at": null,
+                                "price_option": {
+                                    "id": 3,
+                                    "name": "hour",
+                                    "added_by": 1,
+                                    "created_at": null,
+                                    "updated_at": null
+                                }
+                            }
+                        },
+                        {
+                            "id": 1206,
+                            "price": "29",
+                            "currency": "eur",
+                            "listing_price_id": 1,
+                            "product_id": null,
+                            "product_group_id": 97,
+                            "listing_price_option": {
+                                "id": 1,
+                                "listing_id": 1,
+                                "price_option_id": 1,
+                                "created_at": "2018-01-16 14:41:51+0000",
+                                "updated_at": "2018-01-16 14:41:51+0000",
+                                "price_option": {
+                                    "id": 1,
+                                    "name": "day",
+                                    "added_by": 1,
+                                    "created_at": "2018-01-16 14:41:21+0000",
+                                    "updated_at": "2018-01-16 14:41:21+0000"
+                                }
+                            }
+                        }
+                    ],
+                    "product_tags": [
+                        {
+                            "id": 343,
+                            "tag_id": 17,
+                            "product_id": null,
+                            "created_at": 1583141583000,
+                            "updated_at": 1583141583000,
+                            "product_group_id": 97,
+                            "tag": {
+                                "id": 17,
+                                "name": "cleaners",
+                                "created_at": 1583138545000,
+                                "updated_at": 1583138545000
+                            }
+                        }
+                    ],
+                    "point": null
+                },
+                {
+                    "id": 137,
+                    "name": "Ikkunapesuri",
+                    "details": "<p dir=\"ltr\" style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">Ikkunapesuri - K&auml;rcher WV 5 Plus Non Stop<\/p>\r\n<p dir=\"ltr\" style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">&nbsp;<\/p>\r\n<p dir=\"ltr\" style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">K&auml;rcherin ikkunapesuri on kevyt ja k&auml;ytt&auml;j&auml;yst&auml;v&auml;llinen. Akulla toimiva osaa mahdollistaa pitk&auml;t, yhten&auml;iset ty&ouml;jaksot. Ikkunoiden kuivaus onnistuu siististi karmin reunaan asti imusuulakkeen reunan s&auml;&auml;dett&auml;v&auml;n karmiohjaimen ansiosta.&nbsp;<\/p>\r\n<p dir=\"ltr\" style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">&nbsp;<\/p>\r\n<p dir=\"ltr\" style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">Sis&auml;lt&ouml;:<\/p>\r\n<ul style=\"margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">\r\n<li dir=\"ltr\">Ikkunapesuri<\/li>\r\n<li dir=\"ltr\">Kapea vaihtosuutin<\/li>\r\n<li dir=\"ltr\">Mikrokuituliinan pidike ja suihkepullo<\/li>\r\n<li dir=\"ltr\">Lataustelakka<\/li>\r\n<li dir=\"ltr\">Laturi<\/li>\r\n<li dir=\"ltr\">Vaihtoakku (2 kpl)<\/li>\r\n<li dir=\"ltr\">Lasinpesuneste<\/li>\r\n<li dir=\"ltr\">Ohjeet ( 2 kpl)<\/li>\r\n<\/ul>\r\n<p style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">Pest&auml;v&auml;t v&auml;lineet:<\/p>\r\n<ul style=\"margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">\r\n<li>Vaihtoliina (2 kpl)<\/li>\r\n<\/ul>\r\n<p dir=\"ltr\" style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\"><span lang=\"FI\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen.<br \/><br \/><\/span><span lang=\"FI\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/p>\r\n<p dir=\"ltr\" style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">&nbsp;<\/p>\r\n<p dir=\"ltr\" style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\"><a style=\"color: #337ab7; text-decoration-line: none;\" href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5519234-000-03.pdf\" target=\"_blank\" rel=\"noopener\">K&auml;ytt&ouml;ohje - Ikkunapesuri<\/a><\/p>\r\n<p dir=\"ltr\" style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">&nbsp;<\/p>\r\n<p dir=\"ltr\" style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\"><a style=\"color: #337ab7; text-decoration-line: none;\" href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5433235-000-06.pdf\" target=\"_blank\" rel=\"noopener\">K&auml;ytt&ouml;ohje - Lataustelakka<\/a><\/p>\r\n<p dir=\"ltr\" style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\">&nbsp;<\/p>\r\n<p dir=\"ltr\" style=\"margin-top: 0px; margin-bottom: 10px; color: #3c3c3c; font-family: 'Source Sans Pro', helvetica, sans-serif; background-color: #ffffff;\"><a style=\"color: #337ab7; text-decoration-line: none;\" href=\"https:\/\/www.kaercher.com\/fi\/home-garden\/ikkunapesurit\/ikkunapesuri-wv-5-plus-non-stop-16334470.html\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\">Tuote valmistajan kotisivuilla<\/span><\/a><\/p>",
+                    "status": "available",
+                    "expiry_date": "2026-07-03",
+                    "category_id": 45,
+                    "listing_id": 1,
+                    "added_by": 8,
+                    "product_url": null,
+                    "external_url": null,
+                    "gift_card": null,
+                    "freebie": false,
+                    "free_rental": 0,
+                    "used": 261,
+                    "deleted_at": null,
+                    "created_at": "2019-11-20 14:08:09+0000",
+                    "updated_at": "2025-01-31 13:06:18+0000",
+                    "user_manual": "https:\/\/drive.google.com\/file\/d\/1ljk7d8YX3Io44tgATydNT9fv1ZT9_Dfa\/view?usp=sharing",
+                    "separate": false,
+                    "availability_date": null,
+                    "quality": "",
+                    "product_type": 0,
+                    "name_fi": null,
+                    "listingName": "Loan",
+                    "CategoryName": "muu",
+                    "rating": 0,
+                    "price_array": {
+                        "price_hourly": "5",
+                        "price_daily": "19",
+                        "price_purchase": null,
+                        "currency": "eur",
+                        "discount_price_hourly": 0,
+                        "discount_price_daily": 0,
+                        "discount_price_purchase": null
+                    },
+                    "product_serial_numbers": "",
+                    "tag_names": "cleaners,cleaner",
+                    "product_point": null,
+                    "sub_locker_name": null,
+                    "available_products": false,
+                    "api_url": "ikkunapesuri-137",
+                    "in_stock": true,
+                    "store_names": "Matinkyl\u00e4,Vuosaari Columbus,Tampere,Vuosaari-old,Teurastamo Tukkutori,Lauttasaari Tavaralainaamo,otaniemi,ABC,Oulunkyl\u00e4,dummyAsoliiteri,Kivist\u00f6",
+                    "images": [
+                        {
+                            "id": 190,
+                            "name": "izK84ZTRboNcnKEnZ8a0QnEd3tBA9qK2spnGstsI.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 226,
+                            "product_group_id": 137
+                        },
+                        {
+                            "id": 327,
+                            "name": "UaZtUZNIv9l5Lb07MG5Auwj9OAOCrvuw6zEydhpq.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 360,
+                            "product_group_id": 137
+                        },
+                        {
+                            "id": 452,
+                            "name": "UaZtUZNIv9l5Lb07MG5Auwj9OAOCrvuw6zEydhpq.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 476,
+                            "product_group_id": 137
+                        },
+                        {
+                            "id": 677,
+                            "name": "bEzbSfS0tykEsOPmBaiHC31ltdlHW60ct9pZM6RT.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 716,
+                            "product_group_id": 137
+                        },
+                        {
+                            "id": 219,
+                            "name": "UaZtUZNIv9l5Lb07MG5Auwj9OAOCrvuw6zEydhpq.jpeg",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 255,
+                            "product_group_id": 137
+                        },
+                        {
+                            "id": 378,
+                            "name": "uPI4BYkKj2RAuLh5lWHQA6KKzVjNfHvwbtzqbAMo.png",
+                            "image_url": null,
+                            "show": 1,
+                            "product_id": 405,
+                            "product_group_id": 137
+                        }
+                    ],
+                    "serial_numbers": [],
+                    "feedback": [],
+                    "prices": [
+                        {
+                            "id": 1209,
+                            "price": "5",
+                            "currency": "eur",
+                            "listing_price_id": 20,
+                            "product_id": null,
+                            "product_group_id": 137,
+                            "listing_price_option": {
+                                "id": 20,
+                                "listing_id": 1,
+                                "price_option_id": 3,
+                                "created_at": null,
+                                "updated_at": null,
+                                "price_option": {
+                                    "id": 3,
+                                    "name": "hour",
+                                    "added_by": 1,
+                                    "created_at": null,
+                                    "updated_at": null
+                                }
+                            }
+                        },
+                        {
+                            "id": 183,
+                            "price": "19",
+                            "currency": "eur",
+                            "listing_price_id": 1,
+                            "product_id": 226,
+                            "product_group_id": 137,
+                            "listing_price_option": {
+                                "id": 1,
+                                "listing_id": 1,
+                                "price_option_id": 1,
+                                "created_at": "2018-01-16 14:41:51+0000",
+                                "updated_at": "2018-01-16 14:41:51+0000",
+                                "price_option": {
+                                    "id": 1,
+                                    "name": "day",
+                                    "added_by": 1,
+                                    "created_at": "2018-01-16 14:41:21+0000",
+                                    "updated_at": "2018-01-16 14:41:21+0000"
+                                }
+                            }
+                        }
+                    ],
+                    "product_tags": [
+                        {
+                            "id": 346,
+                            "tag_id": 17,
+                            "product_id": null,
+                            "created_at": 1583142224000,
+                            "updated_at": 1583142224000,
+                            "product_group_id": 137,
+                            "tag": {
+                                "id": 17,
+                                "name": "cleaners",
+                                "created_at": 1583138545000,
+                                "updated_at": 1583138545000
+                            }
+                        },
+                        {
+                            "id": 347,
+                            "tag_id": 19,
+                            "product_id": null,
+                            "created_at": 1583142224000,
+                            "updated_at": 1583142224000,
+                            "product_group_id": 137,
+                            "tag": {
+                                "id": 19,
+                                "name": "cleaner",
+                                "created_at": 1583142224000,
+                                "updated_at": 1583142224000
+                            }
+                        }
+                    ],
+                    "point": null
                 }
-            }
-        ]
+            ],
+            "first_page_url": "http:\/\/dev-api.liiteri.net\/api\/en\/products?page=1",
+            "from": 1,
+            "last_page": 25,
+            "last_page_url": "http:\/\/dev-api.liiteri.net\/api\/en\/products?page=25",
+            "next_page_url": "http:\/\/dev-api.liiteri.net\/api\/en\/products?page=2",
+            "path": "http:\/\/dev-api.liiteri.net\/api\/en\/products",
+            "per_page": "6",
+            "prev_page_url": null,
+            "to": 6,
+            "total": 148
+        }
     },
     "status": "success",
     "error": false

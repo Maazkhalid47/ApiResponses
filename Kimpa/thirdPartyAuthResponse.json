@@ -1,50 +1,49 @@
 {
-    "success" : {
-      "code" : 200,
-      "data" : {
-        "user" : {
-          "userKey" : "a20c6528940f7fc59957324ea56f57e9",
-          "firstName" : "Muhammad Maaz",
-          "lastName" : "Khalid",
-          "email" : "maaz.khalid@progstream.com",
-          "phone" : "358123123",
-          "status" : 1,
-          "emailVerified" : true,
-          "phoneVerified" : false,
-          "newsletterSubscription" : false,
-          "hasApp" : false,
-          "createdAt" : 1762858323706,
-          "updatedAt" : 1762858342195,
-          "isBankVerified" : false,
-          "fullName" : null,
-          "roles" : [ ],
-          "image" : null,
-          "organization" : null,
-          "location" : {
-            "id" : 1826,
-            "latitude" : 60.16985569999999,
-            "longitude" : 24.938379,
-            "streetAddress" : "Helsinki, Finland",
-            "apartment" : null,
-            "city" : "Helsinki",
-            "state" : null,
-            "country" : "Finland",
-            "postalCode" : null,
-            "status" : 1,
-            "modelId" : 1838,
-            "modelType" : "user",
-            "type" : 1,
-            "userId" : 1838,
-            "user" : null,
-            "createdAt" : 1762858323721,
-            "updatedAt" : 1762858342222
-          },
-          "fcmToken" : null,
-          "emailSend" : null
+  "success": {
+    "code": 200,
+    "data": {
+      "user": {
+        "userKey": "b6f893a0d0b394ef6fb852cdef8f7da9",
+        "firstName": "Umar",
+        "lastName": "Ail",
+        "email": "umar3151193318@gmail.com",
+        "phone": null,
+        "status": 1,
+        "emailVerified": true,
+        "phoneVerified": false,
+        "newsletterSubscription": false,
+        "hasApp": false,
+        "createdAt": 1768905060150,
+        "updatedAt": 1768905060150,
+        "isBankVerified": false,
+        "fullName": null,
+        "roles": [],
+        "image": null,
+        "organization": null,
+        "location": {
+          "id": 1928,
+          "latitude": 60.16985569999999,
+          "longitude": 24.938379,
+          "streetAddress": "Helsinki, Finland",
+          "apartment": null,
+          "city": "Helsinki",
+          "state": null,
+          "country": "Finland",
+          "postalCode": null,
+          "status": 1,
+          "modelId": 1940,
+          "modelType": "user",
+          "type": 1,
+          "userId": 1940,
+          "user": null,
+          "createdAt": 1768905060162,
+          "updatedAt": 1768905060162
         },
-        "token" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczovL2lkZW50aXR5LWFwaS5jb3Jlb3JpZW50LmNvbS9tZSIsIm5hbWUiOiJtYWF6LmtoYWxpZEBwcm9nc3RyZWFtLmNvbSIsImlzcyI6Imh0dHBzOi8vaWRlbnRpdHktYXBpLmNvcmVvcmllbnQuY29tLyIsImV4cCI6MTc3MDk3MDg2OCwidXNlcktleSI6ImEyMGM2NTI4OTQwZjdmYzU5OTU3MzI0ZWE1NmY1N2U5In0.IK8I4JGcks2H-tFfMGgldf4vNTFIYsdSjsfKsXD3dzU",
-        "tokenForMobileApp" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczovL3BiLWFwaS5raW1wcGFreXlkaXQuY29tL21lIiwibmFtZSI6Im1hYXoua2hhbGlkQHByb2dzdHJlYW0uY29tIiwiaXNzIjoiaHR0cHM6Ly9wYi1hcGkua2ltcHBha3l5ZGl0LmNvbSIsImV4cCI6MTc3MDk3MDg2OCwidXNlcktleSI6ImEyMGM2NTI4OTQwZjdmYzU5OTU3MzI0ZWE1NmY1N2U5In0.1W4MrNFwt-v4JqIT905yiyrG0w-5GyvTIB8maEqU8xE"
+        "fcmToken": null,
+        "emailSend": null
       },
-      "message" : "RESPONSE.USER.LOGIN"
-    }
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczovL2lkZW50aXR5LWFwaS5jb3Jlb3JpZW50LmNvbS9tZSIsIm5hbWUiOiJ1bWFyMzE1MTE5MzMxOEBnbWFpbC5jb20iLCJpc3MiOiJodHRwczovL2lkZW50aXR5LWFwaS5jb3Jlb3JpZW50LmNvbS8iLCJleHAiOjE3NzE1MDA4NzIsInVzZXJLZXkiOiJiNmY4OTNhMGQwYjM5NGVmNmZiODUyY2RlZjhmN2RhOSJ9.0rQb2n15B6QsDe6wczOW2Ra2f83MGbEhNLKhL3BYMNw",
+    },
+    "message": "RESPONSE.USER.LOGIN"
   }
+}

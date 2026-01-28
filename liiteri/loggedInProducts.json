@@ -1,7 +1,7 @@
 {
     "id": 112,
     "name": "Tekstiilipesuri",
-    "details": "<p>Tekstiilipesuri - K&auml;rcher Professional Puzzi 10/1</p>\r\n<p>&nbsp;</p>\r\n<p>K&auml;rcher Puzzi 10/1 on s&auml;&auml;nn&ouml;lliseen ammattik&auml;ytt&ouml;&ouml;n mitoitettu tekstiilipesuri / painehuuhtelulaite. Tehokas ty&ouml;kalu mattojen, kangasverhoiltujen huonekalujen, auton istuimien ja sis&auml;verhoilujen puhdistukseen. Laite toimii verkkovirralla .</p>\r\n<p>Painehuuhtelu j&auml;tt&auml;&auml; pinnan raikkaan puhtaaksi, ja tehokkaan kuivauksen ansiosta kohde kuivuu nopeasti k&auml;ytt&ouml;valmiiksi. Lujarakenteinen, varmatoiminen kone ja j&auml;mer&auml;t pesuvarusteet kest&auml;v&auml;t p&auml;ivitt&auml;isess&auml; ammattik&auml;yt&ouml;ss&auml;</p>\r\n<p>Pumpun teho 40 W, j&auml;nnite 220 - 240 V, paino 10,7 kg, mitat 71 cm x 33 cm x 42 cm.</p>\r\n<p>Sis&auml;lt&ouml;:</p>\r\n<p>Pesuri</p>\r\n<p>Imuputki k&auml;sikahvalla</p>\r\n<p>max 2dl nestem&auml;aist&auml; pesuainetta sis&auml;ltyy vuokrahintaan.</p>\r\n<p>(Mattosuutin ja jatkoputki eiv&auml;t ole saatavilla Espoon keskuksessa)</p>\r\n<p>Imuletku integroidulla vedensy&ouml;t&ouml;ll&auml;</p>\r\n<p>Lattiasuulake kokolattiamatolle</p>\r\n<p>K&auml;sisuulake huonekalujen ja pehmusteverhoilujen puhdistamiseen</p>\r\n<p>Rakosuutin.</p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen. Huom! Tekstiilipesuri ei mahdu reppuun, mutta reppu on k&auml;tev&auml; laitteen irroitettaville osille.</span></span></p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">(Mattosuutin ja jatkoputki eiv&auml;t ole saatavilla Espoon keskuksessa)</span></span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.</span></span></p>\r\n<p><a href=\"https://s1.kaercher-media.com/documents/manuals/raw/000/BTA-5366346-000-01.pdf\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">K&auml;ytt&ouml;ohje</span></span></span></a></p>\r\n<p><a href=\"https://www.kaercher.com/fi/professional/mattojen-ja-tekstiilien-puhdistuslaitteet/painehuuhtelukoneet/puzzi-10-1-11001310.html\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">Tuote valmistajan kotisivuilla</span></span></span></a></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">&nbsp;</span></span></p>",
+    "details": "",
     "status": "available",
     "expiry_date": "2029-12-30",
     "category_id": 27,
@@ -30,8 +30,8 @@
         "price_daily": "29",
         "price_purchase": null,
         "currency": "eur",
-        "discount_price_hourly": 9.9,
-        "discount_price_daily": 29,
+        "discount_price_hourly": 7.92,
+        "discount_price_daily": 23.2,
         "discount_price_purchase": null
     },
     "product_serial_numbers": "",
