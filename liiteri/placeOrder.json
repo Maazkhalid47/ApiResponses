@@ -1,0 +1,21 @@
+{
+    "code": 203,
+    "data": {
+        "object": {
+            "user_id": 3501,
+            "cart_id": 9840,
+            "order_type": "Loan",
+            "status": "pending",
+            "payment_method": "stripe",
+            "payment_status": "unpaid",
+            "total_price_payable": "0",
+            "updated_at": "2026-01-29 10:48:01+0000",
+            "created_at": 1769683681000,
+            "id": 7307,
+            "reference_id": "LIT-07307",
+            "store_location": "Lepp\u00e4vaara"
+        }
+    },
+    "status": "success",
+    "error": false
+}

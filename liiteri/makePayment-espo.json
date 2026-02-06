@@ -1,0 +1,530 @@
+{
+    "code": 200,
+    "data": {
+        "object": {
+            "id": 7307,
+            "reference_id": "LIT-07307",
+            "total_price_payable": "0",
+            "payment_status": "paid",
+            "payment_method": "stripe",
+            "status": "confirmed",
+            "order_type": "Loan",
+            "user_id": 3501,
+            "cart_id": 9840,
+            "created_at": 1769683681000,
+            "updated_at": "2026-01-29 10:48:02+0000",
+            "store_location": "Lepp\u00e4vaara",
+            "user": {
+                "id": 3501,
+                "user_key": "7dd81b8aa982552f312fd7849671af37",
+                "display_name": null,
+                "about_me": null,
+                "language": "en",
+                "test_account": false,
+                "store_id": 15,
+                "terms_accepted": false,
+                "fullname": "MaazKhalidEspoUserThree ",
+                "discount_percent": 100,
+                "user": {
+                    "id": 3545,
+                    "username": null,
+                    "email": "maaz.khalid+espouser3@progstream.com",
+                    "phone": "123213323423432",
+                    "user_type": "user",
+                    "uid": null,
+                    "uid_from": null,
+                    "account_from": "liiteri",
+                    "status": "active",
+                    "created_at": "2026-01-29 10:12:18+0000",
+                    "updated_at": "2026-01-29 10:19:48+0000",
+                    "stripe_id": "cus_TsdbvG9WrRkkJI",
+                    "first_name": "MaazKhalidEspoUserThree",
+                    "last_name": null,
+                    "email_verified": true,
+                    "phone_verified": false,
+                    "ssn_encrypted": false,
+                    "terms_conditions": null,
+                    "userRoles": [
+                        "coreorient_user",
+                        "store_customer"
+                    ],
+                    "properties": {
+                        "tupas": "verified",
+                        "profile": "complete"
+                    },
+                    "user_referer": "N2RkODFiOGFhOTgyNTUyZjMxMmZkNzg0OTY3MWFmMzc=",
+                    "yit_address": "",
+                    "yit_group": []
+                }
+            },
+            "cart": {
+                "id": 9840,
+                "session_id": "0c78445eed3dddb68dd33ad6b0771ced",
+                "reference_number": null,
+                "user_id": 3501,
+                "status": "confirmed",
+                "total_price": "0",
+                "created_at": "2026-01-29 10:47:08+0000",
+                "updated_at": "2026-01-29 10:48:02+0000",
+                "store_id": null,
+                "total_loan_price": 19.8,
+                "total_purchase_price": 0,
+                "store_location": "Lepp\u00e4vaara",
+                "product_name": "Tekstiilipesuri",
+                "cart_products": [
+                    {
+                        "id": 11704,
+                        "cart_id": 9840,
+                        "product_id": 1261,
+                        "unit_price": "9.9",
+                        "unit_discount": "0",
+                        "quantity": 1,
+                        "price": "19.8",
+                        "delivery_method": "pickup",
+                        "start_dt": "2026-01-29 11:00:00+00",
+                        "end_dt": "2026-01-29 13:00:00+00",
+                        "pickup_dt": null,
+                        "dropoff_dt": null,
+                        "status": "confirmed",
+                        "deleted_at": null,
+                        "product_price_id": 1211,
+                        "start_date": 1769684400000,
+                        "end_date": 1769691600000,
+                        "product_daily_price": 0,
+                        "product_hourly_price": 19.8,
+                        "product": {
+                            "id": 1261,
+                            "name": null,
+                            "details": null,
+                            "location": "",
+                            "quantity": 1,
+                            "status": "active",
+                            "expiry_date": null,
+                            "store_id": 15,
+                            "category_id": null,
+                            "listing_id": null,
+                            "added_by": 2376,
+                            "created_at": "2026-01-19 20:11:01+0000",
+                            "updated_at": "2026-01-29 10:48:05+0000",
+                            "discount": "0",
+                            "deleted_at": null,
+                            "external_url": null,
+                            "product_url": null,
+                            "free_rental": 0,
+                            "shelf_number": "1",
+                            "place": "shelf",
+                            "freebie": false,
+                            "gift_card": null,
+                            "used": 4,
+                            "product_group_id": 112,
+                            "available_quantity": -3,
+                            "sub_locker_name": null,
+                            "product_in_use": {
+                                "id": 7307,
+                                "reference_id": "LIT-07307",
+                                "total_price_payable": "0",
+                                "payment_status": "paid",
+                                "payment_method": "stripe",
+                                "status": "confirmed",
+                                "order_type": "Loan",
+                                "user_id": 3501,
+                                "cart_id": 9840,
+                                "created_at": 1769683681000,
+                                "updated_at": "2026-01-29 10:48:02+0000",
+                                "store_location": "Lepp\u00e4vaara"
+                            },
+                            "product_groups": {
+                                "id": 112,
+                                "name": "Tekstiilipesuri",
+                                "details": "<p>Tekstiilipesuri - K&auml;rcher Professional Puzzi 10\/1<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>K&auml;rcher Puzzi 10\/1 on s&auml;&auml;nn&ouml;lliseen ammattik&auml;ytt&ouml;&ouml;n mitoitettu tekstiilipesuri \/ painehuuhtelulaite. Tehokas ty&ouml;kalu mattojen, kangasverhoiltujen huonekalujen, auton istuimien ja sis&auml;verhoilujen puhdistukseen. Laite toimii verkkovirralla .<\/p>\r\n<p>Painehuuhtelu j&auml;tt&auml;&auml; pinnan raikkaan puhtaaksi, ja tehokkaan kuivauksen ansiosta kohde kuivuu nopeasti k&auml;ytt&ouml;valmiiksi. Lujarakenteinen, varmatoiminen kone ja j&auml;mer&auml;t pesuvarusteet kest&auml;v&auml;t p&auml;ivitt&auml;isess&auml; ammattik&auml;yt&ouml;ss&auml;<\/p>\r\n<p>Pumpun teho 40 W, j&auml;nnite 220 - 240 V, paino 10,7 kg, mitat 71 cm x 33 cm x 42 cm.<\/p>\r\n<p>Sis&auml;lt&ouml;:<\/p>\r\n<p>Pesuri<\/p>\r\n<p>Imuputki k&auml;sikahvalla<\/p>\r\n<p>max 2dl nestem&auml;aist&auml; pesuainetta sis&auml;ltyy vuokrahintaan.<\/p>\r\n<p>(Mattosuutin ja jatkoputki eiv&auml;t ole saatavilla Espoon keskuksessa)<\/p>\r\n<p>Imuletku integroidulla vedensy&ouml;t&ouml;ll&auml;<\/p>\r\n<p>Lattiasuulake kokolattiamatolle<\/p>\r\n<p>K&auml;sisuulake huonekalujen ja pehmusteverhoilujen puhdistamiseen<\/p>\r\n<p>Rakosuutin.<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen. Huom! Tekstiilipesuri ei mahdu reppuun, mutta reppu on k&auml;tev&auml; laitteen irroitettaville osille.<\/span><\/span><\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">(Mattosuutin ja jatkoputki eiv&auml;t ole saatavilla Espoon keskuksessa)<\/span><\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/span><\/p>\r\n<p><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5366346-000-01.pdf\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">K&auml;ytt&ouml;ohje<\/span><\/span><\/span><\/a><\/p>\r\n<p><a href=\"https:\/\/www.kaercher.com\/fi\/professional\/mattojen-ja-tekstiilien-puhdistuslaitteet\/painehuuhtelukoneet\/puzzi-10-1-11001310.html\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">Tuote valmistajan kotisivuilla<\/span><\/span><\/span><\/a><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">&nbsp;<\/span><\/span><\/p>",
+                                "status": "available",
+                                "expiry_date": "2026-07-03",
+                                "category_id": 45,
+                                "listing_id": 1,
+                                "added_by": 3,
+                                "product_url": null,
+                                "external_url": null,
+                                "gift_card": null,
+                                "freebie": false,
+                                "free_rental": 0,
+                                "used": 845,
+                                "deleted_at": null,
+                                "created_at": "2019-11-20 14:08:07+0000",
+                                "updated_at": "2026-01-29 10:48:04+0000",
+                                "user_manual": "https:\/\/drive.google.com\/file\/d\/18KRZrVhngY-qgQa0-srwDZbVBzurRN4Z\/view?usp=sharing",
+                                "separate": false,
+                                "availability_date": "2020-09-03 09:03:37+00",
+                                "quality": "high",
+                                "product_type": 0,
+                                "name_fi": "Tekstiilipesuri",
+                                "listingName": "Loan",
+                                "CategoryName": "muu",
+                                "rating": 0,
+                                "price_array": {
+                                    "price_hourly": "9.9",
+                                    "price_daily": "29",
+                                    "price_purchase": null,
+                                    "currency": "eur",
+                                    "discount_price_hourly": 0,
+                                    "discount_price_daily": 0,
+                                    "discount_price_purchase": null
+                                },
+                                "product_serial_numbers": "Tekstiilipesuri-0,Tekstiilipesuri-0,Tekstiilipesuri-0",
+                                "tag_names": "cleaners",
+                                "product_point": "1",
+                                "sub_locker_name": null,
+                                "available_products": false,
+                                "api_url": "tekstiilipesuri-112",
+                                "in_stock": true,
+                                "store_names": "Lempalaa,dummyAsoliiteri,ABC,Tampere,Vuosaari-old,Teurastamo Tukkutori,Lauttasaari Tavaralainaamo,Oulunkyl\u00e4,Kivist\u00f6,Matinkyl\u00e4,Vuosaari Columbus,Lepp\u00e4vaara",
+                                "prices": [
+                                    {
+                                        "id": 1210,
+                                        "price": "29",
+                                        "currency": "eur",
+                                        "listing_price_id": 1,
+                                        "product_id": null,
+                                        "product_group_id": 112,
+                                        "listing_price_option": {
+                                            "id": 1,
+                                            "listing_id": 1,
+                                            "price_option_id": 1,
+                                            "created_at": "2018-01-16 14:41:51+0000",
+                                            "updated_at": "2018-01-16 14:41:51+0000",
+                                            "price_option": {
+                                                "id": 1,
+                                                "name": "day",
+                                                "added_by": 1,
+                                                "created_at": "2018-01-16 14:41:21+0000",
+                                                "updated_at": "2018-01-16 14:41:21+0000"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "id": 1211,
+                                        "price": "9.9",
+                                        "currency": "eur",
+                                        "listing_price_id": 20,
+                                        "product_id": null,
+                                        "product_group_id": 112,
+                                        "listing_price_option": {
+                                            "id": 20,
+                                            "listing_id": 1,
+                                            "price_option_id": 3,
+                                            "created_at": null,
+                                            "updated_at": null,
+                                            "price_option": {
+                                                "id": 3,
+                                                "name": "hour",
+                                                "added_by": 1,
+                                                "created_at": null,
+                                                "updated_at": null
+                                            }
+                                        }
+                                    }
+                                ],
+                                "feedback": [],
+                                "serial_numbers": [
+                                    {
+                                        "id": 199,
+                                        "serial_number": "Tekstiilipesuri-0",
+                                        "product_id": 368,
+                                        "product_group_id": 112
+                                    },
+                                    {
+                                        "id": 163,
+                                        "serial_number": "Tekstiilipesuri-0",
+                                        "product_id": 196,
+                                        "product_group_id": 112
+                                    },
+                                    {
+                                        "id": 179,
+                                        "serial_number": "Tekstiilipesuri-0",
+                                        "product_id": 22,
+                                        "product_group_id": 112
+                                    }
+                                ],
+                                "product_tags": [
+                                    {
+                                        "id": 397,
+                                        "tag_id": 17,
+                                        "product_id": null,
+                                        "created_at": 1583144672000,
+                                        "updated_at": 1583144672000,
+                                        "product_group_id": 112,
+                                        "tag": {
+                                            "id": 17,
+                                            "name": "cleaners",
+                                            "created_at": 1583138545000,
+                                            "updated_at": 1583138545000
+                                        }
+                                    }
+                                ],
+                                "point": {
+                                    "id": 4,
+                                    "points": "1",
+                                    "rplan_id": null,
+                                    "product_id": null,
+                                    "product_group_id": 112
+                                }
+                            },
+                            "store": {
+                                "id": 15,
+                                "name": "Lepp\u00e4vaara",
+                                "latitude": "60.225475",
+                                "longitude": "24.810131",
+                                "location": "Ver\u00e4j\u00e4pellonkatu 1, 02650 Espoo"
+                            }
+                        }
+                    }
+                ],
+                "user": {
+                    "id": 3501,
+                    "user_key": "7dd81b8aa982552f312fd7849671af37",
+                    "display_name": null,
+                    "about_me": null,
+                    "language": "en",
+                    "test_account": false,
+                    "store_id": 15,
+                    "terms_accepted": false,
+                    "fullname": "MaazKhalidEspoUserThree ",
+                    "discount_percent": 100,
+                    "user": {
+                        "id": 3545,
+                        "username": null,
+                        "email": "maaz.khalid+espouser3@progstream.com",
+                        "phone": "123213323423432",
+                        "user_type": "user",
+                        "uid": null,
+                        "uid_from": null,
+                        "account_from": "liiteri",
+                        "status": "active",
+                        "created_at": "2026-01-29 10:12:18+0000",
+                        "updated_at": "2026-01-29 10:19:48+0000",
+                        "stripe_id": "cus_TsdbvG9WrRkkJI",
+                        "first_name": "MaazKhalidEspoUserThree",
+                        "last_name": null,
+                        "email_verified": true,
+                        "phone_verified": false,
+                        "ssn_encrypted": false,
+                        "terms_conditions": null,
+                        "userRoles": [
+                            "coreorient_user",
+                            "store_customer"
+                        ],
+                        "properties": {
+                            "tupas": "verified",
+                            "profile": "complete"
+                        },
+                        "user_referer": "N2RkODFiOGFhOTgyNTUyZjMxMmZkNzg0OTY3MWFmMzc=",
+                        "yit_address": "",
+                        "yit_group": []
+                    }
+                },
+                "loan_products": [
+                    {
+                        "id": 11704,
+                        "cart_id": 9840,
+                        "product_id": 1261,
+                        "unit_price": "9.9",
+                        "unit_discount": "0",
+                        "quantity": 1,
+                        "price": "19.8",
+                        "delivery_method": "pickup",
+                        "start_dt": "2026-01-29 11:00:00+00",
+                        "end_dt": "2026-01-29 13:00:00+00",
+                        "pickup_dt": null,
+                        "dropoff_dt": null,
+                        "status": "booked",
+                        "deleted_at": null,
+                        "product_price_id": 1211,
+                        "start_date": 1769684400000,
+                        "end_date": 1769691600000,
+                        "product_daily_price": 0,
+                        "product_hourly_price": 19.8,
+                        "product": {
+                            "id": 1261,
+                            "name": null,
+                            "details": null,
+                            "location": "",
+                            "quantity": 1,
+                            "status": "active",
+                            "expiry_date": null,
+                            "store_id": 15,
+                            "category_id": null,
+                            "listing_id": null,
+                            "added_by": 2376,
+                            "created_at": "2026-01-19 20:11:01+0000",
+                            "updated_at": "2026-01-29 10:48:05+0000",
+                            "discount": "0",
+                            "deleted_at": null,
+                            "external_url": null,
+                            "product_url": null,
+                            "free_rental": 0,
+                            "shelf_number": "1",
+                            "place": "shelf",
+                            "freebie": false,
+                            "gift_card": null,
+                            "used": 4,
+                            "product_group_id": 112,
+                            "available_quantity": -3,
+                            "sub_locker_name": null,
+                            "product_in_use": {
+                                "id": 7307,
+                                "reference_id": "LIT-07307",
+                                "total_price_payable": "0",
+                                "payment_status": "paid",
+                                "payment_method": "stripe",
+                                "status": "confirmed",
+                                "order_type": "Loan",
+                                "user_id": 3501,
+                                "cart_id": 9840,
+                                "created_at": 1769683681000,
+                                "updated_at": "2026-01-29 10:48:02+0000",
+                                "store_location": "Lepp\u00e4vaara"
+                            },
+                            "product_groups": {
+                                "id": 112,
+                                "name": "Tekstiilipesuri",
+                                "details": "<p>Tekstiilipesuri - K&auml;rcher Professional Puzzi 10\/1<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>K&auml;rcher Puzzi 10\/1 on s&auml;&auml;nn&ouml;lliseen ammattik&auml;ytt&ouml;&ouml;n mitoitettu tekstiilipesuri \/ painehuuhtelulaite. Tehokas ty&ouml;kalu mattojen, kangasverhoiltujen huonekalujen, auton istuimien ja sis&auml;verhoilujen puhdistukseen. Laite toimii verkkovirralla .<\/p>\r\n<p>Painehuuhtelu j&auml;tt&auml;&auml; pinnan raikkaan puhtaaksi, ja tehokkaan kuivauksen ansiosta kohde kuivuu nopeasti k&auml;ytt&ouml;valmiiksi. Lujarakenteinen, varmatoiminen kone ja j&auml;mer&auml;t pesuvarusteet kest&auml;v&auml;t p&auml;ivitt&auml;isess&auml; ammattik&auml;yt&ouml;ss&auml;<\/p>\r\n<p>Pumpun teho 40 W, j&auml;nnite 220 - 240 V, paino 10,7 kg, mitat 71 cm x 33 cm x 42 cm.<\/p>\r\n<p>Sis&auml;lt&ouml;:<\/p>\r\n<p>Pesuri<\/p>\r\n<p>Imuputki k&auml;sikahvalla<\/p>\r\n<p>max 2dl nestem&auml;aist&auml; pesuainetta sis&auml;ltyy vuokrahintaan.<\/p>\r\n<p>(Mattosuutin ja jatkoputki eiv&auml;t ole saatavilla Espoon keskuksessa)<\/p>\r\n<p>Imuletku integroidulla vedensy&ouml;t&ouml;ll&auml;<\/p>\r\n<p>Lattiasuulake kokolattiamatolle<\/p>\r\n<p>K&auml;sisuulake huonekalujen ja pehmusteverhoilujen puhdistamiseen<\/p>\r\n<p>Rakosuutin.<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">Liiteriss&auml; on joitakin valkoisia Purjeb&auml;git-reppuja, jollaisen voi lainata tarvikelainan yhteydess&auml;. Repun avulla tavaraa saa kuljetettua helposti my&ouml;s py&ouml;r&auml;ll&auml; ajaen. Huom! Tekstiilipesuri ei mahdu reppuun, mutta reppu on k&auml;tev&auml; laitteen irroitettaville osille.<\/span><\/span><\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">(Mattosuutin ja jatkoputki eiv&auml;t ole saatavilla Espoon keskuksessa)<\/span><\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">Laitteen ja muiden lainattujen tarvikkeiden pit&auml;&auml; olla palautettaessa uudelleen lainattavassa kunnossa seuraavaa asiakasta varten.<\/span><\/span><\/p>\r\n<p><a href=\"https:\/\/s1.kaercher-media.com\/documents\/manuals\/raw\/000\/BTA-5366346-000-01.pdf\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">K&auml;ytt&ouml;ohje<\/span><\/span><\/span><\/a><\/p>\r\n<p><a href=\"https:\/\/www.kaercher.com\/fi\/professional\/mattojen-ja-tekstiilien-puhdistuslaitteet\/painehuuhtelukoneet\/puzzi-10-1-11001310.html\" target=\"_blank\" rel=\"noopener\"><span lang=\"FI\" style=\"font-size: 10.5pt; font-family: 'inherit',serif; mso-fareast-font-family: '\\.SFNSText-Regular'; color: #1d2129; letter-spacing: -.1pt; mso-ansi-language: FI;\"><span data-text=\"true\"><span data-offset-key=\"3u314-0-0\">Tuote valmistajan kotisivuilla<\/span><\/span><\/span><\/a><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"color: #1d2129; font-family: inherit, serif;\"><span style=\"letter-spacing: -0.133333px;\">&nbsp;<\/span><\/span><\/p>",
+                                "status": "available",
+                                "expiry_date": "2026-07-03",
+                                "category_id": 45,
+                                "listing_id": 1,
+                                "added_by": 3,
+                                "product_url": null,
+                                "external_url": null,
+                                "gift_card": null,
+                                "freebie": false,
+                                "free_rental": 0,
+                                "used": 845,
+                                "deleted_at": null,
+                                "created_at": "2019-11-20 14:08:07+0000",
+                                "updated_at": "2026-01-29 10:48:04+0000",
+                                "user_manual": "https:\/\/drive.google.com\/file\/d\/18KRZrVhngY-qgQa0-srwDZbVBzurRN4Z\/view?usp=sharing",
+                                "separate": false,
+                                "availability_date": "2020-09-03 09:03:37+00",
+                                "quality": "high",
+                                "product_type": 0,
+                                "name_fi": "Tekstiilipesuri",
+                                "listingName": "Loan",
+                                "CategoryName": "muu",
+                                "rating": 0,
+                                "price_array": {
+                                    "price_hourly": "9.9",
+                                    "price_daily": "29",
+                                    "price_purchase": null,
+                                    "currency": "eur",
+                                    "discount_price_hourly": 0,
+                                    "discount_price_daily": 0,
+                                    "discount_price_purchase": null
+                                },
+                                "product_serial_numbers": "Tekstiilipesuri-0,Tekstiilipesuri-0,Tekstiilipesuri-0",
+                                "tag_names": "cleaners",
+                                "product_point": "1",
+                                "sub_locker_name": null,
+                                "available_products": false,
+                                "api_url": "tekstiilipesuri-112",
+                                "in_stock": true,
+                                "store_names": "Lempalaa,dummyAsoliiteri,ABC,Tampere,Vuosaari-old,Teurastamo Tukkutori,Lauttasaari Tavaralainaamo,Oulunkyl\u00e4,Kivist\u00f6,Matinkyl\u00e4,Vuosaari Columbus,Lepp\u00e4vaara",
+                                "prices": [
+                                    {
+                                        "id": 1210,
+                                        "price": "29",
+                                        "currency": "eur",
+                                        "listing_price_id": 1,
+                                        "product_id": null,
+                                        "product_group_id": 112,
+                                        "listing_price_option": {
+                                            "id": 1,
+                                            "listing_id": 1,
+                                            "price_option_id": 1,
+                                            "created_at": "2018-01-16 14:41:51+0000",
+                                            "updated_at": "2018-01-16 14:41:51+0000",
+                                            "price_option": {
+                                                "id": 1,
+                                                "name": "day",
+                                                "added_by": 1,
+                                                "created_at": "2018-01-16 14:41:21+0000",
+                                                "updated_at": "2018-01-16 14:41:21+0000"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "id": 1211,
+                                        "price": "9.9",
+                                        "currency": "eur",
+                                        "listing_price_id": 20,
+                                        "product_id": null,
+                                        "product_group_id": 112,
+                                        "listing_price_option": {
+                                            "id": 20,
+                                            "listing_id": 1,
+                                            "price_option_id": 3,
+                                            "created_at": null,
+                                            "updated_at": null,
+                                            "price_option": {
+                                                "id": 3,
+                                                "name": "hour",
+                                                "added_by": 1,
+                                                "created_at": null,
+                                                "updated_at": null
+                                            }
+                                        }
+                                    }
+                                ],
+                                "feedback": [],
+                                "serial_numbers": [
+                                    {
+                                        "id": 199,
+                                        "serial_number": "Tekstiilipesuri-0",
+                                        "product_id": 368,
+                                        "product_group_id": 112
+                                    },
+                                    {
+                                        "id": 163,
+                                        "serial_number": "Tekstiilipesuri-0",
+                                        "product_id": 196,
+                                        "product_group_id": 112
+                                    },
+                                    {
+                                        "id": 179,
+                                        "serial_number": "Tekstiilipesuri-0",
+                                        "product_id": 22,
+                                        "product_group_id": 112
+                                    }
+                                ],
+                                "product_tags": [
+                                    {
+                                        "id": 397,
+                                        "tag_id": 17,
+                                        "product_id": null,
+                                        "created_at": 1583144672000,
+                                        "updated_at": 1583144672000,
+                                        "product_group_id": 112,
+                                        "tag": {
+                                            "id": 17,
+                                            "name": "cleaners",
+                                            "created_at": 1583138545000,
+                                            "updated_at": 1583138545000
+                                        }
+                                    }
+                                ],
+                                "point": {
+                                    "id": 4,
+                                    "points": "1",
+                                    "rplan_id": null,
+                                    "product_id": null,
+                                    "product_group_id": 112
+                                }
+                            }
+                        }
+                    }
+                ],
+                "purchase_products": []
+            }
+        }
+    },
+    "status": "success",
+    "error": false
+}
